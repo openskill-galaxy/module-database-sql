@@ -1,0 +1,5272 @@
+[
+  {
+    "id": "db-lesson-001",
+    "courseId": "db-course-01",
+    "order": 1,
+    "title": "数据库概念与DBMS",
+    "slug": "数据库概念与DBMS",
+    "summary": "数据库概念与DBMS章节",
+    "content": "# 数据库概念与DBMS\n\n数据库概念与DBMS内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-001"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000001",
+      "db-q-000002",
+      "db-q-000029",
+      "db-q-000036",
+      "db-q-000038"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-002",
+    "courseId": "db-course-01",
+    "order": 2,
+    "title": "数据模型分类",
+    "slug": "数据模型分类",
+    "summary": "数据模型分类章节",
+    "content": "# 数据模型分类\n\n数据模型分类内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-002"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000001",
+      "db-q-000002",
+      "db-q-000029",
+      "db-q-000036",
+      "db-q-000038"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-003",
+    "courseId": "db-course-01",
+    "order": 3,
+    "title": "数据库发展历史",
+    "slug": "数据库发展历史",
+    "summary": "数据库发展历史章节",
+    "content": "# 数据库发展历史\n\n数据库发展历史内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-003"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000001",
+      "db-q-000002",
+      "db-q-000029",
+      "db-q-000036",
+      "db-q-000038"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-004",
+    "courseId": "db-course-01",
+    "order": 4,
+    "title": "数据库学习路线",
+    "slug": "数据库学习路线",
+    "summary": "数据库学习路线章节",
+    "content": "# 数据库学习路线\n\n数据库学习路线内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-004"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000001",
+      "db-q-000002",
+      "db-q-000029",
+      "db-q-000036",
+      "db-q-000038"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-005",
+    "courseId": "db-course-02",
+    "order": 1,
+    "title": "关系模型概念",
+    "slug": "关系模型概念",
+    "summary": "关系模型概念章节",
+    "content": "# 关系模型概念\n\n关系模型概念内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-005",
+      "db-kp-006"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000003",
+      "db-q-000004",
+      "db-q-000041",
+      "db-q-000046",
+      "db-q-000050"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-006",
+    "courseId": "db-course-02",
+    "order": 2,
+    "title": "码与完整性",
+    "slug": "码与完整性",
+    "summary": "码与完整性章节",
+    "content": "# 码与完整性\n\n码与完整性内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-007",
+      "db-kp-008"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000003",
+      "db-q-000004",
+      "db-q-000041",
+      "db-q-000046",
+      "db-q-000050"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-007",
+    "courseId": "db-course-02",
+    "order": 3,
+    "title": "关系代数选择投影",
+    "slug": "关系代数选择投影",
+    "summary": "关系代数选择投影章节",
+    "content": "# 关系代数选择投影\n\n关系代数选择投影内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-009",
+      "db-kp-010"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000003",
+      "db-q-000004",
+      "db-q-000041",
+      "db-q-000046",
+      "db-q-000050"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-008",
+    "courseId": "db-course-02",
+    "order": 4,
+    "title": "关系代数连接",
+    "slug": "关系代数连接",
+    "summary": "关系代数连接章节",
+    "content": "# 关系代数连接\n\n关系代数连接内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-011"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000003",
+      "db-q-000004",
+      "db-q-000041",
+      "db-q-000046",
+      "db-q-000050"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-009",
+    "courseId": "db-course-02",
+    "order": 5,
+    "title": "关系代数除法",
+    "slug": "关系代数除法",
+    "summary": "关系代数除法章节",
+    "content": "# 关系代数除法\n\n关系代数除法内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-012"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000003",
+      "db-q-000004",
+      "db-q-000041",
+      "db-q-000046",
+      "db-q-000050"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-010",
+    "courseId": "db-course-03",
+    "order": 1,
+    "title": "SELECT基础语法",
+    "slug": "SELECT基础语法",
+    "summary": "SELECT基础语法章节",
+    "content": "# SELECT基础语法\n\nSELECT基础语法内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-013"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-011",
+    "courseId": "db-course-03",
+    "order": 2,
+    "title": "列别名",
+    "slug": "列别名",
+    "summary": "列别名章节",
+    "content": "# 列别名\n\n列别名内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-014"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-012",
+    "courseId": "db-course-03",
+    "order": 3,
+    "title": "DISTINCT去重",
+    "slug": "DISTINCT去重",
+    "summary": "DISTINCT去重章节",
+    "content": "# DISTINCT去重\n\nDISTINCT去重内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-015"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-013",
+    "courseId": "db-course-03",
+    "order": 4,
+    "title": "LIMIT限制",
+    "slug": "LIMIT限制",
+    "summary": "LIMIT限制章节",
+    "content": "# LIMIT限制\n\nLIMIT限制内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-016"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-014",
+    "courseId": "db-course-04",
+    "order": 1,
+    "title": "WHERE条件",
+    "slug": "WHERE条件",
+    "summary": "WHERE条件章节",
+    "content": "# WHERE条件\n\nWHERE条件内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-017"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-015",
+    "courseId": "db-course-04",
+    "order": 2,
+    "title": "LIKE模糊匹配",
+    "slug": "LIKE模糊匹配",
+    "summary": "LIKE模糊匹配章节",
+    "content": "# LIKE模糊匹配\n\nLIKE模糊匹配内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-018"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-016",
+    "courseId": "db-course-04",
+    "order": 3,
+    "title": "BETWEEN与IN",
+    "slug": "BETWEEN与IN",
+    "summary": "BETWEEN与IN章节",
+    "content": "# BETWEEN与IN\n\nBETWEEN与IN内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-019"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-017",
+    "courseId": "db-course-04",
+    "order": 4,
+    "title": "NULL处理",
+    "slug": "NULL处理",
+    "summary": "NULL处理章节",
+    "content": "# NULL处理\n\nNULL处理内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-020"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-018",
+    "courseId": "db-course-04",
+    "order": 5,
+    "title": "ORDER BY排序",
+    "slug": "ORDER-BY排序",
+    "summary": "ORDER BY排序章节",
+    "content": "# ORDER BY排序\n\nORDER BY排序内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-021"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-019",
+    "courseId": "db-course-04",
+    "order": 6,
+    "title": "LIMIT分页",
+    "slug": "LIMIT分页",
+    "summary": "LIMIT分页章节",
+    "content": "# LIMIT分页\n\nLIMIT分页内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-022"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-020",
+    "courseId": "db-course-05",
+    "order": 1,
+    "title": "COUNT函数",
+    "slug": "COUNT函数",
+    "summary": "COUNT函数章节",
+    "content": "# COUNT函数\n\nCOUNT函数内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-023"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000008",
+      "db-q-000009",
+      "db-q-000043",
+      "db-q-000062",
+      "db-q-000069"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-021",
+    "courseId": "db-course-05",
+    "order": 2,
+    "title": "SUM与AVG",
+    "slug": "SUM与AVG",
+    "summary": "SUM与AVG章节",
+    "content": "# SUM与AVG\n\nSUM与AVG内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-024"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000008",
+      "db-q-000009",
+      "db-q-000043",
+      "db-q-000062",
+      "db-q-000069"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-022",
+    "courseId": "db-course-05",
+    "order": 3,
+    "title": "MAX与MIN",
+    "slug": "MAX与MIN",
+    "summary": "MAX与MIN章节",
+    "content": "# MAX与MIN\n\nMAX与MIN内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-025"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000008",
+      "db-q-000009",
+      "db-q-000043",
+      "db-q-000062",
+      "db-q-000069"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-023",
+    "courseId": "db-course-05",
+    "order": 4,
+    "title": "GROUP BY分组",
+    "slug": "GROUP-BY分组",
+    "summary": "GROUP BY分组章节",
+    "content": "# GROUP BY分组\n\nGROUP BY分组内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-026",
+      "db-kp-027"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000008",
+      "db-q-000009",
+      "db-q-000043",
+      "db-q-000062",
+      "db-q-000069"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-024",
+    "courseId": "db-course-05",
+    "order": 5,
+    "title": "HAVING过滤",
+    "slug": "HAVING过滤",
+    "summary": "HAVING过滤章节",
+    "content": "# HAVING过滤\n\nHAVING过滤内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-028"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000008",
+      "db-q-000009",
+      "db-q-000043",
+      "db-q-000062",
+      "db-q-000069"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-025",
+    "courseId": "db-course-05",
+    "order": 6,
+    "title": "聚合综合案例",
+    "slug": "聚合综合案例",
+    "summary": "聚合综合案例章节",
+    "content": "# 聚合综合案例\n\n聚合综合案例内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-029"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000008",
+      "db-q-000009",
+      "db-q-000043",
+      "db-q-000062",
+      "db-q-000069"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-026",
+    "courseId": "db-course-06",
+    "order": 1,
+    "title": "INNER JOIN",
+    "slug": "INNER-JOIN",
+    "summary": "INNER JOIN章节",
+    "content": "# INNER JOIN\n\nINNER JOIN内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-030",
+      "db-kp-031"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-027",
+    "courseId": "db-course-06",
+    "order": 2,
+    "title": "LEFT JOIN",
+    "slug": "LEFT-JOIN",
+    "summary": "LEFT JOIN章节",
+    "content": "# LEFT JOIN\n\nLEFT JOIN内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-032"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-028",
+    "courseId": "db-course-06",
+    "order": 3,
+    "title": "RIGHT JOIN",
+    "slug": "RIGHT-JOIN",
+    "summary": "RIGHT JOIN章节",
+    "content": "# RIGHT JOIN\n\nRIGHT JOIN内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-033"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-029",
+    "courseId": "db-course-06",
+    "order": 4,
+    "title": "FULL JOIN",
+    "slug": "FULL-JOIN",
+    "summary": "FULL JOIN章节",
+    "content": "# FULL JOIN\n\nFULL JOIN内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-034"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-030",
+    "courseId": "db-course-06",
+    "order": 5,
+    "title": "自连接",
+    "slug": "自连接",
+    "summary": "自连接章节",
+    "content": "# 自连接\n\n自连接内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-035"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-031",
+    "courseId": "db-course-06",
+    "order": 6,
+    "title": "多表连接",
+    "slug": "多表连接",
+    "summary": "多表连接章节",
+    "content": "# 多表连接\n\n多表连接内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-036"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-032",
+    "courseId": "db-course-07",
+    "order": 1,
+    "title": "标量子查询",
+    "slug": "标量子查询",
+    "summary": "标量子查询章节",
+    "content": "# 标量子查询\n\n标量子查询内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-037"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000012",
+      "db-q-000013",
+      "db-q-000045",
+      "db-q-000053",
+      "db-q-000065"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-033",
+    "courseId": "db-course-07",
+    "order": 2,
+    "title": "行子查询",
+    "slug": "行子查询",
+    "summary": "行子查询章节",
+    "content": "# 行子查询\n\n行子查询内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-038"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000012",
+      "db-q-000013",
+      "db-q-000045",
+      "db-q-000053",
+      "db-q-000065"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-034",
+    "courseId": "db-course-07",
+    "order": 3,
+    "title": "表子查询",
+    "slug": "表子查询",
+    "summary": "表子查询章节",
+    "content": "# 表子查询\n\n表子查询内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-039"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000012",
+      "db-q-000013",
+      "db-q-000045",
+      "db-q-000053",
+      "db-q-000065"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-035",
+    "courseId": "db-course-07",
+    "order": 4,
+    "title": "EXISTS子查询",
+    "slug": "EXISTS子查询",
+    "summary": "EXISTS子查询章节",
+    "content": "# EXISTS子查询\n\nEXISTS子查询内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-040",
+      "db-kp-041"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000012",
+      "db-q-000013",
+      "db-q-000045",
+      "db-q-000053",
+      "db-q-000065"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-036",
+    "courseId": "db-course-07",
+    "order": 5,
+    "title": "UNION并集",
+    "slug": "UNION并集",
+    "summary": "UNION并集章节",
+    "content": "# UNION并集\n\nUNION并集内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-042"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000012",
+      "db-q-000013",
+      "db-q-000045",
+      "db-q-000053",
+      "db-q-000065"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-037",
+    "courseId": "db-course-07",
+    "order": 6,
+    "title": "INTERSECT与EXCEPT",
+    "slug": "INTERSECT与EXCEPT",
+    "summary": "INTERSECT与EXCEPT章节",
+    "content": "# INTERSECT与EXCEPT\n\nINTERSECT与EXCEPT内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-043"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000012",
+      "db-q-000013",
+      "db-q-000045",
+      "db-q-000053",
+      "db-q-000065"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-038",
+    "courseId": "db-course-08",
+    "order": 1,
+    "title": "CREATE TABLE",
+    "slug": "CREATE-TABLE",
+    "summary": "CREATE TABLE章节",
+    "content": "# CREATE TABLE\n\nCREATE TABLE内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-044"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-039",
+    "courseId": "db-course-08",
+    "order": 2,
+    "title": "数据类型详解",
+    "slug": "数据类型详解",
+    "summary": "数据类型详解章节",
+    "content": "# 数据类型详解\n\n数据类型详解内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-045"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-040",
+    "courseId": "db-course-08",
+    "order": 3,
+    "title": "NOT NULL约束",
+    "slug": "NOT-NULL约束",
+    "summary": "NOT NULL约束章节",
+    "content": "# NOT NULL约束\n\nNOT NULL约束内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-046"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-041",
+    "courseId": "db-course-08",
+    "order": 4,
+    "title": "UNIQUE约束",
+    "slug": "UNIQUE约束",
+    "summary": "UNIQUE约束章节",
+    "content": "# UNIQUE约束\n\nUNIQUE约束内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-047"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-042",
+    "courseId": "db-course-08",
+    "order": 5,
+    "title": "PRIMARY KEY",
+    "slug": "PRIMARY-KEY",
+    "summary": "PRIMARY KEY章节",
+    "content": "# PRIMARY KEY\n\nPRIMARY KEY内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-048"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-043",
+    "courseId": "db-course-08",
+    "order": 6,
+    "title": "FOREIGN KEY",
+    "slug": "FOREIGN-KEY",
+    "summary": "FOREIGN KEY章节",
+    "content": "# FOREIGN KEY\n\nFOREIGN KEY内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-049",
+      "db-kp-050"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-044",
+    "courseId": "db-course-08",
+    "order": 7,
+    "title": "CHECK约束",
+    "slug": "CHECK约束",
+    "summary": "CHECK约束章节",
+    "content": "# CHECK约束\n\nCHECK约束内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-051"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-045",
+    "courseId": "db-course-08",
+    "order": 8,
+    "title": "DEFAULT默认值",
+    "slug": "DEFAULT默认值",
+    "summary": "DEFAULT默认值章节",
+    "content": "# DEFAULT默认值\n\nDEFAULT默认值内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-052"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-046",
+    "courseId": "db-course-08",
+    "order": 9,
+    "title": "ALTER TABLE",
+    "slug": "ALTER-TABLE",
+    "summary": "ALTER TABLE章节",
+    "content": "# ALTER TABLE\n\nALTER TABLE内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-053"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-047",
+    "courseId": "db-course-09",
+    "order": 1,
+    "title": "索引概念",
+    "slug": "索引概念",
+    "summary": "索引概念章节",
+    "content": "# 索引概念\n\n索引概念内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-054"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000016",
+      "db-q-000017",
+      "db-q-000040",
+      "db-q-000049",
+      "db-q-000051"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-048",
+    "courseId": "db-course-09",
+    "order": 2,
+    "title": "B+树索引",
+    "slug": "B-树索引",
+    "summary": "B+树索引章节",
+    "content": "# B+树索引\n\nB+树索引内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-055",
+      "db-kp-056"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000016",
+      "db-q-000017",
+      "db-q-000040",
+      "db-q-000049",
+      "db-q-000051"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-049",
+    "courseId": "db-course-09",
+    "order": 3,
+    "title": "聚簇索引",
+    "slug": "聚簇索引",
+    "summary": "聚簇索引章节",
+    "content": "# 聚簇索引\n\n聚簇索引内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-057"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000016",
+      "db-q-000017",
+      "db-q-000040",
+      "db-q-000049",
+      "db-q-000051"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-050",
+    "courseId": "db-course-09",
+    "order": 4,
+    "title": "非聚簇索引",
+    "slug": "非聚簇索引",
+    "summary": "非聚簇索引章节",
+    "content": "# 非聚簇索引\n\n非聚簇索引内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-058"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000016",
+      "db-q-000017",
+      "db-q-000040",
+      "db-q-000049",
+      "db-q-000051"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-051",
+    "courseId": "db-course-09",
+    "order": 5,
+    "title": "复合索引",
+    "slug": "复合索引",
+    "summary": "复合索引章节",
+    "content": "# 复合索引\n\n复合索引内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-059"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000016",
+      "db-q-000017",
+      "db-q-000040",
+      "db-q-000049",
+      "db-q-000051"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-052",
+    "courseId": "db-course-09",
+    "order": 6,
+    "title": "EXPLAIN执行计划",
+    "slug": "EXPLAIN执行计划",
+    "summary": "EXPLAIN执行计划章节",
+    "content": "# EXPLAIN执行计划\n\nEXPLAIN执行计划内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-060"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000016",
+      "db-q-000017",
+      "db-q-000040",
+      "db-q-000049",
+      "db-q-000051"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-053",
+    "courseId": "db-course-09",
+    "order": 7,
+    "title": "SQL优化",
+    "slug": "SQL优化",
+    "summary": "SQL优化章节",
+    "content": "# SQL优化\n\nSQL优化内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-061",
+      "db-kp-062"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000016",
+      "db-q-000017",
+      "db-q-000040",
+      "db-q-000049",
+      "db-q-000051"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-054",
+    "courseId": "db-course-10",
+    "order": 1,
+    "title": "事务定义",
+    "slug": "事务定义",
+    "summary": "事务定义章节",
+    "content": "# 事务定义\n\n事务定义内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-063"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000018",
+      "db-q-000019",
+      "db-q-000020",
+      "db-q-000027",
+      "db-q-000032"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-055",
+    "courseId": "db-course-10",
+    "order": 2,
+    "title": "ACID特性",
+    "slug": "ACID特性",
+    "summary": "ACID特性章节",
+    "content": "# ACID特性\n\nACID特性内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-064",
+      "db-kp-065"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000018",
+      "db-q-000019",
+      "db-q-000020",
+      "db-q-000027",
+      "db-q-000032"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-056",
+    "courseId": "db-course-10",
+    "order": 3,
+    "title": "COMMIT与ROLLBACK",
+    "slug": "COMMIT与ROLLBACK",
+    "summary": "COMMIT与ROLLBACK章节",
+    "content": "# COMMIT与ROLLBACK\n\nCOMMIT与ROLLBACK内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-066"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000018",
+      "db-q-000019",
+      "db-q-000020",
+      "db-q-000027",
+      "db-q-000032"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-057",
+    "courseId": "db-course-10",
+    "order": 4,
+    "title": "并发问题",
+    "slug": "并发问题",
+    "summary": "并发问题章节",
+    "content": "# 并发问题\n\n并发问题内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-067"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000018",
+      "db-q-000019",
+      "db-q-000020",
+      "db-q-000027",
+      "db-q-000032"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-058",
+    "courseId": "db-course-10",
+    "order": 5,
+    "title": "脏读",
+    "slug": "脏读",
+    "summary": "脏读章节",
+    "content": "# 脏读\n\n脏读内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-068"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000018",
+      "db-q-000019",
+      "db-q-000020",
+      "db-q-000027",
+      "db-q-000032"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-059",
+    "courseId": "db-course-10",
+    "order": 6,
+    "title": "不可重复读",
+    "slug": "不可重复读",
+    "summary": "不可重复读章节",
+    "content": "# 不可重复读\n\n不可重复读内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-069"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000018",
+      "db-q-000019",
+      "db-q-000020",
+      "db-q-000027",
+      "db-q-000032"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-060",
+    "courseId": "db-course-10",
+    "order": 7,
+    "title": "幻读",
+    "slug": "幻读",
+    "summary": "幻读章节",
+    "content": "# 幻读\n\n幻读内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "db-kp-070"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000018",
+      "db-q-000019",
+      "db-q-000020",
+      "db-q-000027",
+      "db-q-000032"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-061",
+    "courseId": "db-course-10",
+    "order": 8,
+    "title": "隔离级别",
+    "slug": "隔离级别",
+    "summary": "隔离级别章节",
+    "content": "# 隔离级别\n\n隔离级别内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-071",
+      "db-kp-072"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000018",
+      "db-q-000019",
+      "db-q-000020",
+      "db-q-000027",
+      "db-q-000032"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-062",
+    "courseId": "db-course-10",
+    "order": 9,
+    "title": "MVCC原理",
+    "slug": "MVCC原理",
+    "summary": "MVCC原理章节",
+    "content": "# MVCC原理\n\nMVCC原理内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-073"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000018",
+      "db-q-000019",
+      "db-q-000020",
+      "db-q-000027",
+      "db-q-000032"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-063",
+    "courseId": "db-course-10",
+    "order": 10,
+    "title": "封锁机制",
+    "slug": "封锁机制",
+    "summary": "封锁机制章节",
+    "content": "# 封锁机制\n\n封锁机制内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-074"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000018",
+      "db-q-000019",
+      "db-q-000020",
+      "db-q-000027",
+      "db-q-000032"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-064",
+    "courseId": "db-course-11",
+    "order": 1,
+    "title": "第一范式1NF",
+    "slug": "第一范式1NF",
+    "summary": "第一范式1NF章节",
+    "content": "# 第一范式1NF\n\n第一范式1NF内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-075"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000021",
+      "db-q-000022",
+      "db-q-000030",
+      "db-q-000037",
+      "db-q-000044"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-065",
+    "courseId": "db-course-11",
+    "order": 2,
+    "title": "第二范式2NF",
+    "slug": "第二范式2NF",
+    "summary": "第二范式2NF章节",
+    "content": "# 第二范式2NF\n\n第二范式2NF内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-076"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000021",
+      "db-q-000022",
+      "db-q-000030",
+      "db-q-000037",
+      "db-q-000044"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-066",
+    "courseId": "db-course-11",
+    "order": 3,
+    "title": "第三范式3NF",
+    "slug": "第三范式3NF",
+    "summary": "第三范式3NF章节",
+    "content": "# 第三范式3NF\n\n第三范式3NF内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-077"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000021",
+      "db-q-000022",
+      "db-q-000030",
+      "db-q-000037",
+      "db-q-000044"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-067",
+    "courseId": "db-course-11",
+    "order": 4,
+    "title": "BCNF",
+    "slug": "BCNF",
+    "summary": "BCNF章节",
+    "content": "# BCNF\n\nBCNF内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-078"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000021",
+      "db-q-000022",
+      "db-q-000030",
+      "db-q-000037",
+      "db-q-000044"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-068",
+    "courseId": "db-course-11",
+    "order": 5,
+    "title": "函数依赖",
+    "slug": "函数依赖",
+    "summary": "函数依赖章节",
+    "content": "# 函数依赖\n\n函数依赖内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-079",
+      "db-kp-080"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000021",
+      "db-q-000022",
+      "db-q-000030",
+      "db-q-000037",
+      "db-q-000044"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-069",
+    "courseId": "db-course-11",
+    "order": 6,
+    "title": "无损分解",
+    "slug": "无损分解",
+    "summary": "无损分解章节",
+    "content": "# 无损分解\n\n无损分解内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-081"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000021",
+      "db-q-000022",
+      "db-q-000030",
+      "db-q-000037",
+      "db-q-000044"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-070",
+    "courseId": "db-course-11",
+    "order": 7,
+    "title": "依赖保持",
+    "slug": "依赖保持",
+    "summary": "依赖保持章节",
+    "content": "# 依赖保持\n\n依赖保持内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-082"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000021",
+      "db-q-000022",
+      "db-q-000030",
+      "db-q-000037",
+      "db-q-000044"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-071",
+    "courseId": "db-course-12",
+    "order": 1,
+    "title": "ER图基本元素",
+    "slug": "ER图基本元素",
+    "summary": "ER图基本元素章节",
+    "content": "# ER图基本元素\n\nER图基本元素内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-083"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-072",
+    "courseId": "db-course-12",
+    "order": 2,
+    "title": "实体与属性",
+    "slug": "实体与属性",
+    "summary": "实体与属性章节",
+    "content": "# 实体与属性\n\n实体与属性内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-084"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-073",
+    "courseId": "db-course-12",
+    "order": 3,
+    "title": "联系与基数",
+    "slug": "联系与基数",
+    "summary": "联系与基数章节",
+    "content": "# 联系与基数\n\n联系与基数内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-085",
+      "db-kp-086"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-074",
+    "courseId": "db-course-12",
+    "order": 4,
+    "title": "弱实体",
+    "slug": "弱实体",
+    "summary": "弱实体章节",
+    "content": "# 弱实体\n\n弱实体内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-087"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-075",
+    "courseId": "db-course-12",
+    "order": 5,
+    "title": "ER图转关系模式",
+    "slug": "ER图转关系模式",
+    "summary": "ER图转关系模式章节",
+    "content": "# ER图转关系模式\n\nER图转关系模式内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-088",
+      "db-kp-089"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-076",
+    "courseId": "db-course-13",
+    "order": 1,
+    "title": "学生选课系统",
+    "slug": "学生选课系统",
+    "summary": "学生选课系统章节",
+    "content": "# 学生选课系统\n\n学生选课系统内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-090"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000025",
+      "db-q-000048",
+      "db-q-000057",
+      "db-q-000085",
+      "db-q-000088"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-077",
+    "courseId": "db-course-13",
+    "order": 2,
+    "title": "图书管理系统",
+    "slug": "图书管理系统",
+    "summary": "图书管理系统章节",
+    "content": "# 图书管理系统\n\n图书管理系统内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-091"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000025",
+      "db-q-000048",
+      "db-q-000057",
+      "db-q-000085",
+      "db-q-000088"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-078",
+    "courseId": "db-course-13",
+    "order": 3,
+    "title": "电商系统",
+    "slug": "电商系统",
+    "summary": "电商系统章节",
+    "content": "# 电商系统\n\n电商系统内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-092"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000025",
+      "db-q-000048",
+      "db-q-000057",
+      "db-q-000085",
+      "db-q-000088"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-079",
+    "courseId": "db-course-13",
+    "order": 4,
+    "title": "订单与商品查询",
+    "slug": "订单与商品查询",
+    "summary": "订单与商品查询章节",
+    "content": "# 订单与商品查询\n\n订单与商品查询内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-093"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000025",
+      "db-q-000048",
+      "db-q-000057",
+      "db-q-000085",
+      "db-q-000088"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-080",
+    "courseId": "db-course-13",
+    "order": 5,
+    "title": "数据统计SQL",
+    "slug": "数据统计SQL",
+    "summary": "数据统计SQL章节",
+    "content": "# 数据统计SQL\n\n数据统计SQL内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-094"
+    ],
+    "practiceQuestionIds": [
+      "db-q-000025",
+      "db-q-000048",
+      "db-q-000057",
+      "db-q-000085",
+      "db-q-000088"
+    ],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-081",
+    "courseId": "db-course-14",
+    "order": 1,
+    "title": "SQL综合查询",
+    "slug": "SQL综合查询",
+    "summary": "SQL综合查询章节",
+    "content": "# SQL综合查询\n\nSQL综合查询内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-095"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-082",
+    "courseId": "db-course-14",
+    "order": 2,
+    "title": "事务隔离综合",
+    "slug": "事务隔离综合",
+    "summary": "事务隔离综合章节",
+    "content": "# 事务隔离综合\n\n事务隔离综合内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-096"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-083",
+    "courseId": "db-course-14",
+    "order": 3,
+    "title": "范式分析综合",
+    "slug": "范式分析综合",
+    "summary": "范式分析综合章节",
+    "content": "# 范式分析综合\n\n范式分析综合内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-097"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-084",
+    "courseId": "db-course-14",
+    "order": 4,
+    "title": "数据库面试题",
+    "slug": "数据库面试题",
+    "summary": "数据库面试题章节",
+    "content": "# 数据库面试题\n\n数据库面试题内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-098"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-085",
+    "courseId": "db-course-14",
+    "order": 5,
+    "title": "模拟测试",
+    "slug": "模拟测试",
+    "summary": "模拟测试章节",
+    "content": "# 模拟测试\n\n模拟测试内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-099"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-086",
+    "courseId": "db-course-14",
+    "order": 6,
+    "title": "考前冲刺",
+    "slug": "考前冲刺",
+    "summary": "考前冲刺章节",
+    "content": "# 考前冲刺\n\n考前冲刺内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "db-kp-100"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-087",
+    "courseId": "db-course-01",
+    "order": 5,
+    "title": "数据库三级模式",
+    "slug": "数据库三级模式",
+    "summary": "数据库三级模式",
+    "content": "# 数据库三级模式\n\n数据库三级模式内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0087"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-088",
+    "courseId": "db-course-01",
+    "order": 6,
+    "title": "数据独立性",
+    "slug": "数据独立性",
+    "summary": "数据独立性",
+    "content": "# 数据独立性\n\n数据独立性内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0088"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-089",
+    "courseId": "db-course-02",
+    "order": 6,
+    "title": "关系语言分类",
+    "slug": "关系语言分类",
+    "summary": "关系语言分类",
+    "content": "# 关系语言分类\n\n关系语言分类内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0089"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-090",
+    "courseId": "db-course-02",
+    "order": 7,
+    "title": "关系赋值操作",
+    "slug": "关系赋值操作",
+    "summary": "关系赋值操作",
+    "content": "# 关系赋值操作\n\n关系赋值操作内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0090"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-091",
+    "courseId": "db-course-03",
+    "order": 5,
+    "title": "SELECT执行顺序",
+    "slug": "SELECT执行顺序",
+    "summary": "SELECT执行顺序",
+    "content": "# SELECT执行顺序\n\nSELECT执行顺序内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0091"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-092",
+    "courseId": "db-course-03",
+    "order": 6,
+    "title": "FROM子句",
+    "slug": "FROM子句",
+    "summary": "FROM子句",
+    "content": "# FROM子句\n\nFROM子句内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0092"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-093",
+    "courseId": "db-course-04",
+    "order": 7,
+    "title": "ANDOR组合条件",
+    "slug": "ANDOR组合条件",
+    "summary": "ANDOR组合条件",
+    "content": "# ANDOR组合条件\n\nANDOR组合条件内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0093"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-094",
+    "courseId": "db-course-04",
+    "order": 8,
+    "title": "IN子查询",
+    "slug": "IN子查询",
+    "summary": "IN子查询",
+    "content": "# IN子查询\n\nIN子查询内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0094"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-095",
+    "courseId": "db-course-05",
+    "order": 7,
+    "title": "多列分组",
+    "slug": "多列分组",
+    "summary": "多列分组",
+    "content": "# 多列分组\n\n多列分组内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0095"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-096",
+    "courseId": "db-course-05",
+    "order": 8,
+    "title": "分组过滤综合",
+    "slug": "分组过滤综合",
+    "summary": "分组过滤综合",
+    "content": "# 分组过滤综合\n\n分组过滤综合内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0096"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-097",
+    "courseId": "db-course-06",
+    "order": 7,
+    "title": "连接顺序优化",
+    "slug": "连接顺序优化",
+    "summary": "连接顺序优化",
+    "content": "# 连接顺序优化\n\n连接顺序优化内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0097"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-098",
+    "courseId": "db-course-06",
+    "order": 8,
+    "title": "自然连接",
+    "slug": "自然连接",
+    "summary": "自然连接",
+    "content": "# 自然连接\n\n自然连接内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0098"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-099",
+    "courseId": "db-course-06",
+    "order": 9,
+    "title": "USING与ON区别",
+    "slug": "USING与ON区别",
+    "summary": "USING与ON区别",
+    "content": "# USING与ON区别\n\nUSING与ON区别内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0099"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-100",
+    "courseId": "db-course-07",
+    "order": 7,
+    "title": "标量子查询应用",
+    "slug": "标量子查询应用",
+    "summary": "标量子查询应用",
+    "content": "# 标量子查询应用\n\n标量子查询应用内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0100"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-101",
+    "courseId": "db-course-07",
+    "order": 8,
+    "title": "行子查询应用",
+    "slug": "行子查询应用",
+    "summary": "行子查询应用",
+    "content": "# 行子查询应用\n\n行子查询应用内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0101"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-102",
+    "courseId": "db-course-07",
+    "order": 9,
+    "title": "子查询与JOIN转换",
+    "slug": "子查询与JOIN转换",
+    "summary": "子查询与JOIN转换",
+    "content": "# 子查询与JOIN转换\n\n子查询与JOIN转换内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0102"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-103",
+    "courseId": "db-course-08",
+    "order": 10,
+    "title": "自增列AUTO_INCREMENT",
+    "slug": "自增列AUTO_INCREMENT",
+    "summary": "自增列AUTO_INCREMENT",
+    "content": "# 自增列AUTO_INCREMENT\n\n自增列AUTO_INCREMENT内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0103"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-104",
+    "courseId": "db-course-08",
+    "order": 11,
+    "title": "外键级联操作",
+    "slug": "外键级联操作",
+    "summary": "外键级联操作",
+    "content": "# 外键级联操作\n\n外键级联操作内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0104"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-105",
+    "courseId": "db-course-08",
+    "order": 12,
+    "title": "约束命名",
+    "slug": "约束命名",
+    "summary": "约束命名",
+    "content": "# 约束命名\n\n约束命名内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0105"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-106",
+    "courseId": "db-course-08",
+    "order": 13,
+    "title": "临时表",
+    "slug": "临时表",
+    "summary": "临时表",
+    "content": "# 临时表\n\n临时表内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0106"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-107",
+    "courseId": "db-course-09",
+    "order": 8,
+    "title": "索引分类",
+    "slug": "索引分类",
+    "summary": "索引分类",
+    "content": "# 索引分类\n\n索引分类内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0107"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-108",
+    "courseId": "db-course-09",
+    "order": 9,
+    "title": "索引使用原则",
+    "slug": "索引使用原则",
+    "summary": "索引使用原则",
+    "content": "# 索引使用原则\n\n索引使用原则内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0108"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-109",
+    "courseId": "db-course-09",
+    "order": 10,
+    "title": "复合索引最左前缀",
+    "slug": "复合索引最左前缀",
+    "summary": "复合索引最左前缀",
+    "content": "# 复合索引最左前缀\n\n复合索引最左前缀内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0109"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-110",
+    "courseId": "db-course-09",
+    "order": 11,
+    "title": "索引失效场景",
+    "slug": "索引失效场景",
+    "summary": "索引失效场景",
+    "content": "# 索引失效场景\n\n索引失效场景内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0110"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-111",
+    "courseId": "db-course-10",
+    "order": 11,
+    "title": "SAVEPOINT",
+    "slug": "SAVEPOINT",
+    "summary": "SAVEPOINT",
+    "content": "# SAVEPOINT\n\nSAVEPOINT内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0111"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-112",
+    "courseId": "db-course-10",
+    "order": 12,
+    "title": "事务传播行为",
+    "slug": "事务传播行为",
+    "summary": "事务传播行为",
+    "content": "# 事务传播行为\n\n事务传播行为内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0112"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-113",
+    "courseId": "db-course-10",
+    "order": 13,
+    "title": "死锁检测",
+    "slug": "死锁检测",
+    "summary": "死锁检测",
+    "content": "# 死锁检测\n\n死锁检测内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0113"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-114",
+    "courseId": "db-course-10",
+    "order": 14,
+    "title": "锁升级",
+    "slug": "锁升级",
+    "summary": "锁升级",
+    "content": "# 锁升级\n\n锁升级内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0114"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-115",
+    "courseId": "db-course-11",
+    "order": 8,
+    "title": "候选码求解",
+    "slug": "候选码求解",
+    "summary": "候选码求解",
+    "content": "# 候选码求解\n\n候选码求解内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0115"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-116",
+    "courseId": "db-course-11",
+    "order": 9,
+    "title": "最小函数依赖集",
+    "slug": "最小函数依赖集",
+    "summary": "最小函数依赖集",
+    "content": "# 最小函数依赖集\n\n最小函数依赖集内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0116"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-117",
+    "courseId": "db-course-11",
+    "order": 10,
+    "title": "模式分解算法",
+    "slug": "模式分解算法",
+    "summary": "模式分解算法",
+    "content": "# 模式分解算法\n\n模式分解算法内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0117"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-118",
+    "courseId": "db-course-12",
+    "order": 6,
+    "title": "ER图完整案例",
+    "slug": "ER图完整案例",
+    "summary": "ER图完整案例",
+    "content": "# ER图完整案例\n\nER图完整案例内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0118"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-119",
+    "courseId": "db-course-12",
+    "order": 7,
+    "title": "弱实体转表",
+    "slug": "弱实体转表",
+    "summary": "弱实体转表",
+    "content": "# 弱实体转表\n\n弱实体转表内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0119"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-120",
+    "courseId": "db-course-12",
+    "order": 8,
+    "title": "ISA层次转表",
+    "slug": "ISA层次转表",
+    "summary": "ISA层次转表",
+    "content": "# ISA层次转表\n\nISA层次转表内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0120"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-121",
+    "courseId": "db-course-13",
+    "order": 6,
+    "title": "学生选课SQL",
+    "slug": "学生选课SQL",
+    "summary": "学生选课SQL",
+    "content": "# 学生选课SQL\n\n学生选课SQL内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0121"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-122",
+    "courseId": "db-course-13",
+    "order": 7,
+    "title": "图书管理SQL",
+    "slug": "图书管理SQL",
+    "summary": "图书管理SQL",
+    "content": "# 图书管理SQL\n\n图书管理SQL内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0122"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-123",
+    "courseId": "db-course-13",
+    "order": 8,
+    "title": "电商SQL综合",
+    "slug": "电商SQL综合",
+    "summary": "电商SQL综合",
+    "content": "# 电商SQL综合\n\n电商SQL综合内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0123"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-124",
+    "courseId": "db-course-13",
+    "order": 9,
+    "title": "报表统计SQL",
+    "slug": "报表统计SQL",
+    "summary": "报表统计SQL",
+    "content": "# 报表统计SQL\n\n报表统计SQL内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0124"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-125",
+    "courseId": "db-course-14",
+    "order": 7,
+    "title": "SELECT综合",
+    "slug": "SELECT综合",
+    "summary": "SELECT综合",
+    "content": "# SELECT综合\n\nSELECT综合内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0125"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-126",
+    "courseId": "db-course-14",
+    "order": 8,
+    "title": "JOIN综合",
+    "slug": "JOIN综合",
+    "summary": "JOIN综合",
+    "content": "# JOIN综合\n\nJOIN综合内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0126"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-127",
+    "courseId": "db-course-14",
+    "order": 9,
+    "title": "子查询综合",
+    "slug": "子查询综合",
+    "summary": "子查询综合",
+    "content": "# 子查询综合\n\n子查询综合内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0127"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-128",
+    "courseId": "db-course-14",
+    "order": 10,
+    "title": "事务综合",
+    "slug": "事务综合",
+    "summary": "事务综合",
+    "content": "# 事务综合\n\n事务综合内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0128"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-129",
+    "courseId": "db-course-14",
+    "order": 11,
+    "title": "范式综合",
+    "slug": "范式综合",
+    "summary": "范式综合",
+    "content": "# 范式综合\n\n范式综合内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0129"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-130",
+    "courseId": "db-course-14",
+    "order": 12,
+    "title": "ER图综合",
+    "slug": "ER图综合",
+    "summary": "ER图综合",
+    "content": "# ER图综合\n\nER图综合内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0130"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-131",
+    "courseId": "db-course-14",
+    "order": 13,
+    "title": "数据库设计综合",
+    "slug": "数据库设计综合",
+    "summary": "数据库设计综合",
+    "content": "# 数据库设计综合\n\n数据库设计综合内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0131"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-132",
+    "courseId": "db-course-14",
+    "order": 14,
+    "title": "面试高频题",
+    "slug": "面试高频题",
+    "summary": "面试高频题",
+    "content": "# 面试高频题\n\n面试高频题内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0132"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-133",
+    "courseId": "db-course-14",
+    "order": 15,
+    "title": "408数据库题",
+    "slug": "408数据库题",
+    "summary": "408数据库题",
+    "content": "# 408数据库题\n\n408数据库题内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0133"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-134",
+    "courseId": "db-course-14",
+    "order": 16,
+    "title": "模拟测试一",
+    "slug": "模拟测试一",
+    "summary": "模拟测试一",
+    "content": "# 模拟测试一\n\n模拟测试一内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0134"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-135",
+    "courseId": "db-course-14",
+    "order": 17,
+    "title": "模拟测试二",
+    "slug": "模拟测试二",
+    "summary": "模拟测试二",
+    "content": "# 模拟测试二\n\n模拟测试二内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0135"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-136",
+    "courseId": "db-course-14",
+    "order": 18,
+    "title": "考前冲刺",
+    "slug": "考前冲刺",
+    "summary": "考前冲刺",
+    "content": "# 考前冲刺\n\n考前冲刺内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0136"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-137",
+    "courseId": "db-course-01",
+    "order": 7,
+    "title": "关系型与非关系型",
+    "slug": "关系型与非关系型",
+    "summary": "关系型与非关系型",
+    "content": "# 关系型与非关系型\n\n关系型与非关系型内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0137"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-138",
+    "courseId": "db-course-02",
+    "order": 8,
+    "title": "基数与元组",
+    "slug": "基数与元组",
+    "summary": "基数与元组",
+    "content": "# 基数与元组\n\n基数与元组内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0138"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-139",
+    "courseId": "db-course-03",
+    "order": 7,
+    "title": "列运算表达式",
+    "slug": "列运算表达式",
+    "summary": "列运算表达式",
+    "content": "# 列运算表达式\n\n列运算表达式内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0139"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-140",
+    "courseId": "db-course-04",
+    "order": 9,
+    "title": "BETWEEN综合",
+    "slug": "BETWEEN综合",
+    "summary": "BETWEEN综合",
+    "content": "# BETWEEN综合\n\nBETWEEN综合内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0140"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-141",
+    "courseId": "db-course-05",
+    "order": 9,
+    "title": "COUNT(DISTINCT)",
+    "slug": "COUNT(DISTINCT)",
+    "summary": "COUNT(DISTINCT)",
+    "content": "# COUNT(DISTINCT)\n\nCOUNT(DISTINCT)内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0141"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-142",
+    "courseId": "db-course-06",
+    "order": 10,
+    "title": "CROSS JOIN应用",
+    "slug": "CROSS-JOIN应用",
+    "summary": "CROSS JOIN应用",
+    "content": "# CROSS JOIN应用\n\nCROSS JOIN应用内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0142"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-143",
+    "courseId": "db-course-14",
+    "order": 19,
+    "title": "补充课程1",
+    "slug": "补充课程1",
+    "summary": "补充课程1",
+    "content": "# 补充课程1\n\n补充课程1内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0143"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-144",
+    "courseId": "db-course-14",
+    "order": 20,
+    "title": "补充课程2",
+    "slug": "补充课程2",
+    "summary": "补充课程2",
+    "content": "# 补充课程2\n\n补充课程2内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0144"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-145",
+    "courseId": "db-course-14",
+    "order": 21,
+    "title": "补充课程3",
+    "slug": "补充课程3",
+    "summary": "补充课程3",
+    "content": "# 补充课程3\n\n补充课程3内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0145"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-146",
+    "courseId": "db-course-14",
+    "order": 22,
+    "title": "补充课程4",
+    "slug": "补充课程4",
+    "summary": "补充课程4",
+    "content": "# 补充课程4\n\n补充课程4内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0146"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-147",
+    "courseId": "db-course-14",
+    "order": 23,
+    "title": "补充课程5",
+    "slug": "补充课程5",
+    "summary": "补充课程5",
+    "content": "# 补充课程5\n\n补充课程5内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0147"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-148",
+    "courseId": "db-course-14",
+    "order": 24,
+    "title": "补充课程6",
+    "slug": "补充课程6",
+    "summary": "补充课程6",
+    "content": "# 补充课程6\n\n补充课程6内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0148"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-149",
+    "courseId": "db-course-14",
+    "order": 25,
+    "title": "补充课程7",
+    "slug": "补充课程7",
+    "summary": "补充课程7",
+    "content": "# 补充课程7\n\n补充课程7内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0149"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-150",
+    "courseId": "db-course-14",
+    "order": 26,
+    "title": "补充课程8",
+    "slug": "补充课程8",
+    "summary": "补充课程8",
+    "content": "# 补充课程8\n\n补充课程8内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0150"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-151",
+    "courseId": "db-course-14",
+    "order": 27,
+    "title": "补充课程9",
+    "slug": "补充课程9",
+    "summary": "补充课程9",
+    "content": "# 补充课程9\n\n补充课程9内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0151"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-152",
+    "courseId": "db-course-14",
+    "order": 28,
+    "title": "补充课程10",
+    "slug": "补充课程10",
+    "summary": "补充课程10",
+    "content": "# 补充课程10\n\n补充课程10内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0152"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-153",
+    "courseId": "db-course-14",
+    "order": 29,
+    "title": "补充课程11",
+    "slug": "补充课程11",
+    "summary": "补充课程11",
+    "content": "# 补充课程11\n\n补充课程11内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0153"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-154",
+    "courseId": "db-course-14",
+    "order": 30,
+    "title": "补充课程12",
+    "slug": "补充课程12",
+    "summary": "补充课程12",
+    "content": "# 补充课程12\n\n补充课程12内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0154"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-155",
+    "courseId": "db-course-14",
+    "order": 31,
+    "title": "补充课程13",
+    "slug": "补充课程13",
+    "summary": "补充课程13",
+    "content": "# 补充课程13\n\n补充课程13内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0155"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-156",
+    "courseId": "db-course-14",
+    "order": 32,
+    "title": "补充课程14",
+    "slug": "补充课程14",
+    "summary": "补充课程14",
+    "content": "# 补充课程14\n\n补充课程14内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0156"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-157",
+    "courseId": "db-course-14",
+    "order": 33,
+    "title": "补充课程15",
+    "slug": "补充课程15",
+    "summary": "补充课程15",
+    "content": "# 补充课程15\n\n补充课程15内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0157"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-158",
+    "courseId": "db-course-14",
+    "order": 34,
+    "title": "补充课程16",
+    "slug": "补充课程16",
+    "summary": "补充课程16",
+    "content": "# 补充课程16\n\n补充课程16内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0158"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-159",
+    "courseId": "db-course-14",
+    "order": 35,
+    "title": "补充课程17",
+    "slug": "补充课程17",
+    "summary": "补充课程17",
+    "content": "# 补充课程17\n\n补充课程17内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0159"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-160",
+    "courseId": "db-course-14",
+    "order": 36,
+    "title": "补充课程18",
+    "slug": "补充课程18",
+    "summary": "补充课程18",
+    "content": "# 补充课程18\n\n补充课程18内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0160"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-161",
+    "courseId": "db-course-14",
+    "order": 37,
+    "title": "补充课程19",
+    "slug": "补充课程19",
+    "summary": "补充课程19",
+    "content": "# 补充课程19\n\n补充课程19内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0161"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-162",
+    "courseId": "db-course-14",
+    "order": 38,
+    "title": "补充课程20",
+    "slug": "补充课程20",
+    "summary": "补充课程20",
+    "content": "# 补充课程20\n\n补充课程20内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0162"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-163",
+    "courseId": "db-course-14",
+    "order": 39,
+    "title": "补充课程21",
+    "slug": "补充课程21",
+    "summary": "补充课程21",
+    "content": "# 补充课程21\n\n补充课程21内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0163"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-164",
+    "courseId": "db-course-14",
+    "order": 40,
+    "title": "补充课程22",
+    "slug": "补充课程22",
+    "summary": "补充课程22",
+    "content": "# 补充课程22\n\n补充课程22内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0164"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-165",
+    "courseId": "db-course-14",
+    "order": 41,
+    "title": "补充课程23",
+    "slug": "补充课程23",
+    "summary": "补充课程23",
+    "content": "# 补充课程23\n\n补充课程23内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0165"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-166",
+    "courseId": "db-course-14",
+    "order": 42,
+    "title": "补充课程24",
+    "slug": "补充课程24",
+    "summary": "补充课程24",
+    "content": "# 补充课程24\n\n补充课程24内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0166"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-167",
+    "courseId": "db-course-14",
+    "order": 43,
+    "title": "补充课程25",
+    "slug": "补充课程25",
+    "summary": "补充课程25",
+    "content": "# 补充课程25\n\n补充课程25内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0167"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-168",
+    "courseId": "db-course-14",
+    "order": 44,
+    "title": "补充课程26",
+    "slug": "补充课程26",
+    "summary": "补充课程26",
+    "content": "# 补充课程26\n\n补充课程26内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0168"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-169",
+    "courseId": "db-course-14",
+    "order": 45,
+    "title": "补充课程27",
+    "slug": "补充课程27",
+    "summary": "补充课程27",
+    "content": "# 补充课程27\n\n补充课程27内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0169"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-170",
+    "courseId": "db-course-14",
+    "order": 46,
+    "title": "补充课程28",
+    "slug": "补充课程28",
+    "summary": "补充课程28",
+    "content": "# 补充课程28\n\n补充课程28内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0170"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-171",
+    "courseId": "db-course-14",
+    "order": 47,
+    "title": "补充课程29",
+    "slug": "补充课程29",
+    "summary": "补充课程29",
+    "content": "# 补充课程29\n\n补充课程29内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0171"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-172",
+    "courseId": "db-course-14",
+    "order": 48,
+    "title": "补充课程30",
+    "slug": "补充课程30",
+    "summary": "补充课程30",
+    "content": "# 补充课程30\n\n补充课程30内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0172"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-173",
+    "courseId": "db-course-14",
+    "order": 49,
+    "title": "补充课程31",
+    "slug": "补充课程31",
+    "summary": "补充课程31",
+    "content": "# 补充课程31\n\n补充课程31内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0173"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-174",
+    "courseId": "db-course-14",
+    "order": 50,
+    "title": "补充课程32",
+    "slug": "补充课程32",
+    "summary": "补充课程32",
+    "content": "# 补充课程32\n\n补充课程32内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0174"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-175",
+    "courseId": "db-course-14",
+    "order": 51,
+    "title": "补充课程33",
+    "slug": "补充课程33",
+    "summary": "补充课程33",
+    "content": "# 补充课程33\n\n补充课程33内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0175"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-176",
+    "courseId": "db-course-14",
+    "order": 52,
+    "title": "补充课程34",
+    "slug": "补充课程34",
+    "summary": "补充课程34",
+    "content": "# 补充课程34\n\n补充课程34内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0176"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-177",
+    "courseId": "db-course-14",
+    "order": 53,
+    "title": "补充课程35",
+    "slug": "补充课程35",
+    "summary": "补充课程35",
+    "content": "# 补充课程35\n\n补充课程35内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0177"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-178",
+    "courseId": "db-course-14",
+    "order": 54,
+    "title": "补充课程36",
+    "slug": "补充课程36",
+    "summary": "补充课程36",
+    "content": "# 补充课程36\n\n补充课程36内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0178"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-179",
+    "courseId": "db-course-14",
+    "order": 55,
+    "title": "补充课程37",
+    "slug": "补充课程37",
+    "summary": "补充课程37",
+    "content": "# 补充课程37\n\n补充课程37内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0179"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-180",
+    "courseId": "db-course-14",
+    "order": 56,
+    "title": "补充课程38",
+    "slug": "补充课程38",
+    "summary": "补充课程38",
+    "content": "# 补充课程38\n\n补充课程38内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0180"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-181",
+    "courseId": "db-course-14",
+    "order": 57,
+    "title": "补充课程39",
+    "slug": "补充课程39",
+    "summary": "补充课程39",
+    "content": "# 补充课程39\n\n补充课程39内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0181"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-182",
+    "courseId": "db-course-14",
+    "order": 58,
+    "title": "补充课程40",
+    "slug": "补充课程40",
+    "summary": "补充课程40",
+    "content": "# 补充课程40\n\n补充课程40内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0182"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-183",
+    "courseId": "db-course-14",
+    "order": 59,
+    "title": "补充课程41",
+    "slug": "补充课程41",
+    "summary": "补充课程41",
+    "content": "# 补充课程41\n\n补充课程41内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0183"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-184",
+    "courseId": "db-course-14",
+    "order": 60,
+    "title": "补充课程42",
+    "slug": "补充课程42",
+    "summary": "补充课程42",
+    "content": "# 补充课程42\n\n补充课程42内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0184"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-185",
+    "courseId": "db-course-14",
+    "order": 61,
+    "title": "补充课程43",
+    "slug": "补充课程43",
+    "summary": "补充课程43",
+    "content": "# 补充课程43\n\n补充课程43内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0185"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-186",
+    "courseId": "db-course-14",
+    "order": 62,
+    "title": "补充课程44",
+    "slug": "补充课程44",
+    "summary": "补充课程44",
+    "content": "# 补充课程44\n\n补充课程44内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0186"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-187",
+    "courseId": "db-course-14",
+    "order": 63,
+    "title": "补充课程45",
+    "slug": "补充课程45",
+    "summary": "补充课程45",
+    "content": "# 补充课程45\n\n补充课程45内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0187"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-188",
+    "courseId": "db-course-14",
+    "order": 64,
+    "title": "补充课程46",
+    "slug": "补充课程46",
+    "summary": "补充课程46",
+    "content": "# 补充课程46\n\n补充课程46内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0188"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-189",
+    "courseId": "db-course-14",
+    "order": 65,
+    "title": "补充课程47",
+    "slug": "补充课程47",
+    "summary": "补充课程47",
+    "content": "# 补充课程47\n\n补充课程47内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0189"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-190",
+    "courseId": "db-course-14",
+    "order": 66,
+    "title": "补充课程48",
+    "slug": "补充课程48",
+    "summary": "补充课程48",
+    "content": "# 补充课程48\n\n补充课程48内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0190"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-191",
+    "courseId": "db-course-14",
+    "order": 67,
+    "title": "补充课程49",
+    "slug": "补充课程49",
+    "summary": "补充课程49",
+    "content": "# 补充课程49\n\n补充课程49内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0191"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-192",
+    "courseId": "db-course-14",
+    "order": 68,
+    "title": "补充课程50",
+    "slug": "补充课程50",
+    "summary": "补充课程50",
+    "content": "# 补充课程50\n\n补充课程50内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0192"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-193",
+    "courseId": "db-course-14",
+    "order": 69,
+    "title": "补充课程51",
+    "slug": "补充课程51",
+    "summary": "补充课程51",
+    "content": "# 补充课程51\n\n补充课程51内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0193"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-194",
+    "courseId": "db-course-14",
+    "order": 70,
+    "title": "补充课程52",
+    "slug": "补充课程52",
+    "summary": "补充课程52",
+    "content": "# 补充课程52\n\n补充课程52内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0194"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-195",
+    "courseId": "db-course-14",
+    "order": 71,
+    "title": "补充课程53",
+    "slug": "补充课程53",
+    "summary": "补充课程53",
+    "content": "# 补充课程53\n\n补充课程53内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0195"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-196",
+    "courseId": "db-course-14",
+    "order": 72,
+    "title": "补充课程54",
+    "slug": "补充课程54",
+    "summary": "补充课程54",
+    "content": "# 补充课程54\n\n补充课程54内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0196"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-197",
+    "courseId": "db-course-14",
+    "order": 73,
+    "title": "补充课程55",
+    "slug": "补充课程55",
+    "summary": "补充课程55",
+    "content": "# 补充课程55\n\n补充课程55内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0197"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-198",
+    "courseId": "db-course-14",
+    "order": 74,
+    "title": "补充课程56",
+    "slug": "补充课程56",
+    "summary": "补充课程56",
+    "content": "# 补充课程56\n\n补充课程56内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0198"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-199",
+    "courseId": "db-course-14",
+    "order": 75,
+    "title": "补充课程57",
+    "slug": "补充课程57",
+    "summary": "补充课程57",
+    "content": "# 补充课程57\n\n补充课程57内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0199"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-200",
+    "courseId": "db-course-14",
+    "order": 76,
+    "title": "补充课程58",
+    "slug": "补充课程58",
+    "summary": "补充课程58",
+    "content": "# 补充课程58\n\n补充课程58内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0200"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-201",
+    "courseId": "db-course-14",
+    "order": 77,
+    "title": "补充课程59",
+    "slug": "补充课程59",
+    "summary": "补充课程59",
+    "content": "# 补充课程59\n\n补充课程59内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0201"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-202",
+    "courseId": "db-course-14",
+    "order": 78,
+    "title": "补充课程60",
+    "slug": "补充课程60",
+    "summary": "补充课程60",
+    "content": "# 补充课程60\n\n补充课程60内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0202"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-203",
+    "courseId": "db-course-14",
+    "order": 79,
+    "title": "补充课程61",
+    "slug": "补充课程61",
+    "summary": "补充课程61",
+    "content": "# 补充课程61\n\n补充课程61内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0203"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-204",
+    "courseId": "db-course-14",
+    "order": 80,
+    "title": "补充课程62",
+    "slug": "补充课程62",
+    "summary": "补充课程62",
+    "content": "# 补充课程62\n\n补充课程62内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0204"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-205",
+    "courseId": "db-course-14",
+    "order": 81,
+    "title": "补充课程63",
+    "slug": "补充课程63",
+    "summary": "补充课程63",
+    "content": "# 补充课程63\n\n补充课程63内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0205"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-206",
+    "courseId": "db-course-14",
+    "order": 82,
+    "title": "补充课程64",
+    "slug": "补充课程64",
+    "summary": "补充课程64",
+    "content": "# 补充课程64\n\n补充课程64内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0206"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-207",
+    "courseId": "db-course-14",
+    "order": 83,
+    "title": "补充课程65",
+    "slug": "补充课程65",
+    "summary": "补充课程65",
+    "content": "# 补充课程65\n\n补充课程65内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0207"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-208",
+    "courseId": "db-course-14",
+    "order": 84,
+    "title": "补充课程66",
+    "slug": "补充课程66",
+    "summary": "补充课程66",
+    "content": "# 补充课程66\n\n补充课程66内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0208"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-209",
+    "courseId": "db-course-14",
+    "order": 85,
+    "title": "补充课程67",
+    "slug": "补充课程67",
+    "summary": "补充课程67",
+    "content": "# 补充课程67\n\n补充课程67内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0209"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-210",
+    "courseId": "db-course-14",
+    "order": 86,
+    "title": "补充课程68",
+    "slug": "补充课程68",
+    "summary": "补充课程68",
+    "content": "# 补充课程68\n\n补充课程68内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0210"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-211",
+    "courseId": "db-course-14",
+    "order": 87,
+    "title": "补充课程69",
+    "slug": "补充课程69",
+    "summary": "补充课程69",
+    "content": "# 补充课程69\n\n补充课程69内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0211"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-212",
+    "courseId": "db-course-14",
+    "order": 88,
+    "title": "补充课程70",
+    "slug": "补充课程70",
+    "summary": "补充课程70",
+    "content": "# 补充课程70\n\n补充课程70内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0212"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-213",
+    "courseId": "db-course-14",
+    "order": 89,
+    "title": "补充课程71",
+    "slug": "补充课程71",
+    "summary": "补充课程71",
+    "content": "# 补充课程71\n\n补充课程71内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0213"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-214",
+    "courseId": "db-course-14",
+    "order": 90,
+    "title": "补充课程72",
+    "slug": "补充课程72",
+    "summary": "补充课程72",
+    "content": "# 补充课程72\n\n补充课程72内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0214"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-215",
+    "courseId": "db-course-14",
+    "order": 91,
+    "title": "补充课程73",
+    "slug": "补充课程73",
+    "summary": "补充课程73",
+    "content": "# 补充课程73\n\n补充课程73内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0215"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-216",
+    "courseId": "db-course-14",
+    "order": 92,
+    "title": "补充课程74",
+    "slug": "补充课程74",
+    "summary": "补充课程74",
+    "content": "# 补充课程74\n\n补充课程74内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0216"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-217",
+    "courseId": "db-course-14",
+    "order": 93,
+    "title": "补充课程75",
+    "slug": "补充课程75",
+    "summary": "补充课程75",
+    "content": "# 补充课程75\n\n补充课程75内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0217"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-218",
+    "courseId": "db-course-14",
+    "order": 94,
+    "title": "补充课程76",
+    "slug": "补充课程76",
+    "summary": "补充课程76",
+    "content": "# 补充课程76\n\n补充课程76内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0218"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-219",
+    "courseId": "db-course-14",
+    "order": 95,
+    "title": "补充课程77",
+    "slug": "补充课程77",
+    "summary": "补充课程77",
+    "content": "# 补充课程77\n\n补充课程77内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0219"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-220",
+    "courseId": "db-course-14",
+    "order": 96,
+    "title": "补充课程78",
+    "slug": "补充课程78",
+    "summary": "补充课程78",
+    "content": "# 补充课程78\n\n补充课程78内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0220"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-221",
+    "courseId": "db-course-14",
+    "order": 97,
+    "title": "补充课程79",
+    "slug": "补充课程79",
+    "summary": "补充课程79",
+    "content": "# 补充课程79\n\n补充课程79内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0221"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-222",
+    "courseId": "db-course-14",
+    "order": 98,
+    "title": "补充课程80",
+    "slug": "补充课程80",
+    "summary": "补充课程80",
+    "content": "# 补充课程80\n\n补充课程80内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0222"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-223",
+    "courseId": "db-course-14",
+    "order": 99,
+    "title": "补充课程81",
+    "slug": "补充课程81",
+    "summary": "补充课程81",
+    "content": "# 补充课程81\n\n补充课程81内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0223"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-224",
+    "courseId": "db-course-14",
+    "order": 100,
+    "title": "补充课程82",
+    "slug": "补充课程82",
+    "summary": "补充课程82",
+    "content": "# 补充课程82\n\n补充课程82内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0224"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-225",
+    "courseId": "db-course-14",
+    "order": 101,
+    "title": "补充课程83",
+    "slug": "补充课程83",
+    "summary": "补充课程83",
+    "content": "# 补充课程83\n\n补充课程83内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0225"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-226",
+    "courseId": "db-course-14",
+    "order": 102,
+    "title": "补充课程84",
+    "slug": "补充课程84",
+    "summary": "补充课程84",
+    "content": "# 补充课程84\n\n补充课程84内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0226"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-227",
+    "courseId": "db-course-14",
+    "order": 103,
+    "title": "补充课程85",
+    "slug": "补充课程85",
+    "summary": "补充课程85",
+    "content": "# 补充课程85\n\n补充课程85内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0227"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-228",
+    "courseId": "db-course-14",
+    "order": 104,
+    "title": "补充课程86",
+    "slug": "补充课程86",
+    "summary": "补充课程86",
+    "content": "# 补充课程86\n\n补充课程86内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0228"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-229",
+    "courseId": "db-course-14",
+    "order": 105,
+    "title": "补充课程87",
+    "slug": "补充课程87",
+    "summary": "补充课程87",
+    "content": "# 补充课程87\n\n补充课程87内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0229"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-230",
+    "courseId": "db-course-14",
+    "order": 106,
+    "title": "补充课程88",
+    "slug": "补充课程88",
+    "summary": "补充课程88",
+    "content": "# 补充课程88\n\n补充课程88内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0230"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-231",
+    "courseId": "db-course-14",
+    "order": 107,
+    "title": "补充课程89",
+    "slug": "补充课程89",
+    "summary": "补充课程89",
+    "content": "# 补充课程89\n\n补充课程89内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0231"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-232",
+    "courseId": "db-course-14",
+    "order": 108,
+    "title": "补充课程90",
+    "slug": "补充课程90",
+    "summary": "补充课程90",
+    "content": "# 补充课程90\n\n补充课程90内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0232"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-233",
+    "courseId": "db-course-14",
+    "order": 109,
+    "title": "补充课程91",
+    "slug": "补充课程91",
+    "summary": "补充课程91",
+    "content": "# 补充课程91\n\n补充课程91内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0233"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-234",
+    "courseId": "db-course-14",
+    "order": 110,
+    "title": "补充课程92",
+    "slug": "补充课程92",
+    "summary": "补充课程92",
+    "content": "# 补充课程92\n\n补充课程92内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0234"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-235",
+    "courseId": "db-course-14",
+    "order": 111,
+    "title": "补充课程93",
+    "slug": "补充课程93",
+    "summary": "补充课程93",
+    "content": "# 补充课程93\n\n补充课程93内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0235"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "db-lesson-236",
+    "courseId": "db-course-14",
+    "order": 112,
+    "title": "补充课程94",
+    "slug": "补充课程94",
+    "summary": "补充课程94",
+    "content": "# 补充课程94\n\n补充课程94内容。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "db-kp-0236"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "数据库"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]
