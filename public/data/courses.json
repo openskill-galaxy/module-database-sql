@@ -25,7 +25,14 @@
       "掌握事务与范式",
       "具备数据库设计能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "db-lesson-001",
+      "db-lesson-002",
+      "db-lesson-003",
+      "db-lesson-004"
+    ],
+    "summary": "数据库定义、DBMS、数据模型、数据库发展历史、学习路线。"
   },
   {
     "id": "db-course-02",
@@ -54,7 +61,15 @@
       "掌握事务与范式",
       "具备数据库设计能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "db-lesson-005",
+      "db-lesson-006",
+      "db-lesson-007",
+      "db-lesson-008",
+      "db-lesson-009"
+    ],
+    "summary": "关系模型、元组属性码、完整性约束、关系代数运算。"
   },
   {
     "id": "db-course-03",
@@ -82,7 +97,14 @@
       "掌握事务与范式",
       "具备数据库设计能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "db-lesson-010",
+      "db-lesson-011",
+      "db-lesson-012",
+      "db-lesson-013"
+    ],
+    "summary": "SELECT语句、列选择、别名、DISTINCT、LIMIT、简单查询。"
   },
   {
     "id": "db-course-04",
@@ -112,7 +134,16 @@
       "掌握事务与范式",
       "具备数据库设计能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "db-lesson-014",
+      "db-lesson-015",
+      "db-lesson-016",
+      "db-lesson-017",
+      "db-lesson-018",
+      "db-lesson-019"
+    ],
+    "summary": "WHERE条件、LIKE、BETWEEN、IN、NULL处理、ORDER BY、LIMIT分页。"
   },
   {
     "id": "db-course-05",
@@ -142,7 +173,16 @@
       "掌握事务与范式",
       "具备数据库设计能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "db-lesson-020",
+      "db-lesson-021",
+      "db-lesson-022",
+      "db-lesson-023",
+      "db-lesson-024",
+      "db-lesson-025"
+    ],
+    "summary": "COUNT/SUM/AVG/MAX/MIN、GROUP BY、HAVING、ROLLUP。"
   },
   {
     "id": "db-course-06",
@@ -172,7 +212,16 @@
       "掌握事务与范式",
       "具备数据库设计能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "db-lesson-026",
+      "db-lesson-027",
+      "db-lesson-028",
+      "db-lesson-029",
+      "db-lesson-030",
+      "db-lesson-031"
+    ],
+    "summary": "INNER/LEFT/RIGHT/FULL JOIN、自连接、CROSS JOIN、多表查询。"
   },
   {
     "id": "db-course-07",
@@ -202,7 +251,16 @@
       "掌握事务与范式",
       "具备数据库设计能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "db-lesson-032",
+      "db-lesson-033",
+      "db-lesson-034",
+      "db-lesson-035",
+      "db-lesson-036",
+      "db-lesson-037"
+    ],
+    "summary": "标量子查询、行子查询、表子查询、EXISTS、UNION、INTERSECT、EXCEPT。"
   },
   {
     "id": "db-course-08",
@@ -235,7 +293,19 @@
       "掌握事务与范式",
       "具备数据库设计能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "db-lesson-038",
+      "db-lesson-039",
+      "db-lesson-040",
+      "db-lesson-041",
+      "db-lesson-042",
+      "db-lesson-043",
+      "db-lesson-044",
+      "db-lesson-045",
+      "db-lesson-046"
+    ],
+    "summary": "CREATE TABLE、数据类型、NOT NULL/UNIQUE/PRIMARY KEY/FOREIGN KEY/CHECK/DEFAULT。"
   },
   {
     "id": "db-course-09",
@@ -266,7 +336,17 @@
       "掌握事务与范式",
       "具备数据库设计能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "db-lesson-047",
+      "db-lesson-048",
+      "db-lesson-049",
+      "db-lesson-050",
+      "db-lesson-051",
+      "db-lesson-052",
+      "db-lesson-053"
+    ],
+    "summary": "索引类型、B+树、聚簇索引、EXPLAIN、慢查询、SQL优化。"
   },
   {
     "id": "db-course-10",
@@ -300,7 +380,20 @@
       "掌握事务与范式",
       "具备数据库设计能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "db-lesson-054",
+      "db-lesson-055",
+      "db-lesson-056",
+      "db-lesson-057",
+      "db-lesson-058",
+      "db-lesson-059",
+      "db-lesson-060",
+      "db-lesson-061",
+      "db-lesson-062",
+      "db-lesson-063"
+    ],
+    "summary": "事务ACID、提交回滚、并发问题、隔离级别、MVCC、锁机制。"
   },
   {
     "id": "db-course-11",
@@ -331,7 +424,17 @@
       "掌握事务与范式",
       "具备数据库设计能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "db-lesson-064",
+      "db-lesson-065",
+      "db-lesson-066",
+      "db-lesson-067",
+      "db-lesson-068",
+      "db-lesson-069",
+      "db-lesson-070"
+    ],
+    "summary": "1NF/2NF/3NF/BCNF、函数依赖、依赖保持、无损分解。"
   },
   {
     "id": "db-course-12",
@@ -360,7 +463,15 @@
       "掌握事务与范式",
       "具备数据库设计能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "db-lesson-071",
+      "db-lesson-072",
+      "db-lesson-073",
+      "db-lesson-074",
+      "db-lesson-075"
+    ],
+    "summary": "实体联系图、弱实体、基数约束、ER图转关系模式。"
   },
   {
     "id": "db-course-13",
@@ -389,7 +500,15 @@
       "掌握事务与范式",
       "具备数据库设计能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "db-lesson-076",
+      "db-lesson-077",
+      "db-lesson-078",
+      "db-lesson-079",
+      "db-lesson-080"
+    ],
+    "summary": "学生选课、图书管理、电商系统、用户订单、数据查询分析。"
   },
   {
     "id": "db-course-14",
@@ -419,6 +538,15 @@
       "掌握事务与范式",
       "具备数据库设计能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "db-lesson-081",
+      "db-lesson-082",
+      "db-lesson-083",
+      "db-lesson-084",
+      "db-lesson-085",
+      "db-lesson-086"
+    ],
+    "summary": "SQL综合题、事务隔离综合、范式分析、面试题、模拟测试。"
   }
 ]

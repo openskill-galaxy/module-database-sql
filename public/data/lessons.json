@@ -24,7 +24,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数据库概念与DBMS\n\n数据库概念与DBMS内容。",
+    "knowledgePoints": [
+      "db-kp-001"
+    ]
   },
   {
     "id": "db-lesson-002",
@@ -51,7 +55,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数据模型分类\n\n数据模型分类内容。",
+    "knowledgePoints": [
+      "db-kp-002"
+    ]
   },
   {
     "id": "db-lesson-003",
@@ -78,7 +86,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数据库发展历史\n\n数据库发展历史内容。",
+    "knowledgePoints": [
+      "db-kp-003"
+    ]
   },
   {
     "id": "db-lesson-004",
@@ -105,7 +117,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数据库学习路线\n\n数据库学习路线内容。",
+    "knowledgePoints": [
+      "db-kp-004"
+    ]
   },
   {
     "id": "db-lesson-005",
@@ -133,7 +149,12 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 关系模型概念\n\n关系模型概念内容。",
+    "knowledgePoints": [
+      "db-kp-005",
+      "db-kp-006"
+    ]
   },
   {
     "id": "db-lesson-006",
@@ -161,7 +182,12 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 码与完整性\n\n码与完整性内容。",
+    "knowledgePoints": [
+      "db-kp-007",
+      "db-kp-008"
+    ]
   },
   {
     "id": "db-lesson-007",
@@ -189,7 +215,12 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 关系代数选择投影\n\n关系代数选择投影内容。",
+    "knowledgePoints": [
+      "db-kp-009",
+      "db-kp-010"
+    ]
   },
   {
     "id": "db-lesson-008",
@@ -216,7 +247,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 关系代数连接\n\n关系代数连接内容。",
+    "knowledgePoints": [
+      "db-kp-011"
+    ]
   },
   {
     "id": "db-lesson-009",
@@ -243,7 +278,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 关系代数除法\n\n关系代数除法内容。",
+    "knowledgePoints": [
+      "db-kp-012"
+    ]
   },
   {
     "id": "db-lesson-010",
@@ -264,7 +303,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SELECT基础语法\n\nSELECT基础语法内容。",
+    "knowledgePoints": [
+      "db-kp-013"
+    ]
   },
   {
     "id": "db-lesson-011",
@@ -285,7 +328,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 列别名\n\n列别名内容。",
+    "knowledgePoints": [
+      "db-kp-014"
+    ]
   },
   {
     "id": "db-lesson-012",
@@ -306,7 +353,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# DISTINCT去重\n\nDISTINCT去重内容。",
+    "knowledgePoints": [
+      "db-kp-015"
+    ]
   },
   {
     "id": "db-lesson-013",
@@ -327,7 +378,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# LIMIT限制\n\nLIMIT限制内容。",
+    "knowledgePoints": [
+      "db-kp-016"
+    ]
   },
   {
     "id": "db-lesson-014",
@@ -348,7 +403,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# WHERE条件\n\nWHERE条件内容。",
+    "knowledgePoints": [
+      "db-kp-017"
+    ]
   },
   {
     "id": "db-lesson-015",
@@ -369,7 +428,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# LIKE模糊匹配\n\nLIKE模糊匹配内容。",
+    "knowledgePoints": [
+      "db-kp-018"
+    ]
   },
   {
     "id": "db-lesson-016",
@@ -390,7 +453,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# BETWEEN与IN\n\nBETWEEN与IN内容。",
+    "knowledgePoints": [
+      "db-kp-019"
+    ]
   },
   {
     "id": "db-lesson-017",
@@ -411,7 +478,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# NULL处理\n\nNULL处理内容。",
+    "knowledgePoints": [
+      "db-kp-020"
+    ]
   },
   {
     "id": "db-lesson-018",
@@ -432,7 +503,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ORDER BY排序\n\nORDER BY排序内容。",
+    "knowledgePoints": [
+      "db-kp-021"
+    ]
   },
   {
     "id": "db-lesson-019",
@@ -453,7 +528,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# LIMIT分页\n\nLIMIT分页内容。",
+    "knowledgePoints": [
+      "db-kp-022"
+    ]
   },
   {
     "id": "db-lesson-020",
@@ -480,7 +559,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# COUNT函数\n\nCOUNT函数内容。",
+    "knowledgePoints": [
+      "db-kp-023"
+    ]
   },
   {
     "id": "db-lesson-021",
@@ -507,7 +590,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SUM与AVG\n\nSUM与AVG内容。",
+    "knowledgePoints": [
+      "db-kp-024"
+    ]
   },
   {
     "id": "db-lesson-022",
@@ -534,7 +621,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# MAX与MIN\n\nMAX与MIN内容。",
+    "knowledgePoints": [
+      "db-kp-025"
+    ]
   },
   {
     "id": "db-lesson-023",
@@ -562,7 +653,12 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# GROUP BY分组\n\nGROUP BY分组内容。",
+    "knowledgePoints": [
+      "db-kp-026",
+      "db-kp-027"
+    ]
   },
   {
     "id": "db-lesson-024",
@@ -589,7 +685,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# HAVING过滤\n\nHAVING过滤内容。",
+    "knowledgePoints": [
+      "db-kp-028"
+    ]
   },
   {
     "id": "db-lesson-025",
@@ -616,7 +716,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 聚合综合案例\n\n聚合综合案例内容。",
+    "knowledgePoints": [
+      "db-kp-029"
+    ]
   },
   {
     "id": "db-lesson-026",
@@ -638,7 +742,12 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# INNER JOIN\n\nINNER JOIN内容。",
+    "knowledgePoints": [
+      "db-kp-030",
+      "db-kp-031"
+    ]
   },
   {
     "id": "db-lesson-027",
@@ -659,7 +768,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# LEFT JOIN\n\nLEFT JOIN内容。",
+    "knowledgePoints": [
+      "db-kp-032"
+    ]
   },
   {
     "id": "db-lesson-028",
@@ -680,7 +793,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# RIGHT JOIN\n\nRIGHT JOIN内容。",
+    "knowledgePoints": [
+      "db-kp-033"
+    ]
   },
   {
     "id": "db-lesson-029",
@@ -701,7 +818,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# FULL JOIN\n\nFULL JOIN内容。",
+    "knowledgePoints": [
+      "db-kp-034"
+    ]
   },
   {
     "id": "db-lesson-030",
@@ -722,7 +843,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 自连接\n\n自连接内容。",
+    "knowledgePoints": [
+      "db-kp-035"
+    ]
   },
   {
     "id": "db-lesson-031",
@@ -743,7 +868,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多表连接\n\n多表连接内容。",
+    "knowledgePoints": [
+      "db-kp-036"
+    ]
   },
   {
     "id": "db-lesson-032",
@@ -770,7 +899,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 标量子查询\n\n标量子查询内容。",
+    "knowledgePoints": [
+      "db-kp-037"
+    ]
   },
   {
     "id": "db-lesson-033",
@@ -797,7 +930,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行子查询\n\n行子查询内容。",
+    "knowledgePoints": [
+      "db-kp-038"
+    ]
   },
   {
     "id": "db-lesson-034",
@@ -824,7 +961,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 表子查询\n\n表子查询内容。",
+    "knowledgePoints": [
+      "db-kp-039"
+    ]
   },
   {
     "id": "db-lesson-035",
@@ -852,7 +993,12 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# EXISTS子查询\n\nEXISTS子查询内容。",
+    "knowledgePoints": [
+      "db-kp-040",
+      "db-kp-041"
+    ]
   },
   {
     "id": "db-lesson-036",
@@ -879,7 +1025,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# UNION并集\n\nUNION并集内容。",
+    "knowledgePoints": [
+      "db-kp-042"
+    ]
   },
   {
     "id": "db-lesson-037",
@@ -906,7 +1056,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# INTERSECT与EXCEPT\n\nINTERSECT与EXCEPT内容。",
+    "knowledgePoints": [
+      "db-kp-043"
+    ]
   },
   {
     "id": "db-lesson-038",
@@ -927,7 +1081,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# CREATE TABLE\n\nCREATE TABLE内容。",
+    "knowledgePoints": [
+      "db-kp-044"
+    ]
   },
   {
     "id": "db-lesson-039",
@@ -948,7 +1106,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数据类型详解\n\n数据类型详解内容。",
+    "knowledgePoints": [
+      "db-kp-045"
+    ]
   },
   {
     "id": "db-lesson-040",
@@ -969,7 +1131,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# NOT NULL约束\n\nNOT NULL约束内容。",
+    "knowledgePoints": [
+      "db-kp-046"
+    ]
   },
   {
     "id": "db-lesson-041",
@@ -990,7 +1156,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# UNIQUE约束\n\nUNIQUE约束内容。",
+    "knowledgePoints": [
+      "db-kp-047"
+    ]
   },
   {
     "id": "db-lesson-042",
@@ -1011,7 +1181,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# PRIMARY KEY\n\nPRIMARY KEY内容。",
+    "knowledgePoints": [
+      "db-kp-048"
+    ]
   },
   {
     "id": "db-lesson-043",
@@ -1033,7 +1207,12 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# FOREIGN KEY\n\nFOREIGN KEY内容。",
+    "knowledgePoints": [
+      "db-kp-049",
+      "db-kp-050"
+    ]
   },
   {
     "id": "db-lesson-044",
@@ -1054,7 +1233,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# CHECK约束\n\nCHECK约束内容。",
+    "knowledgePoints": [
+      "db-kp-051"
+    ]
   },
   {
     "id": "db-lesson-045",
@@ -1075,7 +1258,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# DEFAULT默认值\n\nDEFAULT默认值内容。",
+    "knowledgePoints": [
+      "db-kp-052"
+    ]
   },
   {
     "id": "db-lesson-046",
@@ -1096,7 +1283,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ALTER TABLE\n\nALTER TABLE内容。",
+    "knowledgePoints": [
+      "db-kp-053"
+    ]
   },
   {
     "id": "db-lesson-047",
@@ -1123,7 +1314,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 索引概念\n\n索引概念内容。",
+    "knowledgePoints": [
+      "db-kp-054"
+    ]
   },
   {
     "id": "db-lesson-048",
@@ -1151,7 +1346,12 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# B+树索引\n\nB+树索引内容。",
+    "knowledgePoints": [
+      "db-kp-055",
+      "db-kp-056"
+    ]
   },
   {
     "id": "db-lesson-049",
@@ -1178,7 +1378,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 聚簇索引\n\n聚簇索引内容。",
+    "knowledgePoints": [
+      "db-kp-057"
+    ]
   },
   {
     "id": "db-lesson-050",
@@ -1205,7 +1409,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 非聚簇索引\n\n非聚簇索引内容。",
+    "knowledgePoints": [
+      "db-kp-058"
+    ]
   },
   {
     "id": "db-lesson-051",
@@ -1232,7 +1440,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 复合索引\n\n复合索引内容。",
+    "knowledgePoints": [
+      "db-kp-059"
+    ]
   },
   {
     "id": "db-lesson-052",
@@ -1259,7 +1471,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# EXPLAIN执行计划\n\nEXPLAIN执行计划内容。",
+    "knowledgePoints": [
+      "db-kp-060"
+    ]
   },
   {
     "id": "db-lesson-053",
@@ -1287,7 +1503,12 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SQL优化\n\nSQL优化内容。",
+    "knowledgePoints": [
+      "db-kp-061",
+      "db-kp-062"
+    ]
   },
   {
     "id": "db-lesson-054",
@@ -1314,7 +1535,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 事务定义\n\n事务定义内容。",
+    "knowledgePoints": [
+      "db-kp-063"
+    ]
   },
   {
     "id": "db-lesson-055",
@@ -1342,7 +1567,12 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ACID特性\n\nACID特性内容。",
+    "knowledgePoints": [
+      "db-kp-064",
+      "db-kp-065"
+    ]
   },
   {
     "id": "db-lesson-056",
@@ -1369,7 +1599,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# COMMIT与ROLLBACK\n\nCOMMIT与ROLLBACK内容。",
+    "knowledgePoints": [
+      "db-kp-066"
+    ]
   },
   {
     "id": "db-lesson-057",
@@ -1396,7 +1630,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 并发问题\n\n并发问题内容。",
+    "knowledgePoints": [
+      "db-kp-067"
+    ]
   },
   {
     "id": "db-lesson-058",
@@ -1423,7 +1661,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 脏读\n\n脏读内容。",
+    "knowledgePoints": [
+      "db-kp-068"
+    ]
   },
   {
     "id": "db-lesson-059",
@@ -1450,7 +1692,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 不可重复读\n\n不可重复读内容。",
+    "knowledgePoints": [
+      "db-kp-069"
+    ]
   },
   {
     "id": "db-lesson-060",
@@ -1477,7 +1723,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 幻读\n\n幻读内容。",
+    "knowledgePoints": [
+      "db-kp-070"
+    ]
   },
   {
     "id": "db-lesson-061",
@@ -1505,7 +1755,12 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 隔离级别\n\n隔离级别内容。",
+    "knowledgePoints": [
+      "db-kp-071",
+      "db-kp-072"
+    ]
   },
   {
     "id": "db-lesson-062",
@@ -1532,7 +1787,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# MVCC原理\n\nMVCC原理内容。",
+    "knowledgePoints": [
+      "db-kp-073"
+    ]
   },
   {
     "id": "db-lesson-063",
@@ -1559,7 +1818,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 封锁机制\n\n封锁机制内容。",
+    "knowledgePoints": [
+      "db-kp-074"
+    ]
   },
   {
     "id": "db-lesson-064",
@@ -1586,7 +1849,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 第一范式1NF\n\n第一范式1NF内容。",
+    "knowledgePoints": [
+      "db-kp-075"
+    ]
   },
   {
     "id": "db-lesson-065",
@@ -1613,7 +1880,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 第二范式2NF\n\n第二范式2NF内容。",
+    "knowledgePoints": [
+      "db-kp-076"
+    ]
   },
   {
     "id": "db-lesson-066",
@@ -1640,7 +1911,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 第三范式3NF\n\n第三范式3NF内容。",
+    "knowledgePoints": [
+      "db-kp-077"
+    ]
   },
   {
     "id": "db-lesson-067",
@@ -1667,7 +1942,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# BCNF\n\nBCNF内容。",
+    "knowledgePoints": [
+      "db-kp-078"
+    ]
   },
   {
     "id": "db-lesson-068",
@@ -1695,7 +1974,12 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数依赖\n\n函数依赖内容。",
+    "knowledgePoints": [
+      "db-kp-079",
+      "db-kp-080"
+    ]
   },
   {
     "id": "db-lesson-069",
@@ -1722,7 +2006,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 无损分解\n\n无损分解内容。",
+    "knowledgePoints": [
+      "db-kp-081"
+    ]
   },
   {
     "id": "db-lesson-070",
@@ -1749,7 +2037,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 依赖保持\n\n依赖保持内容。",
+    "knowledgePoints": [
+      "db-kp-082"
+    ]
   },
   {
     "id": "db-lesson-071",
@@ -1770,7 +2062,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ER图基本元素\n\nER图基本元素内容。",
+    "knowledgePoints": [
+      "db-kp-083"
+    ]
   },
   {
     "id": "db-lesson-072",
@@ -1791,7 +2087,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 实体与属性\n\n实体与属性内容。",
+    "knowledgePoints": [
+      "db-kp-084"
+    ]
   },
   {
     "id": "db-lesson-073",
@@ -1813,7 +2113,12 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 联系与基数\n\n联系与基数内容。",
+    "knowledgePoints": [
+      "db-kp-085",
+      "db-kp-086"
+    ]
   },
   {
     "id": "db-lesson-074",
@@ -1834,7 +2139,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 弱实体\n\n弱实体内容。",
+    "knowledgePoints": [
+      "db-kp-087"
+    ]
   },
   {
     "id": "db-lesson-075",
@@ -1856,7 +2165,12 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ER图转关系模式\n\nER图转关系模式内容。",
+    "knowledgePoints": [
+      "db-kp-088",
+      "db-kp-089"
+    ]
   },
   {
     "id": "db-lesson-076",
@@ -1883,7 +2197,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 学生选课系统\n\n学生选课系统内容。",
+    "knowledgePoints": [
+      "db-kp-090"
+    ]
   },
   {
     "id": "db-lesson-077",
@@ -1910,7 +2228,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 图书管理系统\n\n图书管理系统内容。",
+    "knowledgePoints": [
+      "db-kp-091"
+    ]
   },
   {
     "id": "db-lesson-078",
@@ -1937,7 +2259,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 电商系统\n\n电商系统内容。",
+    "knowledgePoints": [
+      "db-kp-092"
+    ]
   },
   {
     "id": "db-lesson-079",
@@ -1964,7 +2290,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 订单与商品查询\n\n订单与商品查询内容。",
+    "knowledgePoints": [
+      "db-kp-093"
+    ]
   },
   {
     "id": "db-lesson-080",
@@ -1991,7 +2321,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数据统计SQL\n\n数据统计SQL内容。",
+    "knowledgePoints": [
+      "db-kp-094"
+    ]
   },
   {
     "id": "db-lesson-081",
@@ -2012,7 +2346,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SQL综合查询\n\nSQL综合查询内容。",
+    "knowledgePoints": [
+      "db-kp-095"
+    ]
   },
   {
     "id": "db-lesson-082",
@@ -2033,7 +2371,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 事务隔离综合\n\n事务隔离综合内容。",
+    "knowledgePoints": [
+      "db-kp-096"
+    ]
   },
   {
     "id": "db-lesson-083",
@@ -2054,7 +2396,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 范式分析综合\n\n范式分析综合内容。",
+    "knowledgePoints": [
+      "db-kp-097"
+    ]
   },
   {
     "id": "db-lesson-084",
@@ -2075,7 +2421,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数据库面试题\n\n数据库面试题内容。",
+    "knowledgePoints": [
+      "db-kp-098"
+    ]
   },
   {
     "id": "db-lesson-085",
@@ -2096,7 +2446,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 模拟测试\n\n模拟测试内容。",
+    "knowledgePoints": [
+      "db-kp-099"
+    ]
   },
   {
     "id": "db-lesson-086",
@@ -2117,7 +2471,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前冲刺\n\n考前冲刺内容。",
+    "knowledgePoints": [
+      "db-kp-100"
+    ]
   },
   {
     "id": "db-lesson-087",
@@ -2138,7 +2496,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数据库三级模式\n\n数据库三级模式内容。",
+    "knowledgePoints": [
+      "db-kp-0087"
+    ]
   },
   {
     "id": "db-lesson-088",
@@ -2159,7 +2521,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数据独立性\n\n数据独立性内容。",
+    "knowledgePoints": [
+      "db-kp-0088"
+    ]
   },
   {
     "id": "db-lesson-089",
@@ -2180,7 +2546,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 关系语言分类\n\n关系语言分类内容。",
+    "knowledgePoints": [
+      "db-kp-0089"
+    ]
   },
   {
     "id": "db-lesson-090",
@@ -2201,7 +2571,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 关系赋值操作\n\n关系赋值操作内容。",
+    "knowledgePoints": [
+      "db-kp-0090"
+    ]
   },
   {
     "id": "db-lesson-091",
@@ -2222,7 +2596,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SELECT执行顺序\n\nSELECT执行顺序内容。",
+    "knowledgePoints": [
+      "db-kp-0091"
+    ]
   },
   {
     "id": "db-lesson-092",
@@ -2243,7 +2621,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# FROM子句\n\nFROM子句内容。",
+    "knowledgePoints": [
+      "db-kp-0092"
+    ]
   },
   {
     "id": "db-lesson-093",
@@ -2264,7 +2646,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ANDOR组合条件\n\nANDOR组合条件内容。",
+    "knowledgePoints": [
+      "db-kp-0093"
+    ]
   },
   {
     "id": "db-lesson-094",
@@ -2285,7 +2671,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# IN子查询\n\nIN子查询内容。",
+    "knowledgePoints": [
+      "db-kp-0094"
+    ]
   },
   {
     "id": "db-lesson-095",
@@ -2306,7 +2696,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多列分组\n\n多列分组内容。",
+    "knowledgePoints": [
+      "db-kp-0095"
+    ]
   },
   {
     "id": "db-lesson-096",
@@ -2327,7 +2721,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分组过滤综合\n\n分组过滤综合内容。",
+    "knowledgePoints": [
+      "db-kp-0096"
+    ]
   },
   {
     "id": "db-lesson-097",
@@ -2348,7 +2746,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 连接顺序优化\n\n连接顺序优化内容。",
+    "knowledgePoints": [
+      "db-kp-0097"
+    ]
   },
   {
     "id": "db-lesson-098",
@@ -2369,7 +2771,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 自然连接\n\n自然连接内容。",
+    "knowledgePoints": [
+      "db-kp-0098"
+    ]
   },
   {
     "id": "db-lesson-099",
@@ -2390,7 +2796,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# USING与ON区别\n\nUSING与ON区别内容。",
+    "knowledgePoints": [
+      "db-kp-0099"
+    ]
   },
   {
     "id": "db-lesson-100",
@@ -2411,7 +2821,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 标量子查询应用\n\n标量子查询应用内容。",
+    "knowledgePoints": [
+      "db-kp-0100"
+    ]
   },
   {
     "id": "db-lesson-101",
@@ -2432,7 +2846,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行子查询应用\n\n行子查询应用内容。",
+    "knowledgePoints": [
+      "db-kp-0101"
+    ]
   },
   {
     "id": "db-lesson-102",
@@ -2453,7 +2871,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 子查询与JOIN转换\n\n子查询与JOIN转换内容。",
+    "knowledgePoints": [
+      "db-kp-0102"
+    ]
   },
   {
     "id": "db-lesson-103",
@@ -2474,7 +2896,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 自增列AUTO_INCREMENT\n\n自增列AUTO_INCREMENT内容。",
+    "knowledgePoints": [
+      "db-kp-0103"
+    ]
   },
   {
     "id": "db-lesson-104",
@@ -2495,7 +2921,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 外键级联操作\n\n外键级联操作内容。",
+    "knowledgePoints": [
+      "db-kp-0104"
+    ]
   },
   {
     "id": "db-lesson-105",
@@ -2516,7 +2946,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 约束命名\n\n约束命名内容。",
+    "knowledgePoints": [
+      "db-kp-0105"
+    ]
   },
   {
     "id": "db-lesson-106",
@@ -2537,7 +2971,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 临时表\n\n临时表内容。",
+    "knowledgePoints": [
+      "db-kp-0106"
+    ]
   },
   {
     "id": "db-lesson-107",
@@ -2558,7 +2996,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 索引分类\n\n索引分类内容。",
+    "knowledgePoints": [
+      "db-kp-0107"
+    ]
   },
   {
     "id": "db-lesson-108",
@@ -2579,7 +3021,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 索引使用原则\n\n索引使用原则内容。",
+    "knowledgePoints": [
+      "db-kp-0108"
+    ]
   },
   {
     "id": "db-lesson-109",
@@ -2600,7 +3046,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 复合索引最左前缀\n\n复合索引最左前缀内容。",
+    "knowledgePoints": [
+      "db-kp-0109"
+    ]
   },
   {
     "id": "db-lesson-110",
@@ -2621,7 +3071,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 索引失效场景\n\n索引失效场景内容。",
+    "knowledgePoints": [
+      "db-kp-0110"
+    ]
   },
   {
     "id": "db-lesson-111",
@@ -2642,7 +3096,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SAVEPOINT\n\nSAVEPOINT内容。",
+    "knowledgePoints": [
+      "db-kp-0111"
+    ]
   },
   {
     "id": "db-lesson-112",
@@ -2663,7 +3121,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 事务传播行为\n\n事务传播行为内容。",
+    "knowledgePoints": [
+      "db-kp-0112"
+    ]
   },
   {
     "id": "db-lesson-113",
@@ -2684,7 +3146,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 死锁检测\n\n死锁检测内容。",
+    "knowledgePoints": [
+      "db-kp-0113"
+    ]
   },
   {
     "id": "db-lesson-114",
@@ -2705,7 +3171,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 锁升级\n\n锁升级内容。",
+    "knowledgePoints": [
+      "db-kp-0114"
+    ]
   },
   {
     "id": "db-lesson-115",
@@ -2726,7 +3196,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 候选码求解\n\n候选码求解内容。",
+    "knowledgePoints": [
+      "db-kp-0115"
+    ]
   },
   {
     "id": "db-lesson-116",
@@ -2747,7 +3221,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 最小函数依赖集\n\n最小函数依赖集内容。",
+    "knowledgePoints": [
+      "db-kp-0116"
+    ]
   },
   {
     "id": "db-lesson-117",
@@ -2768,7 +3246,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 模式分解算法\n\n模式分解算法内容。",
+    "knowledgePoints": [
+      "db-kp-0117"
+    ]
   },
   {
     "id": "db-lesson-118",
@@ -2789,7 +3271,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ER图完整案例\n\nER图完整案例内容。",
+    "knowledgePoints": [
+      "db-kp-0118"
+    ]
   },
   {
     "id": "db-lesson-119",
@@ -2810,7 +3296,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 弱实体转表\n\n弱实体转表内容。",
+    "knowledgePoints": [
+      "db-kp-0119"
+    ]
   },
   {
     "id": "db-lesson-120",
@@ -2831,7 +3321,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ISA层次转表\n\nISA层次转表内容。",
+    "knowledgePoints": [
+      "db-kp-0120"
+    ]
   },
   {
     "id": "db-lesson-121",
@@ -2852,7 +3346,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 学生选课SQL\n\n学生选课SQL内容。",
+    "knowledgePoints": [
+      "db-kp-0121"
+    ]
   },
   {
     "id": "db-lesson-122",
@@ -2873,7 +3371,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 图书管理SQL\n\n图书管理SQL内容。",
+    "knowledgePoints": [
+      "db-kp-0122"
+    ]
   },
   {
     "id": "db-lesson-123",
@@ -2894,7 +3396,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 电商SQL综合\n\n电商SQL综合内容。",
+    "knowledgePoints": [
+      "db-kp-0123"
+    ]
   },
   {
     "id": "db-lesson-124",
@@ -2915,7 +3421,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 报表统计SQL\n\n报表统计SQL内容。",
+    "knowledgePoints": [
+      "db-kp-0124"
+    ]
   },
   {
     "id": "db-lesson-125",
@@ -2936,7 +3446,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SELECT综合\n\nSELECT综合内容。",
+    "knowledgePoints": [
+      "db-kp-0125"
+    ]
   },
   {
     "id": "db-lesson-126",
@@ -2957,7 +3471,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# JOIN综合\n\nJOIN综合内容。",
+    "knowledgePoints": [
+      "db-kp-0126"
+    ]
   },
   {
     "id": "db-lesson-127",
@@ -2978,7 +3496,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 子查询综合\n\n子查询综合内容。",
+    "knowledgePoints": [
+      "db-kp-0127"
+    ]
   },
   {
     "id": "db-lesson-128",
@@ -2999,7 +3521,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 事务综合\n\n事务综合内容。",
+    "knowledgePoints": [
+      "db-kp-0128"
+    ]
   },
   {
     "id": "db-lesson-129",
@@ -3020,7 +3546,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 范式综合\n\n范式综合内容。",
+    "knowledgePoints": [
+      "db-kp-0129"
+    ]
   },
   {
     "id": "db-lesson-130",
@@ -3041,7 +3571,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ER图综合\n\nER图综合内容。",
+    "knowledgePoints": [
+      "db-kp-0130"
+    ]
   },
   {
     "id": "db-lesson-131",
@@ -3062,7 +3596,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数据库设计综合\n\n数据库设计综合内容。",
+    "knowledgePoints": [
+      "db-kp-0131"
+    ]
   },
   {
     "id": "db-lesson-132",
@@ -3083,7 +3621,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 面试高频题\n\n面试高频题内容。",
+    "knowledgePoints": [
+      "db-kp-0132"
+    ]
   },
   {
     "id": "db-lesson-133",
@@ -3104,7 +3646,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 408数据库题\n\n408数据库题内容。",
+    "knowledgePoints": [
+      "db-kp-0133"
+    ]
   },
   {
     "id": "db-lesson-134",
@@ -3125,7 +3671,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 模拟测试一\n\n模拟测试一内容。",
+    "knowledgePoints": [
+      "db-kp-0134"
+    ]
   },
   {
     "id": "db-lesson-135",
@@ -3146,7 +3696,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 模拟测试二\n\n模拟测试二内容。",
+    "knowledgePoints": [
+      "db-kp-0135"
+    ]
   },
   {
     "id": "db-lesson-136",
@@ -3167,7 +3721,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前冲刺\n\n考前冲刺内容。",
+    "knowledgePoints": [
+      "db-kp-0136"
+    ]
   },
   {
     "id": "db-lesson-137",
@@ -3188,7 +3746,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 关系型与非关系型\n\n关系型与非关系型内容。",
+    "knowledgePoints": [
+      "db-kp-0137"
+    ]
   },
   {
     "id": "db-lesson-138",
@@ -3209,7 +3771,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 基数与元组\n\n基数与元组内容。",
+    "knowledgePoints": [
+      "db-kp-0138"
+    ]
   },
   {
     "id": "db-lesson-139",
@@ -3230,7 +3796,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 列运算表达式\n\n列运算表达式内容。",
+    "knowledgePoints": [
+      "db-kp-0139"
+    ]
   },
   {
     "id": "db-lesson-140",
@@ -3251,7 +3821,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# BETWEEN综合\n\nBETWEEN综合内容。",
+    "knowledgePoints": [
+      "db-kp-0140"
+    ]
   },
   {
     "id": "db-lesson-141",
@@ -3272,7 +3846,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# COUNT(DISTINCT)\n\nCOUNT(DISTINCT)内容。",
+    "knowledgePoints": [
+      "db-kp-0141"
+    ]
   },
   {
     "id": "db-lesson-142",
@@ -3293,7 +3871,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# CROSS JOIN应用\n\nCROSS JOIN应用内容。",
+    "knowledgePoints": [
+      "db-kp-0142"
+    ]
   },
   {
     "id": "db-lesson-143",
@@ -3314,7 +3896,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程1\n\n补充课程1内容。",
+    "knowledgePoints": [
+      "db-kp-0143"
+    ]
   },
   {
     "id": "db-lesson-144",
@@ -3335,7 +3921,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程2\n\n补充课程2内容。",
+    "knowledgePoints": [
+      "db-kp-0144"
+    ]
   },
   {
     "id": "db-lesson-145",
@@ -3356,7 +3946,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程3\n\n补充课程3内容。",
+    "knowledgePoints": [
+      "db-kp-0145"
+    ]
   },
   {
     "id": "db-lesson-146",
@@ -3377,7 +3971,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程4\n\n补充课程4内容。",
+    "knowledgePoints": [
+      "db-kp-0146"
+    ]
   },
   {
     "id": "db-lesson-147",
@@ -3398,7 +3996,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程5\n\n补充课程5内容。",
+    "knowledgePoints": [
+      "db-kp-0147"
+    ]
   },
   {
     "id": "db-lesson-148",
@@ -3419,7 +4021,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程6\n\n补充课程6内容。",
+    "knowledgePoints": [
+      "db-kp-0148"
+    ]
   },
   {
     "id": "db-lesson-149",
@@ -3440,7 +4046,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程7\n\n补充课程7内容。",
+    "knowledgePoints": [
+      "db-kp-0149"
+    ]
   },
   {
     "id": "db-lesson-150",
@@ -3461,7 +4071,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程8\n\n补充课程8内容。",
+    "knowledgePoints": [
+      "db-kp-0150"
+    ]
   },
   {
     "id": "db-lesson-151",
@@ -3482,7 +4096,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程9\n\n补充课程9内容。",
+    "knowledgePoints": [
+      "db-kp-0151"
+    ]
   },
   {
     "id": "db-lesson-152",
@@ -3503,7 +4121,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程10\n\n补充课程10内容。",
+    "knowledgePoints": [
+      "db-kp-0152"
+    ]
   },
   {
     "id": "db-lesson-153",
@@ -3524,7 +4146,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程11\n\n补充课程11内容。",
+    "knowledgePoints": [
+      "db-kp-0153"
+    ]
   },
   {
     "id": "db-lesson-154",
@@ -3545,7 +4171,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程12\n\n补充课程12内容。",
+    "knowledgePoints": [
+      "db-kp-0154"
+    ]
   },
   {
     "id": "db-lesson-155",
@@ -3566,7 +4196,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程13\n\n补充课程13内容。",
+    "knowledgePoints": [
+      "db-kp-0155"
+    ]
   },
   {
     "id": "db-lesson-156",
@@ -3587,7 +4221,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程14\n\n补充课程14内容。",
+    "knowledgePoints": [
+      "db-kp-0156"
+    ]
   },
   {
     "id": "db-lesson-157",
@@ -3608,7 +4246,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程15\n\n补充课程15内容。",
+    "knowledgePoints": [
+      "db-kp-0157"
+    ]
   },
   {
     "id": "db-lesson-158",
@@ -3629,7 +4271,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程16\n\n补充课程16内容。",
+    "knowledgePoints": [
+      "db-kp-0158"
+    ]
   },
   {
     "id": "db-lesson-159",
@@ -3650,7 +4296,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程17\n\n补充课程17内容。",
+    "knowledgePoints": [
+      "db-kp-0159"
+    ]
   },
   {
     "id": "db-lesson-160",
@@ -3671,7 +4321,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程18\n\n补充课程18内容。",
+    "knowledgePoints": [
+      "db-kp-0160"
+    ]
   },
   {
     "id": "db-lesson-161",
@@ -3692,7 +4346,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程19\n\n补充课程19内容。",
+    "knowledgePoints": [
+      "db-kp-0161"
+    ]
   },
   {
     "id": "db-lesson-162",
@@ -3713,7 +4371,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程20\n\n补充课程20内容。",
+    "knowledgePoints": [
+      "db-kp-0162"
+    ]
   },
   {
     "id": "db-lesson-163",
@@ -3734,7 +4396,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程21\n\n补充课程21内容。",
+    "knowledgePoints": [
+      "db-kp-0163"
+    ]
   },
   {
     "id": "db-lesson-164",
@@ -3755,7 +4421,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程22\n\n补充课程22内容。",
+    "knowledgePoints": [
+      "db-kp-0164"
+    ]
   },
   {
     "id": "db-lesson-165",
@@ -3776,7 +4446,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程23\n\n补充课程23内容。",
+    "knowledgePoints": [
+      "db-kp-0165"
+    ]
   },
   {
     "id": "db-lesson-166",
@@ -3797,7 +4471,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程24\n\n补充课程24内容。",
+    "knowledgePoints": [
+      "db-kp-0166"
+    ]
   },
   {
     "id": "db-lesson-167",
@@ -3818,7 +4496,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程25\n\n补充课程25内容。",
+    "knowledgePoints": [
+      "db-kp-0167"
+    ]
   },
   {
     "id": "db-lesson-168",
@@ -3839,7 +4521,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程26\n\n补充课程26内容。",
+    "knowledgePoints": [
+      "db-kp-0168"
+    ]
   },
   {
     "id": "db-lesson-169",
@@ -3860,7 +4546,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程27\n\n补充课程27内容。",
+    "knowledgePoints": [
+      "db-kp-0169"
+    ]
   },
   {
     "id": "db-lesson-170",
@@ -3881,7 +4571,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程28\n\n补充课程28内容。",
+    "knowledgePoints": [
+      "db-kp-0170"
+    ]
   },
   {
     "id": "db-lesson-171",
@@ -3902,7 +4596,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程29\n\n补充课程29内容。",
+    "knowledgePoints": [
+      "db-kp-0171"
+    ]
   },
   {
     "id": "db-lesson-172",
@@ -3923,7 +4621,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程30\n\n补充课程30内容。",
+    "knowledgePoints": [
+      "db-kp-0172"
+    ]
   },
   {
     "id": "db-lesson-173",
@@ -3944,7 +4646,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程31\n\n补充课程31内容。",
+    "knowledgePoints": [
+      "db-kp-0173"
+    ]
   },
   {
     "id": "db-lesson-174",
@@ -3965,7 +4671,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程32\n\n补充课程32内容。",
+    "knowledgePoints": [
+      "db-kp-0174"
+    ]
   },
   {
     "id": "db-lesson-175",
@@ -3986,7 +4696,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程33\n\n补充课程33内容。",
+    "knowledgePoints": [
+      "db-kp-0175"
+    ]
   },
   {
     "id": "db-lesson-176",
@@ -4007,7 +4721,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程34\n\n补充课程34内容。",
+    "knowledgePoints": [
+      "db-kp-0176"
+    ]
   },
   {
     "id": "db-lesson-177",
@@ -4028,7 +4746,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程35\n\n补充课程35内容。",
+    "knowledgePoints": [
+      "db-kp-0177"
+    ]
   },
   {
     "id": "db-lesson-178",
@@ -4049,7 +4771,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程36\n\n补充课程36内容。",
+    "knowledgePoints": [
+      "db-kp-0178"
+    ]
   },
   {
     "id": "db-lesson-179",
@@ -4070,7 +4796,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程37\n\n补充课程37内容。",
+    "knowledgePoints": [
+      "db-kp-0179"
+    ]
   },
   {
     "id": "db-lesson-180",
@@ -4091,7 +4821,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程38\n\n补充课程38内容。",
+    "knowledgePoints": [
+      "db-kp-0180"
+    ]
   },
   {
     "id": "db-lesson-181",
@@ -4112,7 +4846,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程39\n\n补充课程39内容。",
+    "knowledgePoints": [
+      "db-kp-0181"
+    ]
   },
   {
     "id": "db-lesson-182",
@@ -4133,7 +4871,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程40\n\n补充课程40内容。",
+    "knowledgePoints": [
+      "db-kp-0182"
+    ]
   },
   {
     "id": "db-lesson-183",
@@ -4154,7 +4896,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程41\n\n补充课程41内容。",
+    "knowledgePoints": [
+      "db-kp-0183"
+    ]
   },
   {
     "id": "db-lesson-184",
@@ -4175,7 +4921,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程42\n\n补充课程42内容。",
+    "knowledgePoints": [
+      "db-kp-0184"
+    ]
   },
   {
     "id": "db-lesson-185",
@@ -4196,7 +4946,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程43\n\n补充课程43内容。",
+    "knowledgePoints": [
+      "db-kp-0185"
+    ]
   },
   {
     "id": "db-lesson-186",
@@ -4217,7 +4971,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程44\n\n补充课程44内容。",
+    "knowledgePoints": [
+      "db-kp-0186"
+    ]
   },
   {
     "id": "db-lesson-187",
@@ -4238,7 +4996,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程45\n\n补充课程45内容。",
+    "knowledgePoints": [
+      "db-kp-0187"
+    ]
   },
   {
     "id": "db-lesson-188",
@@ -4259,7 +5021,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程46\n\n补充课程46内容。",
+    "knowledgePoints": [
+      "db-kp-0188"
+    ]
   },
   {
     "id": "db-lesson-189",
@@ -4280,7 +5046,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程47\n\n补充课程47内容。",
+    "knowledgePoints": [
+      "db-kp-0189"
+    ]
   },
   {
     "id": "db-lesson-190",
@@ -4301,7 +5071,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程48\n\n补充课程48内容。",
+    "knowledgePoints": [
+      "db-kp-0190"
+    ]
   },
   {
     "id": "db-lesson-191",
@@ -4322,7 +5096,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程49\n\n补充课程49内容。",
+    "knowledgePoints": [
+      "db-kp-0191"
+    ]
   },
   {
     "id": "db-lesson-192",
@@ -4343,7 +5121,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程50\n\n补充课程50内容。",
+    "knowledgePoints": [
+      "db-kp-0192"
+    ]
   },
   {
     "id": "db-lesson-193",
@@ -4364,7 +5146,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程51\n\n补充课程51内容。",
+    "knowledgePoints": [
+      "db-kp-0193"
+    ]
   },
   {
     "id": "db-lesson-194",
@@ -4385,7 +5171,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程52\n\n补充课程52内容。",
+    "knowledgePoints": [
+      "db-kp-0194"
+    ]
   },
   {
     "id": "db-lesson-195",
@@ -4406,7 +5196,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程53\n\n补充课程53内容。",
+    "knowledgePoints": [
+      "db-kp-0195"
+    ]
   },
   {
     "id": "db-lesson-196",
@@ -4427,7 +5221,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程54\n\n补充课程54内容。",
+    "knowledgePoints": [
+      "db-kp-0196"
+    ]
   },
   {
     "id": "db-lesson-197",
@@ -4448,7 +5246,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程55\n\n补充课程55内容。",
+    "knowledgePoints": [
+      "db-kp-0197"
+    ]
   },
   {
     "id": "db-lesson-198",
@@ -4469,7 +5271,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程56\n\n补充课程56内容。",
+    "knowledgePoints": [
+      "db-kp-0198"
+    ]
   },
   {
     "id": "db-lesson-199",
@@ -4490,7 +5296,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程57\n\n补充课程57内容。",
+    "knowledgePoints": [
+      "db-kp-0199"
+    ]
   },
   {
     "id": "db-lesson-200",
@@ -4511,7 +5321,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程58\n\n补充课程58内容。",
+    "knowledgePoints": [
+      "db-kp-0200"
+    ]
   },
   {
     "id": "db-lesson-201",
@@ -4532,7 +5346,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程59\n\n补充课程59内容。",
+    "knowledgePoints": [
+      "db-kp-0201"
+    ]
   },
   {
     "id": "db-lesson-202",
@@ -4553,7 +5371,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程60\n\n补充课程60内容。",
+    "knowledgePoints": [
+      "db-kp-0202"
+    ]
   },
   {
     "id": "db-lesson-203",
@@ -4574,7 +5396,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程61\n\n补充课程61内容。",
+    "knowledgePoints": [
+      "db-kp-0203"
+    ]
   },
   {
     "id": "db-lesson-204",
@@ -4595,7 +5421,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程62\n\n补充课程62内容。",
+    "knowledgePoints": [
+      "db-kp-0204"
+    ]
   },
   {
     "id": "db-lesson-205",
@@ -4616,7 +5446,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程63\n\n补充课程63内容。",
+    "knowledgePoints": [
+      "db-kp-0205"
+    ]
   },
   {
     "id": "db-lesson-206",
@@ -4637,7 +5471,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程64\n\n补充课程64内容。",
+    "knowledgePoints": [
+      "db-kp-0206"
+    ]
   },
   {
     "id": "db-lesson-207",
@@ -4658,7 +5496,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程65\n\n补充课程65内容。",
+    "knowledgePoints": [
+      "db-kp-0207"
+    ]
   },
   {
     "id": "db-lesson-208",
@@ -4679,7 +5521,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程66\n\n补充课程66内容。",
+    "knowledgePoints": [
+      "db-kp-0208"
+    ]
   },
   {
     "id": "db-lesson-209",
@@ -4700,7 +5546,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程67\n\n补充课程67内容。",
+    "knowledgePoints": [
+      "db-kp-0209"
+    ]
   },
   {
     "id": "db-lesson-210",
@@ -4721,7 +5571,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程68\n\n补充课程68内容。",
+    "knowledgePoints": [
+      "db-kp-0210"
+    ]
   },
   {
     "id": "db-lesson-211",
@@ -4742,7 +5596,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程69\n\n补充课程69内容。",
+    "knowledgePoints": [
+      "db-kp-0211"
+    ]
   },
   {
     "id": "db-lesson-212",
@@ -4763,7 +5621,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程70\n\n补充课程70内容。",
+    "knowledgePoints": [
+      "db-kp-0212"
+    ]
   },
   {
     "id": "db-lesson-213",
@@ -4784,7 +5646,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程71\n\n补充课程71内容。",
+    "knowledgePoints": [
+      "db-kp-0213"
+    ]
   },
   {
     "id": "db-lesson-214",
@@ -4805,7 +5671,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程72\n\n补充课程72内容。",
+    "knowledgePoints": [
+      "db-kp-0214"
+    ]
   },
   {
     "id": "db-lesson-215",
@@ -4826,7 +5696,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程73\n\n补充课程73内容。",
+    "knowledgePoints": [
+      "db-kp-0215"
+    ]
   },
   {
     "id": "db-lesson-216",
@@ -4847,7 +5721,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程74\n\n补充课程74内容。",
+    "knowledgePoints": [
+      "db-kp-0216"
+    ]
   },
   {
     "id": "db-lesson-217",
@@ -4868,7 +5746,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程75\n\n补充课程75内容。",
+    "knowledgePoints": [
+      "db-kp-0217"
+    ]
   },
   {
     "id": "db-lesson-218",
@@ -4889,7 +5771,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程76\n\n补充课程76内容。",
+    "knowledgePoints": [
+      "db-kp-0218"
+    ]
   },
   {
     "id": "db-lesson-219",
@@ -4910,7 +5796,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程77\n\n补充课程77内容。",
+    "knowledgePoints": [
+      "db-kp-0219"
+    ]
   },
   {
     "id": "db-lesson-220",
@@ -4931,7 +5821,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程78\n\n补充课程78内容。",
+    "knowledgePoints": [
+      "db-kp-0220"
+    ]
   },
   {
     "id": "db-lesson-221",
@@ -4952,7 +5846,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程79\n\n补充课程79内容。",
+    "knowledgePoints": [
+      "db-kp-0221"
+    ]
   },
   {
     "id": "db-lesson-222",
@@ -4973,7 +5871,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程80\n\n补充课程80内容。",
+    "knowledgePoints": [
+      "db-kp-0222"
+    ]
   },
   {
     "id": "db-lesson-223",
@@ -4994,7 +5896,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程81\n\n补充课程81内容。",
+    "knowledgePoints": [
+      "db-kp-0223"
+    ]
   },
   {
     "id": "db-lesson-224",
@@ -5015,7 +5921,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程82\n\n补充课程82内容。",
+    "knowledgePoints": [
+      "db-kp-0224"
+    ]
   },
   {
     "id": "db-lesson-225",
@@ -5036,7 +5946,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程83\n\n补充课程83内容。",
+    "knowledgePoints": [
+      "db-kp-0225"
+    ]
   },
   {
     "id": "db-lesson-226",
@@ -5057,7 +5971,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程84\n\n补充课程84内容。",
+    "knowledgePoints": [
+      "db-kp-0226"
+    ]
   },
   {
     "id": "db-lesson-227",
@@ -5078,7 +5996,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程85\n\n补充课程85内容。",
+    "knowledgePoints": [
+      "db-kp-0227"
+    ]
   },
   {
     "id": "db-lesson-228",
@@ -5099,7 +6021,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程86\n\n补充课程86内容。",
+    "knowledgePoints": [
+      "db-kp-0228"
+    ]
   },
   {
     "id": "db-lesson-229",
@@ -5120,7 +6046,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程87\n\n补充课程87内容。",
+    "knowledgePoints": [
+      "db-kp-0229"
+    ]
   },
   {
     "id": "db-lesson-230",
@@ -5141,7 +6071,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程88\n\n补充课程88内容。",
+    "knowledgePoints": [
+      "db-kp-0230"
+    ]
   },
   {
     "id": "db-lesson-231",
@@ -5162,7 +6096,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程89\n\n补充课程89内容。",
+    "knowledgePoints": [
+      "db-kp-0231"
+    ]
   },
   {
     "id": "db-lesson-232",
@@ -5183,7 +6121,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程90\n\n补充课程90内容。",
+    "knowledgePoints": [
+      "db-kp-0232"
+    ]
   },
   {
     "id": "db-lesson-233",
@@ -5204,7 +6146,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程91\n\n补充课程91内容。",
+    "knowledgePoints": [
+      "db-kp-0233"
+    ]
   },
   {
     "id": "db-lesson-234",
@@ -5225,7 +6171,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程92\n\n补充课程92内容。",
+    "knowledgePoints": [
+      "db-kp-0234"
+    ]
   },
   {
     "id": "db-lesson-235",
@@ -5246,7 +6196,11 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程93\n\n补充课程93内容。",
+    "knowledgePoints": [
+      "db-kp-0235"
+    ]
   },
   {
     "id": "db-lesson-236",
@@ -5267,6 +6221,10 @@
       "数据库"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充课程94\n\n补充课程94内容。",
+    "knowledgePoints": [
+      "db-kp-0236"
+    ]
   }
 ]

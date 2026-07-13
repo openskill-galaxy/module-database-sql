@@ -5,7 +5,8 @@
     "category": "数据库",
     "description": "数据库标签：数据库",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据库"
   },
   {
     "id": "db-tag-002",
@@ -13,7 +14,8 @@
     "category": "数据库",
     "description": "数据库标签：DBMS",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "dbms"
   },
   {
     "id": "db-tag-003",
@@ -21,7 +23,8 @@
     "category": "数据库",
     "description": "数据库标签：关系模型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "关系模型"
   },
   {
     "id": "db-tag-004",
@@ -29,7 +32,8 @@
     "category": "数据库",
     "description": "数据库标签：SQL",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "sql"
   },
   {
     "id": "db-tag-005",
@@ -37,7 +41,8 @@
     "category": "数据库",
     "description": "数据库标签：SELECT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "select"
   },
   {
     "id": "db-tag-006",
@@ -45,7 +50,8 @@
     "category": "数据库",
     "description": "数据库标签：WHERE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "where"
   },
   {
     "id": "db-tag-007",
@@ -53,7 +59,8 @@
     "category": "数据库",
     "description": "数据库标签：ORDER",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "order"
   },
   {
     "id": "db-tag-008",
@@ -61,7 +68,8 @@
     "category": "数据库",
     "description": "数据库标签：BY",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "by"
   },
   {
     "id": "db-tag-009",
@@ -69,7 +77,8 @@
     "category": "数据库",
     "description": "数据库标签：GROUP",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "group"
   },
   {
     "id": "db-tag-010",
@@ -77,7 +86,8 @@
     "category": "数据库",
     "description": "数据库标签：BY",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "by"
   },
   {
     "id": "db-tag-011",
@@ -85,7 +95,8 @@
     "category": "数据库",
     "description": "数据库标签：HAVING",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "having"
   },
   {
     "id": "db-tag-012",
@@ -93,7 +104,8 @@
     "category": "数据库",
     "description": "数据库标签：JOIN",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "join"
   },
   {
     "id": "db-tag-013",
@@ -101,7 +113,8 @@
     "category": "数据库",
     "description": "数据库标签：INNER",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "inner"
   },
   {
     "id": "db-tag-014",
@@ -109,7 +122,8 @@
     "category": "数据库",
     "description": "数据库标签：JOIN",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "join"
   },
   {
     "id": "db-tag-015",
@@ -117,7 +131,8 @@
     "category": "数据库",
     "description": "数据库标签：LEFT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "left"
   },
   {
     "id": "db-tag-016",
@@ -125,7 +140,8 @@
     "category": "数据库",
     "description": "数据库标签：JOIN",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "join"
   },
   {
     "id": "db-tag-017",
@@ -133,7 +149,8 @@
     "category": "数据库",
     "description": "数据库标签：RIGHT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "right"
   },
   {
     "id": "db-tag-018",
@@ -141,7 +158,8 @@
     "category": "数据库",
     "description": "数据库标签：JOIN",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "join"
   },
   {
     "id": "db-tag-019",
@@ -149,7 +167,8 @@
     "category": "数据库",
     "description": "数据库标签：FULL",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "full"
   },
   {
     "id": "db-tag-020",
@@ -157,7 +176,8 @@
     "category": "数据库",
     "description": "数据库标签：JOIN",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "join"
   },
   {
     "id": "db-tag-021",
@@ -165,7 +185,8 @@
     "category": "数据库",
     "description": "数据库标签：自连接",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自连接"
   },
   {
     "id": "db-tag-022",
@@ -173,7 +194,8 @@
     "category": "数据库",
     "description": "数据库标签：CROSS",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cross"
   },
   {
     "id": "db-tag-023",
@@ -181,7 +203,8 @@
     "category": "数据库",
     "description": "数据库标签：JOIN",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "join"
   },
   {
     "id": "db-tag-024",
@@ -189,7 +212,8 @@
     "category": "数据库",
     "description": "数据库标签：子查询",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "子查询"
   },
   {
     "id": "db-tag-025",
@@ -197,7 +221,8 @@
     "category": "数据库",
     "description": "数据库标签：相关子查询",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "相关子查询"
   },
   {
     "id": "db-tag-026",
@@ -205,7 +230,8 @@
     "category": "数据库",
     "description": "数据库标签：EXISTS",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "exists"
   },
   {
     "id": "db-tag-027",
@@ -213,7 +239,8 @@
     "category": "数据库",
     "description": "数据库标签：UNION",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "union"
   },
   {
     "id": "db-tag-028",
@@ -221,7 +248,8 @@
     "category": "数据库",
     "description": "数据库标签：INTERSECT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "intersect"
   },
   {
     "id": "db-tag-029",
@@ -229,7 +257,8 @@
     "category": "数据库",
     "description": "数据库标签：EXCEPT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "except"
   },
   {
     "id": "db-tag-030",
@@ -237,7 +266,8 @@
     "category": "数据库",
     "description": "数据库标签：INSERT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "insert"
   },
   {
     "id": "db-tag-031",
@@ -245,7 +275,8 @@
     "category": "数据库",
     "description": "数据库标签：UPDATE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "update"
   },
   {
     "id": "db-tag-032",
@@ -253,7 +284,8 @@
     "category": "数据库",
     "description": "数据库标签：DELETE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "delete"
   },
   {
     "id": "db-tag-033",
@@ -261,7 +293,8 @@
     "category": "数据库",
     "description": "数据库标签：CREATE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "create"
   },
   {
     "id": "db-tag-034",
@@ -269,7 +302,8 @@
     "category": "数据库",
     "description": "数据库标签：TABLE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "table"
   },
   {
     "id": "db-tag-035",
@@ -277,7 +311,8 @@
     "category": "数据库",
     "description": "数据库标签：ALTER",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "alter"
   },
   {
     "id": "db-tag-036",
@@ -285,7 +320,8 @@
     "category": "数据库",
     "description": "数据库标签：TABLE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "table"
   },
   {
     "id": "db-tag-037",
@@ -293,7 +329,8 @@
     "category": "数据库",
     "description": "数据库标签：DROP",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "drop"
   },
   {
     "id": "db-tag-038",
@@ -301,7 +338,8 @@
     "category": "数据库",
     "description": "数据库标签：TABLE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "table"
   },
   {
     "id": "db-tag-039",
@@ -309,7 +347,8 @@
     "category": "数据库",
     "description": "数据库标签：数据类型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据类型"
   },
   {
     "id": "db-tag-040",
@@ -317,7 +356,8 @@
     "category": "数据库",
     "description": "数据库标签：INT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "int"
   },
   {
     "id": "db-tag-041",
@@ -325,7 +365,8 @@
     "category": "数据库",
     "description": "数据库标签：VARCHAR",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "varchar"
   },
   {
     "id": "db-tag-042",
@@ -333,7 +374,8 @@
     "category": "数据库",
     "description": "数据库标签：CHAR",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "char"
   },
   {
     "id": "db-tag-043",
@@ -341,7 +383,8 @@
     "category": "数据库",
     "description": "数据库标签：TEXT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "text"
   },
   {
     "id": "db-tag-044",
@@ -349,7 +392,8 @@
     "category": "数据库",
     "description": "数据库标签：BOOLEAN",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "boolean"
   },
   {
     "id": "db-tag-045",
@@ -357,7 +401,8 @@
     "category": "数据库",
     "description": "数据库标签：DATE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "date"
   },
   {
     "id": "db-tag-046",
@@ -365,7 +410,8 @@
     "category": "数据库",
     "description": "数据库标签：TIMESTAMP",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "timestamp"
   },
   {
     "id": "db-tag-047",
@@ -373,7 +419,8 @@
     "category": "数据库",
     "description": "数据库标签：FLOAT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "float"
   },
   {
     "id": "db-tag-048",
@@ -381,7 +428,8 @@
     "category": "数据库",
     "description": "数据库标签：DECIMAL",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "decimal"
   },
   {
     "id": "db-tag-049",
@@ -389,7 +437,8 @@
     "category": "数据库",
     "description": "数据库标签：NULL",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "null"
   },
   {
     "id": "db-tag-050",
@@ -397,7 +446,8 @@
     "category": "数据库",
     "description": "数据库标签：NOT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "not"
   },
   {
     "id": "db-tag-051",
@@ -405,7 +455,8 @@
     "category": "数据库",
     "description": "数据库标签：NULL",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "null"
   },
   {
     "id": "db-tag-052",
@@ -413,7 +464,8 @@
     "category": "数据库",
     "description": "数据库标签：UNIQUE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "unique"
   },
   {
     "id": "db-tag-053",
@@ -421,7 +473,8 @@
     "category": "数据库",
     "description": "数据库标签：PRIMARY",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "primary"
   },
   {
     "id": "db-tag-054",
@@ -429,7 +482,8 @@
     "category": "数据库",
     "description": "数据库标签：KEY",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "key"
   },
   {
     "id": "db-tag-055",
@@ -437,7 +491,8 @@
     "category": "数据库",
     "description": "数据库标签：FOREIGN",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "foreign"
   },
   {
     "id": "db-tag-056",
@@ -445,7 +500,8 @@
     "category": "数据库",
     "description": "数据库标签：KEY",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "key"
   },
   {
     "id": "db-tag-057",
@@ -453,7 +509,8 @@
     "category": "数据库",
     "description": "数据库标签：CHECK",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "check"
   },
   {
     "id": "db-tag-058",
@@ -461,7 +518,8 @@
     "category": "数据库",
     "description": "数据库标签：DEFAULT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "default"
   },
   {
     "id": "db-tag-059",
@@ -469,7 +527,8 @@
     "category": "数据库",
     "description": "数据库标签：AUTO_INCREMENT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "auto_increment"
   },
   {
     "id": "db-tag-060",
@@ -477,7 +536,8 @@
     "category": "数据库",
     "description": "数据库标签：INDEX",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "index"
   },
   {
     "id": "db-tag-061",
@@ -485,7 +545,8 @@
     "category": "数据库",
     "description": "数据库标签：视图",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "视图"
   },
   {
     "id": "db-tag-062",
@@ -493,7 +554,8 @@
     "category": "数据库",
     "description": "数据库标签：VIEW",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "view"
   },
   {
     "id": "db-tag-063",
@@ -501,7 +563,8 @@
     "category": "数据库",
     "description": "数据库标签：存储过程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "存储过程"
   },
   {
     "id": "db-tag-064",
@@ -509,7 +572,8 @@
     "category": "数据库",
     "description": "数据库标签：触发器",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "触发器"
   },
   {
     "id": "db-tag-065",
@@ -517,7 +581,8 @@
     "category": "数据库",
     "description": "数据库标签：TRIGGER",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "trigger"
   },
   {
     "id": "db-tag-066",
@@ -525,7 +590,8 @@
     "category": "数据库",
     "description": "数据库标签：函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "函数"
   },
   {
     "id": "db-tag-067",
@@ -533,7 +599,8 @@
     "category": "数据库",
     "description": "数据库标签：事务",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "事务"
   },
   {
     "id": "db-tag-068",
@@ -541,7 +608,8 @@
     "category": "数据库",
     "description": "数据库标签：ACID",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "acid"
   },
   {
     "id": "db-tag-069",
@@ -549,7 +617,8 @@
     "category": "数据库",
     "description": "数据库标签：原子性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "原子性"
   },
   {
     "id": "db-tag-070",
@@ -557,7 +626,8 @@
     "category": "数据库",
     "description": "数据库标签：一致性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "一致性"
   },
   {
     "id": "db-tag-071",
@@ -565,7 +635,8 @@
     "category": "数据库",
     "description": "数据库标签：隔离性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "隔离性"
   },
   {
     "id": "db-tag-072",
@@ -573,7 +644,8 @@
     "category": "数据库",
     "description": "数据库标签：持久性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "持久性"
   },
   {
     "id": "db-tag-073",
@@ -581,7 +653,8 @@
     "category": "数据库",
     "description": "数据库标签：COMMIT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "commit"
   },
   {
     "id": "db-tag-074",
@@ -589,7 +662,8 @@
     "category": "数据库",
     "description": "数据库标签：ROLLBACK",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "rollback"
   },
   {
     "id": "db-tag-075",
@@ -597,7 +671,8 @@
     "category": "数据库",
     "description": "数据库标签：SAVEPOINT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "savepoint"
   },
   {
     "id": "db-tag-076",
@@ -605,7 +680,8 @@
     "category": "数据库",
     "description": "数据库标签：并发控制",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "并发控制"
   },
   {
     "id": "db-tag-077",
@@ -613,7 +689,8 @@
     "category": "数据库",
     "description": "数据库标签：封锁",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "封锁"
   },
   {
     "id": "db-tag-078",
@@ -621,7 +698,8 @@
     "category": "数据库",
     "description": "数据库标签：共享锁",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "共享锁"
   },
   {
     "id": "db-tag-079",
@@ -629,7 +707,8 @@
     "category": "数据库",
     "description": "数据库标签：排他锁",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "排他锁"
   },
   {
     "id": "db-tag-080",
@@ -637,7 +716,8 @@
     "category": "数据库",
     "description": "数据库标签：死锁",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "死锁"
   },
   {
     "id": "db-tag-081",
@@ -645,7 +725,8 @@
     "category": "数据库",
     "description": "数据库标签：隔离级别",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "隔离级别"
   },
   {
     "id": "db-tag-082",
@@ -653,7 +734,8 @@
     "category": "数据库",
     "description": "数据库标签：READ",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "read"
   },
   {
     "id": "db-tag-083",
@@ -661,7 +743,8 @@
     "category": "数据库",
     "description": "数据库标签：UNCOMMITTED",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "uncommitted"
   },
   {
     "id": "db-tag-084",
@@ -669,7 +752,8 @@
     "category": "数据库",
     "description": "数据库标签：READ",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "read"
   },
   {
     "id": "db-tag-085",
@@ -677,7 +761,8 @@
     "category": "数据库",
     "description": "数据库标签：COMMITTED",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "committed"
   },
   {
     "id": "db-tag-086",
@@ -685,7 +770,8 @@
     "category": "数据库",
     "description": "数据库标签：REPEATABLE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "repeatable"
   },
   {
     "id": "db-tag-087",
@@ -693,7 +779,8 @@
     "category": "数据库",
     "description": "数据库标签：READ",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "read"
   },
   {
     "id": "db-tag-088",
@@ -701,7 +788,8 @@
     "category": "数据库",
     "description": "数据库标签：SERIALIZABLE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "serializable"
   },
   {
     "id": "db-tag-089",
@@ -709,7 +797,8 @@
     "category": "数据库",
     "description": "数据库标签：脏读",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "脏读"
   },
   {
     "id": "db-tag-090",
@@ -717,7 +806,8 @@
     "category": "数据库",
     "description": "数据库标签：不可重复读",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "不可重复读"
   },
   {
     "id": "db-tag-091",
@@ -725,7 +815,8 @@
     "category": "数据库",
     "description": "数据库标签：幻读",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "幻读"
   },
   {
     "id": "db-tag-092",
@@ -733,7 +824,8 @@
     "category": "数据库",
     "description": "数据库标签：MVCC",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mvcc"
   },
   {
     "id": "db-tag-093",
@@ -741,7 +833,8 @@
     "category": "数据库",
     "description": "数据库标签：日志",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "日志"
   },
   {
     "id": "db-tag-094",
@@ -749,7 +842,8 @@
     "category": "数据库",
     "description": "数据库标签：undo",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "undo"
   },
   {
     "id": "db-tag-095",
@@ -757,7 +851,8 @@
     "category": "数据库",
     "description": "数据库标签：redo",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "redo"
   },
   {
     "id": "db-tag-096",
@@ -765,7 +860,8 @@
     "category": "数据库",
     "description": "数据库标签：检查点",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "检查点"
   },
   {
     "id": "db-tag-097",
@@ -773,7 +869,8 @@
     "category": "数据库",
     "description": "数据库标签：主码",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "主码"
   },
   {
     "id": "db-tag-098",
@@ -781,7 +878,8 @@
     "category": "数据库",
     "description": "数据库标签：外码",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "外码"
   },
   {
     "id": "db-tag-099",
@@ -789,7 +887,8 @@
     "category": "数据库",
     "description": "数据库标签：候选码",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "候选码"
   },
   {
     "id": "db-tag-100",
@@ -797,7 +896,8 @@
     "category": "数据库",
     "description": "数据库标签：超码",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "超码"
   },
   {
     "id": "db-tag-101",
@@ -805,7 +905,8 @@
     "category": "数据库",
     "description": "数据库标签：关系完整性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "关系完整性"
   },
   {
     "id": "db-tag-102",
@@ -813,7 +914,8 @@
     "category": "数据库",
     "description": "数据库标签：实体完整性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "实体完整性"
   },
   {
     "id": "db-tag-103",
@@ -821,7 +923,8 @@
     "category": "数据库",
     "description": "数据库标签：参照完整性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "参照完整性"
   },
   {
     "id": "db-tag-104",
@@ -829,7 +932,8 @@
     "category": "数据库",
     "description": "数据库标签：用户自定义完整性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "用户自定义完整性"
   },
   {
     "id": "db-tag-105",
@@ -837,7 +941,8 @@
     "category": "数据库",
     "description": "数据库标签：关系代数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "关系代数"
   },
   {
     "id": "db-tag-106",
@@ -845,7 +950,8 @@
     "category": "数据库",
     "description": "数据库标签：选择σ",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "选择σ"
   },
   {
     "id": "db-tag-107",
@@ -853,7 +959,8 @@
     "category": "数据库",
     "description": "数据库标签：投影π",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "投影π"
   },
   {
     "id": "db-tag-108",
@@ -861,7 +968,8 @@
     "category": "数据库",
     "description": "数据库标签：连接⋈",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "连接⋈"
   },
   {
     "id": "db-tag-109",
@@ -869,7 +977,8 @@
     "category": "数据库",
     "description": "数据库标签：除法÷",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "除法÷"
   },
   {
     "id": "db-tag-110",
@@ -877,7 +986,8 @@
     "category": "数据库",
     "description": "数据库标签：笛卡尔积×",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "笛卡尔积×"
   },
   {
     "id": "db-tag-111",
@@ -885,7 +995,8 @@
     "category": "数据库",
     "description": "数据库标签：并∪",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "并∪"
   },
   {
     "id": "db-tag-112",
@@ -893,7 +1004,8 @@
     "category": "数据库",
     "description": "数据库标签：交∩",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "交∩"
   },
   {
     "id": "db-tag-113",
@@ -901,7 +1013,8 @@
     "category": "数据库",
     "description": "数据库标签：差−",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "差−"
   },
   {
     "id": "db-tag-114",
@@ -909,7 +1022,8 @@
     "category": "数据库",
     "description": "数据库标签：域",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "域"
   },
   {
     "id": "db-tag-115",
@@ -917,7 +1031,8 @@
     "category": "数据库",
     "description": "数据库标签：元组",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "元组"
   },
   {
     "id": "db-tag-116",
@@ -925,7 +1040,8 @@
     "category": "数据库",
     "description": "数据库标签：属性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "属性"
   },
   {
     "id": "db-tag-117",
@@ -933,7 +1049,8 @@
     "category": "数据库",
     "description": "数据库标签：表",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "表"
   },
   {
     "id": "db-tag-118",
@@ -941,7 +1058,8 @@
     "category": "数据库",
     "description": "数据库标签：行",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "行"
   },
   {
     "id": "db-tag-119",
@@ -949,7 +1067,8 @@
     "category": "数据库",
     "description": "数据库标签：列",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "列"
   },
   {
     "id": "db-tag-120",
@@ -957,7 +1076,8 @@
     "category": "数据库",
     "description": "数据库标签：范式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "范式"
   },
   {
     "id": "db-tag-121",
@@ -965,7 +1085,8 @@
     "category": "数据库",
     "description": "数据库标签：规范化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "规范化"
   },
   {
     "id": "db-tag-122",
@@ -973,7 +1094,8 @@
     "category": "数据库",
     "description": "数据库标签：第一范式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "第一范式"
   },
   {
     "id": "db-tag-123",
@@ -981,7 +1103,8 @@
     "category": "数据库",
     "description": "数据库标签：1NF",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "1nf"
   },
   {
     "id": "db-tag-124",
@@ -989,7 +1112,8 @@
     "category": "数据库",
     "description": "数据库标签：第二范式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "第二范式"
   },
   {
     "id": "db-tag-125",
@@ -997,7 +1121,8 @@
     "category": "数据库",
     "description": "数据库标签：2NF",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "2nf"
   },
   {
     "id": "db-tag-126",
@@ -1005,7 +1130,8 @@
     "category": "数据库",
     "description": "数据库标签：第三范式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "第三范式"
   },
   {
     "id": "db-tag-127",
@@ -1013,7 +1139,8 @@
     "category": "数据库",
     "description": "数据库标签：3NF",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "3nf"
   },
   {
     "id": "db-tag-128",
@@ -1021,7 +1148,8 @@
     "category": "数据库",
     "description": "数据库标签：BCNF",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "bcnf"
   },
   {
     "id": "db-tag-129",
@@ -1029,7 +1157,8 @@
     "category": "数据库",
     "description": "数据库标签：第四范式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "第四范式"
   },
   {
     "id": "db-tag-130",
@@ -1037,7 +1166,8 @@
     "category": "数据库",
     "description": "数据库标签：4NF",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "4nf"
   },
   {
     "id": "db-tag-131",
@@ -1045,7 +1175,8 @@
     "category": "数据库",
     "description": "数据库标签：第五范式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "第五范式"
   },
   {
     "id": "db-tag-132",
@@ -1053,7 +1184,8 @@
     "category": "数据库",
     "description": "数据库标签：5NF",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "5nf"
   },
   {
     "id": "db-tag-133",
@@ -1061,7 +1193,8 @@
     "category": "数据库",
     "description": "数据库标签：函数依赖",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "函数依赖"
   },
   {
     "id": "db-tag-134",
@@ -1069,7 +1202,8 @@
     "category": "数据库",
     "description": "数据库标签：部分依赖",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "部分依赖"
   },
   {
     "id": "db-tag-135",
@@ -1077,7 +1211,8 @@
     "category": "数据库",
     "description": "数据库标签：完全依赖",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "完全依赖"
   },
   {
     "id": "db-tag-136",
@@ -1085,7 +1220,8 @@
     "category": "数据库",
     "description": "数据库标签：传递依赖",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "传递依赖"
   },
   {
     "id": "db-tag-137",
@@ -1093,7 +1229,8 @@
     "category": "数据库",
     "description": "数据库标签：多值依赖",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多值依赖"
   },
   {
     "id": "db-tag-138",
@@ -1101,7 +1238,8 @@
     "category": "数据库",
     "description": "数据库标签：连接依赖",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "连接依赖"
   },
   {
     "id": "db-tag-139",
@@ -1109,7 +1247,8 @@
     "category": "数据库",
     "description": "数据库标签：ER图",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "er图"
   },
   {
     "id": "db-tag-140",
@@ -1117,7 +1256,8 @@
     "category": "数据库",
     "description": "数据库标签：实体",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "实体"
   },
   {
     "id": "db-tag-141",
@@ -1125,7 +1265,8 @@
     "category": "数据库",
     "description": "数据库标签：属性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "属性"
   },
   {
     "id": "db-tag-142",
@@ -1133,7 +1274,8 @@
     "category": "数据库",
     "description": "数据库标签：联系",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "联系"
   },
   {
     "id": "db-tag-143",
@@ -1141,7 +1283,8 @@
     "category": "数据库",
     "description": "数据库标签：一对一",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "一对一"
   },
   {
     "id": "db-tag-144",
@@ -1149,7 +1292,8 @@
     "category": "数据库",
     "description": "数据库标签：一对多",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "一对多"
   },
   {
     "id": "db-tag-145",
@@ -1157,7 +1301,8 @@
     "category": "数据库",
     "description": "数据库标签：多对多",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多对多"
   },
   {
     "id": "db-tag-146",
@@ -1165,7 +1310,8 @@
     "category": "数据库",
     "description": "数据库标签：弱实体",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "弱实体"
   },
   {
     "id": "db-tag-147",
@@ -1173,7 +1319,8 @@
     "category": "数据库",
     "description": "数据库标签：复合属性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "复合属性"
   },
   {
     "id": "db-tag-148",
@@ -1181,7 +1328,8 @@
     "category": "数据库",
     "description": "数据库标签：多值属性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多值属性"
   },
   {
     "id": "db-tag-149",
@@ -1189,7 +1337,8 @@
     "category": "数据库",
     "description": "数据库标签：派生属性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "派生属性"
   },
   {
     "id": "db-tag-150",
@@ -1197,7 +1346,8 @@
     "category": "数据库",
     "description": "数据库标签：ISA继承",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "isa继承"
   },
   {
     "id": "db-tag-151",
@@ -1205,7 +1355,8 @@
     "category": "数据库",
     "description": "数据库标签：参与约束",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "参与约束"
   },
   {
     "id": "db-tag-152",
@@ -1213,7 +1364,8 @@
     "category": "数据库",
     "description": "数据库标签：基数约束",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "基数约束"
   },
   {
     "id": "db-tag-153",
@@ -1221,7 +1373,8 @@
     "category": "数据库",
     "description": "数据库标签：关系模式设计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "关系模式设计"
   },
   {
     "id": "db-tag-154",
@@ -1229,7 +1382,8 @@
     "category": "数据库",
     "description": "数据库标签：数据库设计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据库设计"
   },
   {
     "id": "db-tag-155",
@@ -1237,7 +1391,8 @@
     "category": "数据库",
     "description": "数据库标签：需求分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "需求分析"
   },
   {
     "id": "db-tag-156",
@@ -1245,7 +1400,8 @@
     "category": "数据库",
     "description": "数据库标签：概念设计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "概念设计"
   },
   {
     "id": "db-tag-157",
@@ -1253,7 +1409,8 @@
     "category": "数据库",
     "description": "数据库标签：逻辑设计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "逻辑设计"
   },
   {
     "id": "db-tag-158",
@@ -1261,7 +1418,8 @@
     "category": "数据库",
     "description": "数据库标签：物理设计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "物理设计"
   },
   {
     "id": "db-tag-159",
@@ -1269,7 +1427,8 @@
     "category": "数据库",
     "description": "数据库标签：数据字典",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据字典"
   },
   {
     "id": "db-tag-160",
@@ -1277,7 +1436,8 @@
     "category": "数据库",
     "description": "数据库标签：索引",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "索引"
   },
   {
     "id": "db-tag-161",
@@ -1285,7 +1445,8 @@
     "category": "数据库",
     "description": "数据库标签：B+树",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "b-树"
   },
   {
     "id": "db-tag-162",
@@ -1293,7 +1454,8 @@
     "category": "数据库",
     "description": "数据库标签：B树",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "b树"
   },
   {
     "id": "db-tag-163",
@@ -1301,7 +1463,8 @@
     "category": "数据库",
     "description": "数据库标签：哈希索引",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "哈希索引"
   },
   {
     "id": "db-tag-164",
@@ -1309,7 +1472,8 @@
     "category": "数据库",
     "description": "数据库标签：位图索引",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "位图索引"
   },
   {
     "id": "db-tag-165",
@@ -1317,7 +1481,8 @@
     "category": "数据库",
     "description": "数据库标签：聚簇索引",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "聚簇索引"
   },
   {
     "id": "db-tag-166",
@@ -1325,7 +1490,8 @@
     "category": "数据库",
     "description": "数据库标签：非聚簇索引",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "非聚簇索引"
   },
   {
     "id": "db-tag-167",
@@ -1333,7 +1499,8 @@
     "category": "数据库",
     "description": "数据库标签：全文索引",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "全文索引"
   },
   {
     "id": "db-tag-168",
@@ -1341,7 +1508,8 @@
     "category": "数据库",
     "description": "数据库标签：空间索引",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "空间索引"
   },
   {
     "id": "db-tag-169",
@@ -1349,7 +1517,8 @@
     "category": "数据库",
     "description": "数据库标签：复合索引",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "复合索引"
   },
   {
     "id": "db-tag-170",
@@ -1357,7 +1526,8 @@
     "category": "数据库",
     "description": "数据库标签：唯一索引",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "唯一索引"
   },
   {
     "id": "db-tag-171",
@@ -1365,7 +1535,8 @@
     "category": "数据库",
     "description": "数据库标签：覆盖索引",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "覆盖索引"
   },
   {
     "id": "db-tag-172",
@@ -1373,7 +1544,8 @@
     "category": "数据库",
     "description": "数据库标签：回表",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "回表"
   },
   {
     "id": "db-tag-173",
@@ -1381,7 +1553,8 @@
     "category": "数据库",
     "description": "数据库标签：索引下推",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "索引下推"
   },
   {
     "id": "db-tag-174",
@@ -1389,7 +1562,8 @@
     "category": "数据库",
     "description": "数据库标签：索引合并",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "索引合并"
   },
   {
     "id": "db-tag-175",
@@ -1397,7 +1571,8 @@
     "category": "数据库",
     "description": "数据库标签：查询优化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "查询优化"
   },
   {
     "id": "db-tag-176",
@@ -1405,7 +1580,8 @@
     "category": "数据库",
     "description": "数据库标签：执行计划",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "执行计划"
   },
   {
     "id": "db-tag-177",
@@ -1413,7 +1589,8 @@
     "category": "数据库",
     "description": "数据库标签：EXPLAIN",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "explain"
   },
   {
     "id": "db-tag-178",
@@ -1421,7 +1598,8 @@
     "category": "数据库",
     "description": "数据库标签：全表扫描",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "全表扫描"
   },
   {
     "id": "db-tag-179",
@@ -1429,7 +1607,8 @@
     "category": "数据库",
     "description": "数据库标签：索引扫描",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "索引扫描"
   },
   {
     "id": "db-tag-180",
@@ -1437,7 +1616,8 @@
     "category": "数据库",
     "description": "数据库标签：范围扫描",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "范围扫描"
   },
   {
     "id": "db-tag-181",
@@ -1445,7 +1625,8 @@
     "category": "数据库",
     "description": "数据库标签：回表查询",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "回表查询"
   },
   {
     "id": "db-tag-182",
@@ -1453,7 +1634,8 @@
     "category": "数据库",
     "description": "数据库标签：查询成本",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "查询成本"
   },
   {
     "id": "db-tag-183",
@@ -1461,7 +1643,8 @@
     "category": "数据库",
     "description": "数据库标签：优化器",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "优化器"
   },
   {
     "id": "db-tag-184",
@@ -1469,7 +1652,8 @@
     "category": "数据库",
     "description": "数据库标签：统计信息",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "统计信息"
   },
   {
     "id": "db-tag-185",
@@ -1477,7 +1661,8 @@
     "category": "数据库",
     "description": "数据库标签：基数估计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "基数估计"
   },
   {
     "id": "db-tag-186",
@@ -1485,7 +1670,8 @@
     "category": "数据库",
     "description": "数据库标签：连接算法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "连接算法"
   },
   {
     "id": "db-tag-187",
@@ -1493,7 +1679,8 @@
     "category": "数据库",
     "description": "数据库标签：嵌套循环",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "嵌套循环"
   },
   {
     "id": "db-tag-188",
@@ -1501,7 +1688,8 @@
     "category": "数据库",
     "description": "数据库标签：哈希连接",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "哈希连接"
   },
   {
     "id": "db-tag-189",
@@ -1509,7 +1697,8 @@
     "category": "数据库",
     "description": "数据库标签：归并连接",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "归并连接"
   },
   {
     "id": "db-tag-190",
@@ -1517,7 +1706,8 @@
     "category": "数据库",
     "description": "数据库标签：查询重写",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "查询重写"
   },
   {
     "id": "db-tag-191",
@@ -1525,7 +1715,8 @@
     "category": "数据库",
     "description": "数据库标签：子查询优化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "子查询优化"
   },
   {
     "id": "db-tag-192",
@@ -1533,7 +1724,8 @@
     "category": "数据库",
     "description": "数据库标签：SQL优化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "sql优化"
   },
   {
     "id": "db-tag-193",
@@ -1541,7 +1733,8 @@
     "category": "数据库",
     "description": "数据库标签：慢查询",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "慢查询"
   },
   {
     "id": "db-tag-194",
@@ -1549,7 +1742,8 @@
     "category": "数据库",
     "description": "数据库标签：性能分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "性能分析"
   },
   {
     "id": "db-tag-195",
@@ -1557,7 +1751,8 @@
     "category": "数据库",
     "description": "数据库标签：索引设计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "索引设计"
   },
   {
     "id": "db-tag-196",
@@ -1565,7 +1760,8 @@
     "category": "数据库",
     "description": "数据库标签：范式化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "范式化"
   },
   {
     "id": "db-tag-197",
@@ -1573,7 +1769,8 @@
     "category": "数据库",
     "description": "数据库标签：反范式化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "反范式化"
   },
   {
     "id": "db-tag-198",
@@ -1581,7 +1778,8 @@
     "category": "数据库",
     "description": "数据库标签：数据仓库",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据仓库"
   },
   {
     "id": "db-tag-199",
@@ -1589,7 +1787,8 @@
     "category": "数据库",
     "description": "数据库标签：OLTP",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "oltp"
   },
   {
     "id": "db-tag-200",
@@ -1597,7 +1796,8 @@
     "category": "数据库",
     "description": "数据库标签：OLAP",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "olap"
   },
   {
     "id": "db-tag-201",
@@ -1605,7 +1805,8 @@
     "category": "数据库",
     "description": "数据库标签：ETL",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "etl"
   },
   {
     "id": "db-tag-202",
@@ -1613,7 +1814,8 @@
     "category": "数据库",
     "description": "数据库标签：数据湖",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据湖"
   },
   {
     "id": "db-tag-203",
@@ -1621,7 +1823,8 @@
     "category": "数据库",
     "description": "数据库标签：数据中台",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据中台"
   },
   {
     "id": "db-tag-204",
@@ -1629,7 +1832,8 @@
     "category": "数据库",
     "description": "数据库标签：数据模型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据模型"
   },
   {
     "id": "db-tag-205",
@@ -1637,7 +1841,8 @@
     "category": "数据库",
     "description": "数据库标签：星型模型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "星型模型"
   },
   {
     "id": "db-tag-206",
@@ -1645,7 +1850,8 @@
     "category": "数据库",
     "description": "数据库标签：雪花模型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "雪花模型"
   },
   {
     "id": "db-tag-207",
@@ -1653,7 +1859,8 @@
     "category": "数据库",
     "description": "数据库标签：事实表",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "事实表"
   },
   {
     "id": "db-tag-208",
@@ -1661,7 +1868,8 @@
     "category": "数据库",
     "description": "数据库标签：维度表",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "维度表"
   },
   {
     "id": "db-tag-209",
@@ -1669,7 +1877,8 @@
     "category": "数据库",
     "description": "数据库标签：缓慢变化维",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "缓慢变化维"
   },
   {
     "id": "db-tag-210",
@@ -1677,7 +1886,8 @@
     "category": "数据库",
     "description": "数据库标签：数据库设计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据库设计"
   },
   {
     "id": "db-tag-211",
@@ -1685,7 +1895,8 @@
     "category": "数据库",
     "description": "数据库标签：数据字典",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据字典"
   },
   {
     "id": "db-tag-212",
@@ -1693,7 +1904,8 @@
     "category": "数据库",
     "description": "数据库标签：数据流图",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据流图"
   },
   {
     "id": "db-tag-213",
@@ -1701,7 +1913,8 @@
     "category": "数据库",
     "description": "数据库标签：数据库安全",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据库安全"
   },
   {
     "id": "db-tag-214",
@@ -1709,7 +1922,8 @@
     "category": "数据库",
     "description": "数据库标签：用户管理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "用户管理"
   },
   {
     "id": "db-tag-215",
@@ -1717,7 +1931,8 @@
     "category": "数据库",
     "description": "数据库标签：权限管理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "权限管理"
   },
   {
     "id": "db-tag-216",
@@ -1725,7 +1940,8 @@
     "category": "数据库",
     "description": "数据库标签：GRANT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "grant"
   },
   {
     "id": "db-tag-217",
@@ -1733,7 +1949,8 @@
     "category": "数据库",
     "description": "数据库标签：REVOKE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "revoke"
   },
   {
     "id": "db-tag-218",
@@ -1741,7 +1958,8 @@
     "category": "数据库",
     "description": "数据库标签：角色",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "角色"
   },
   {
     "id": "db-tag-219",
@@ -1749,7 +1967,8 @@
     "category": "数据库",
     "description": "数据库标签：审计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "审计"
   },
   {
     "id": "db-tag-220",
@@ -1757,7 +1976,8 @@
     "category": "数据库",
     "description": "数据库标签：加密",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "加密"
   },
   {
     "id": "db-tag-221",
@@ -1765,7 +1985,8 @@
     "category": "数据库",
     "description": "数据库标签：备份",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "备份"
   },
   {
     "id": "db-tag-222",
@@ -1773,7 +1994,8 @@
     "category": "数据库",
     "description": "数据库标签：恢复",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "恢复"
   },
   {
     "id": "db-tag-223",
@@ -1781,7 +2003,8 @@
     "category": "数据库",
     "description": "数据库标签：逻辑备份",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "逻辑备份"
   },
   {
     "id": "db-tag-224",
@@ -1789,7 +2012,8 @@
     "category": "数据库",
     "description": "数据库标签：物理备份",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "物理备份"
   },
   {
     "id": "db-tag-225",
@@ -1797,7 +2021,8 @@
     "category": "数据库",
     "description": "数据库标签：全量备份",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "全量备份"
   },
   {
     "id": "db-tag-226",
@@ -1805,7 +2030,8 @@
     "category": "数据库",
     "description": "数据库标签：增量备份",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "增量备份"
   },
   {
     "id": "db-tag-227",
@@ -1813,7 +2039,8 @@
     "category": "数据库",
     "description": "数据库标签：差异备份",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "差异备份"
   },
   {
     "id": "db-tag-228",
@@ -1821,7 +2048,8 @@
     "category": "数据库",
     "description": "数据库标签：还原",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "还原"
   },
   {
     "id": "db-tag-229",
@@ -1829,7 +2057,8 @@
     "category": "数据库",
     "description": "数据库标签：恢复",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "恢复"
   },
   {
     "id": "db-tag-230",
@@ -1837,7 +2066,8 @@
     "category": "数据库",
     "description": "数据库标签：主从复制",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "主从复制"
   },
   {
     "id": "db-tag-231",
@@ -1845,7 +2075,8 @@
     "category": "数据库",
     "description": "数据库标签：读写分离",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "读写分离"
   },
   {
     "id": "db-tag-232",
@@ -1853,7 +2084,8 @@
     "category": "数据库",
     "description": "数据库标签：分库分表",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分库分表"
   },
   {
     "id": "db-tag-233",
@@ -1861,7 +2093,8 @@
     "category": "数据库",
     "description": "数据库标签：水平分片",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "水平分片"
   },
   {
     "id": "db-tag-234",
@@ -1869,7 +2102,8 @@
     "category": "数据库",
     "description": "数据库标签：垂直分片",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "垂直分片"
   },
   {
     "id": "db-tag-235",
@@ -1877,7 +2111,8 @@
     "category": "数据库",
     "description": "数据库标签：分表策略",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分表策略"
   },
   {
     "id": "db-tag-236",
@@ -1885,7 +2120,8 @@
     "category": "数据库",
     "description": "数据库标签：哈希分片",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "哈希分片"
   },
   {
     "id": "db-tag-237",
@@ -1893,7 +2129,8 @@
     "category": "数据库",
     "description": "数据库标签：范围分片",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "范围分片"
   },
   {
     "id": "db-tag-238",
@@ -1901,7 +2138,8 @@
     "category": "数据库",
     "description": "数据库标签：分布式数据库",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分布式数据库"
   },
   {
     "id": "db-tag-239",
@@ -1909,7 +2147,8 @@
     "category": "数据库",
     "description": "数据库标签：CAP",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cap"
   },
   {
     "id": "db-tag-240",
@@ -1917,7 +2156,8 @@
     "category": "数据库",
     "description": "数据库标签：BASE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "base"
   },
   {
     "id": "db-tag-241",
@@ -1925,7 +2165,8 @@
     "category": "数据库",
     "description": "数据库标签：最终一致性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "最终一致性"
   },
   {
     "id": "db-tag-242",
@@ -1933,7 +2174,8 @@
     "category": "数据库",
     "description": "数据库标签：强一致性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "强一致性"
   },
   {
     "id": "db-tag-243",
@@ -1941,7 +2183,8 @@
     "category": "数据库",
     "description": "数据库标签：弱一致性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "弱一致性"
   },
   {
     "id": "db-tag-244",
@@ -1949,7 +2192,8 @@
     "category": "数据库",
     "description": "数据库标签：一致性哈希",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "一致性哈希"
   },
   {
     "id": "db-tag-245",
@@ -1957,7 +2201,8 @@
     "category": "数据库",
     "description": "数据库标签：分布式事务",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分布式事务"
   },
   {
     "id": "db-tag-246",
@@ -1965,7 +2210,8 @@
     "category": "数据库",
     "description": "数据库标签：两阶段提交",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "两阶段提交"
   },
   {
     "id": "db-tag-247",
@@ -1973,7 +2219,8 @@
     "category": "数据库",
     "description": "数据库标签：三阶段提交",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "三阶段提交"
   },
   {
     "id": "db-tag-248",
@@ -1981,7 +2228,8 @@
     "category": "数据库",
     "description": "数据库标签：TCC",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "tcc"
   },
   {
     "id": "db-tag-249",
@@ -1989,7 +2237,8 @@
     "category": "数据库",
     "description": "数据库标签：Saga",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "saga"
   },
   {
     "id": "db-tag-250",
@@ -1997,7 +2246,8 @@
     "category": "数据库",
     "description": "数据库标签：柔性事务",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "柔性事务"
   },
   {
     "id": "db-tag-251",
@@ -2005,7 +2255,8 @@
     "category": "数据库",
     "description": "数据库标签：本地消息表",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "本地消息表"
   },
   {
     "id": "db-tag-252",
@@ -2013,7 +2264,8 @@
     "category": "数据库",
     "description": "数据库标签：MySQL",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mysql"
   },
   {
     "id": "db-tag-253",
@@ -2021,7 +2273,8 @@
     "category": "数据库",
     "description": "数据库标签：PostgreSQL",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "postgresql"
   },
   {
     "id": "db-tag-254",
@@ -2029,7 +2282,8 @@
     "category": "数据库",
     "description": "数据库标签：Oracle",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "oracle"
   },
   {
     "id": "db-tag-255",
@@ -2037,7 +2291,8 @@
     "category": "数据库",
     "description": "数据库标签：SQLite",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "sqlite"
   },
   {
     "id": "db-tag-256",
@@ -2045,7 +2300,8 @@
     "category": "数据库",
     "description": "数据库标签：SQL",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "sql"
   },
   {
     "id": "db-tag-257",
@@ -2053,7 +2309,8 @@
     "category": "数据库",
     "description": "数据库标签：Server",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "server"
   },
   {
     "id": "db-tag-258",
@@ -2061,7 +2318,8 @@
     "category": "数据库",
     "description": "数据库标签：MariaDB",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mariadb"
   },
   {
     "id": "db-tag-259",
@@ -2069,7 +2327,8 @@
     "category": "数据库",
     "description": "数据库标签：Redis",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "redis"
   },
   {
     "id": "db-tag-260",
@@ -2077,7 +2336,8 @@
     "category": "数据库",
     "description": "数据库标签：MongoDB",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mongodb"
   },
   {
     "id": "db-tag-261",
@@ -2085,7 +2345,8 @@
     "category": "数据库",
     "description": "数据库标签：NoSQL",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "nosql"
   },
   {
     "id": "db-tag-262",
@@ -2093,7 +2354,8 @@
     "category": "数据库",
     "description": "数据库标签：键值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "键值"
   },
   {
     "id": "db-tag-263",
@@ -2101,7 +2363,8 @@
     "category": "数据库",
     "description": "数据库标签：文档",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "文档"
   },
   {
     "id": "db-tag-264",
@@ -2109,7 +2372,8 @@
     "category": "数据库",
     "description": "数据库标签：列族",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "列族"
   },
   {
     "id": "db-tag-265",
@@ -2117,7 +2381,8 @@
     "category": "数据库",
     "description": "数据库标签：图数据库",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "图数据库"
   },
   {
     "id": "db-tag-266",
@@ -2125,7 +2390,8 @@
     "category": "数据库",
     "description": "数据库标签：NewSQL",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "newsql"
   },
   {
     "id": "db-tag-267",
@@ -2133,7 +2399,8 @@
     "category": "数据库",
     "description": "数据库标签：数据库选择",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据库选择"
   },
   {
     "id": "db-tag-268",
@@ -2141,7 +2408,8 @@
     "category": "数据库",
     "description": "数据库标签：数据库面试",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据库面试"
   },
   {
     "id": "db-tag-269",
@@ -2149,7 +2417,8 @@
     "category": "数据库",
     "description": "数据库标签：SQL面试",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "sql面试"
   },
   {
     "id": "db-tag-270",
@@ -2157,7 +2426,8 @@
     "category": "数据库",
     "description": "数据库标签：数据分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据分析"
   },
   {
     "id": "db-tag-271",
@@ -2165,7 +2435,8 @@
     "category": "数据库",
     "description": "数据库标签：数据查询",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据查询"
   },
   {
     "id": "db-tag-272",
@@ -2173,7 +2444,8 @@
     "category": "数据库",
     "description": "数据库标签：MySQL架构",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mysql架构"
   },
   {
     "id": "db-tag-273",
@@ -2181,7 +2453,8 @@
     "category": "数据库",
     "description": "数据库标签：InnoDB",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "innodb"
   },
   {
     "id": "db-tag-274",
@@ -2189,7 +2462,8 @@
     "category": "数据库",
     "description": "数据库标签：MyISAM",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "myisam"
   },
   {
     "id": "db-tag-275",
@@ -2197,7 +2471,8 @@
     "category": "数据库",
     "description": "数据库标签：存储引擎",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "存储引擎"
   },
   {
     "id": "db-tag-276",
@@ -2205,7 +2480,8 @@
     "category": "数据库",
     "description": "数据库标签：查询缓存",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "查询缓存"
   },
   {
     "id": "db-tag-277",
@@ -2213,7 +2489,8 @@
     "category": "数据库",
     "description": "数据库标签：连接池",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "连接池"
   },
   {
     "id": "db-tag-278",
@@ -2221,7 +2498,8 @@
     "category": "数据库",
     "description": "数据库标签：日志文件",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "日志文件"
   },
   {
     "id": "db-tag-279",
@@ -2229,7 +2507,8 @@
     "category": "数据库",
     "description": "数据库标签：binlog",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "binlog"
   },
   {
     "id": "db-tag-280",
@@ -2237,7 +2516,8 @@
     "category": "数据库",
     "description": "数据库标签：redolog",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "redolog"
   },
   {
     "id": "db-tag-281",
@@ -2245,7 +2525,8 @@
     "category": "数据库",
     "description": "数据库标签：undolog",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "undolog"
   },
   {
     "id": "db-tag-282",
@@ -2253,7 +2534,8 @@
     "category": "数据库",
     "description": "数据库标签：慢日志",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "慢日志"
   },
   {
     "id": "db-tag-283",
@@ -2261,7 +2543,8 @@
     "category": "数据库",
     "description": "数据库标签：错误日志",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "错误日志"
   },
   {
     "id": "db-tag-284",
@@ -2269,7 +2552,8 @@
     "category": "数据库",
     "description": "数据库标签：通用日志",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "通用日志"
   },
   {
     "id": "db-tag-285",
@@ -2277,7 +2561,8 @@
     "category": "数据库",
     "description": "数据库标签：审计日志",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "审计日志"
   },
   {
     "id": "db-tag-286",
@@ -2285,7 +2570,8 @@
     "category": "数据库",
     "description": "数据库标签：系统表",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "系统表"
   },
   {
     "id": "db-tag-287",
@@ -2293,7 +2579,8 @@
     "category": "数据库",
     "description": "数据库标签：性能模式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "性能模式"
   },
   {
     "id": "db-tag-288",
@@ -2301,7 +2588,8 @@
     "category": "数据库",
     "description": "数据库标签：information_schema",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "information_schema"
   },
   {
     "id": "db-tag-289",
@@ -2309,7 +2597,8 @@
     "category": "数据库",
     "description": "数据库标签：mysql库",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mysql库"
   },
   {
     "id": "db-tag-290",
@@ -2317,7 +2606,8 @@
     "category": "数据库",
     "description": "数据库标签：字符集",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "字符集"
   },
   {
     "id": "db-tag-291",
@@ -2325,7 +2615,8 @@
     "category": "数据库",
     "description": "数据库标签：排序规则",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "排序规则"
   },
   {
     "id": "db-tag-292",
@@ -2333,7 +2624,8 @@
     "category": "数据库",
     "description": "数据库标签：连接字符集",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "连接字符集"
   },
   {
     "id": "db-tag-293",
@@ -2341,7 +2633,8 @@
     "category": "数据库",
     "description": "数据库标签：时区设置",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "时区设置"
   },
   {
     "id": "db-tag-294",
@@ -2349,7 +2642,8 @@
     "category": "数据库",
     "description": "数据库标签：最大连接数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "最大连接数"
   },
   {
     "id": "db-tag-295",
@@ -2357,7 +2651,8 @@
     "category": "数据库",
     "description": "数据库标签：超时设置",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "超时设置"
   },
   {
     "id": "db-tag-296",
@@ -2365,7 +2660,8 @@
     "category": "数据库",
     "description": "数据库标签：缓冲区设置",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "缓冲区设置"
   },
   {
     "id": "db-tag-297",
@@ -2373,7 +2669,8 @@
     "category": "数据库",
     "description": "数据库标签：临时表空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "临时表空间"
   },
   {
     "id": "db-tag-298",
@@ -2381,7 +2678,8 @@
     "category": "数据库",
     "description": "数据库标签：表空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "表空间"
   },
   {
     "id": "db-tag-299",
@@ -2389,7 +2687,8 @@
     "category": "数据库",
     "description": "数据库标签：数据文件",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据文件"
   },
   {
     "id": "db-tag-300",
@@ -2397,7 +2696,8 @@
     "category": "数据库",
     "description": "数据库标签：redo日志组",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "redo日志组"
   },
   {
     "id": "db-tag-301",
@@ -2405,7 +2705,8 @@
     "category": "数据库",
     "description": "数据库标签：undo表空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "undo表空间"
   },
   {
     "id": "db-tag-302",
@@ -2413,7 +2714,8 @@
     "category": "数据库",
     "description": "数据库标签：doublewrite",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "doublewrite"
   },
   {
     "id": "db-tag-303",
@@ -2421,7 +2723,8 @@
     "category": "数据库",
     "description": "数据库标签：自适应哈希",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自适应哈希"
   },
   {
     "id": "db-tag-304",
@@ -2429,7 +2732,8 @@
     "category": "数据库",
     "description": "数据库标签：变更缓冲",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "变更缓冲"
   },
   {
     "id": "db-tag-305",
@@ -2437,7 +2741,8 @@
     "category": "数据库",
     "description": "数据库标签：插入缓冲",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "插入缓冲"
   },
   {
     "id": "db-tag-306",
@@ -2445,7 +2750,8 @@
     "category": "数据库",
     "description": "数据库标签：索引组织表",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "索引组织表"
   },
   {
     "id": "db-tag-307",
@@ -2453,7 +2759,8 @@
     "category": "数据库",
     "description": "数据库标签：二级索引",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "二级索引"
   },
   {
     "id": "db-tag-308",
@@ -2461,7 +2768,8 @@
     "category": "数据库",
     "description": "数据库标签：主键选择",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "主键选择"
   },
   {
     "id": "db-tag-309",
@@ -2469,7 +2777,8 @@
     "category": "数据库",
     "description": "数据库标签：UUID主键",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "uuid主键"
   },
   {
     "id": "db-tag-310",
@@ -2477,7 +2786,8 @@
     "category": "数据库",
     "description": "数据库标签：自增主键",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自增主键"
   },
   {
     "id": "db-tag-311",
@@ -2485,7 +2795,8 @@
     "category": "数据库",
     "description": "数据库标签：复合主键",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "复合主键"
   },
   {
     "id": "db-tag-312",
@@ -2493,7 +2804,8 @@
     "category": "数据库",
     "description": "数据库标签：MRR",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mrr"
   },
   {
     "id": "db-tag-313",
@@ -2501,7 +2813,8 @@
     "category": "数据库",
     "description": "数据库标签：BKA",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "bka"
   },
   {
     "id": "db-tag-314",
@@ -2509,7 +2822,8 @@
     "category": "数据库",
     "description": "数据库标签：ICP",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "icp"
   },
   {
     "id": "db-tag-315",
@@ -2517,7 +2831,8 @@
     "category": "数据库",
     "description": "数据库标签：交集合并",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "交集合并"
   },
   {
     "id": "db-tag-316",
@@ -2525,7 +2840,8 @@
     "category": "数据库",
     "description": "数据库标签：联合合并",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "联合合并"
   },
   {
     "id": "db-tag-317",
@@ -2533,7 +2849,8 @@
     "category": "数据库",
     "description": "数据库标签：排序合并",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "排序合并"
   },
   {
     "id": "db-tag-318",
@@ -2541,7 +2858,8 @@
     "category": "数据库",
     "description": "数据库标签：窗口函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "窗口函数"
   },
   {
     "id": "db-tag-319",
@@ -2549,7 +2867,8 @@
     "category": "数据库",
     "description": "数据库标签：ROW_NUMBER",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "row_number"
   },
   {
     "id": "db-tag-320",
@@ -2557,7 +2876,8 @@
     "category": "数据库",
     "description": "数据库标签：RANK",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "rank"
   },
   {
     "id": "db-tag-321",
@@ -2565,7 +2885,8 @@
     "category": "数据库",
     "description": "数据库标签：DENSE_RANK",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "dense_rank"
   },
   {
     "id": "db-tag-322",
@@ -2573,7 +2894,8 @@
     "category": "数据库",
     "description": "数据库标签：NTILE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "ntile"
   },
   {
     "id": "db-tag-323",
@@ -2581,7 +2903,8 @@
     "category": "数据库",
     "description": "数据库标签：LAG",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "lag"
   },
   {
     "id": "db-tag-324",
@@ -2589,7 +2912,8 @@
     "category": "数据库",
     "description": "数据库标签：LEAD",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "lead"
   },
   {
     "id": "db-tag-325",
@@ -2597,7 +2921,8 @@
     "category": "数据库",
     "description": "数据库标签：FIRST_VALUE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "first_value"
   },
   {
     "id": "db-tag-326",
@@ -2605,7 +2930,8 @@
     "category": "数据库",
     "description": "数据库标签：LAST_VALUE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "last_value"
   },
   {
     "id": "db-tag-327",
@@ -2613,7 +2939,8 @@
     "category": "数据库",
     "description": "数据库标签：分区表",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分区表"
   },
   {
     "id": "db-tag-328",
@@ -2621,7 +2948,8 @@
     "category": "数据库",
     "description": "数据库标签：分区键",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分区键"
   },
   {
     "id": "db-tag-329",
@@ -2629,7 +2957,8 @@
     "category": "数据库",
     "description": "数据库标签：RANGE分区",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "range分区"
   },
   {
     "id": "db-tag-330",
@@ -2637,7 +2966,8 @@
     "category": "数据库",
     "description": "数据库标签：LIST分区",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "list分区"
   },
   {
     "id": "db-tag-331",
@@ -2645,7 +2975,8 @@
     "category": "数据库",
     "description": "数据库标签：HASH分区",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "hash分区"
   },
   {
     "id": "db-tag-332",
@@ -2653,7 +2984,8 @@
     "category": "数据库",
     "description": "数据库标签：KEY分区",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "key分区"
   },
   {
     "id": "db-tag-333",
@@ -2661,7 +2993,8 @@
     "category": "数据库",
     "description": "数据库标签：子分区",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "子分区"
   },
   {
     "id": "db-tag-334",
@@ -2669,7 +3002,8 @@
     "category": "数据库",
     "description": "数据库标签：分区修剪",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分区修剪"
   },
   {
     "id": "db-tag-335",
@@ -2677,7 +3011,8 @@
     "category": "数据库",
     "description": "数据库标签：MERGE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "merge"
   },
   {
     "id": "db-tag-336",
@@ -2685,7 +3020,8 @@
     "category": "数据库",
     "description": "数据库标签：ENGINE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "engine"
   },
   {
     "id": "db-tag-337",
@@ -2693,7 +3029,8 @@
     "category": "数据库",
     "description": "数据库标签：CHARACTER SET",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "character-set"
   },
   {
     "id": "db-tag-338",
@@ -2701,7 +3038,8 @@
     "category": "数据库",
     "description": "数据库标签：COLLATE",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "collate"
   },
   {
     "id": "db-tag-339",
@@ -2709,7 +3047,8 @@
     "category": "数据库",
     "description": "数据库标签：VIEW算法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "view算法"
   },
   {
     "id": "db-tag-340",
@@ -2717,7 +3056,8 @@
     "category": "数据库",
     "description": "数据库标签：可更新视图",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "可更新视图"
   },
   {
     "id": "db-tag-341",
@@ -2725,7 +3065,8 @@
     "category": "数据库",
     "description": "数据库标签：WITH CHECK OPTION",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "with-check-option"
   },
   {
     "id": "db-tag-342",
@@ -2733,7 +3074,8 @@
     "category": "数据库",
     "description": "数据库标签：物化视图",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "物化视图"
   },
   {
     "id": "db-tag-343",
@@ -2741,7 +3083,8 @@
     "category": "数据库",
     "description": "数据库标签：虚拟列",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "虚拟列"
   },
   {
     "id": "db-tag-344",
@@ -2749,7 +3092,8 @@
     "category": "数据库",
     "description": "数据库标签：存储列",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "存储列"
   },
   {
     "id": "db-tag-345",
@@ -2757,7 +3101,8 @@
     "category": "数据库",
     "description": "数据库标签：生成列",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "生成列"
   },
   {
     "id": "db-tag-346",
@@ -2765,7 +3110,8 @@
     "category": "数据库",
     "description": "数据库标签：JSON类型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "json类型"
   },
   {
     "id": "db-tag-347",
@@ -2773,7 +3119,8 @@
     "category": "数据库",
     "description": "数据库标签：JSON函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "json函数"
   },
   {
     "id": "db-tag-348",
@@ -2781,7 +3128,8 @@
     "category": "数据库",
     "description": "数据库标签：GIS类型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "gis类型"
   },
   {
     "id": "db-tag-349",
@@ -2789,7 +3137,8 @@
     "category": "数据库",
     "description": "数据库标签：全文索引解析器",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "全文索引解析器"
   },
   {
     "id": "db-tag-350",
@@ -2797,6 +3146,7 @@
     "category": "数据库",
     "description": "数据库标签：数据库运维",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数据库运维"
   }
 ]
