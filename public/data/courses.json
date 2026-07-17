@@ -1,552 +1,71 @@
 [
   {
-    "id": "db-course-01",
+    "id": "mod-database-sql-c-1",
+    "title": "数据库系统与 SQL 架构原理与初始化",
+    "slug": "course-1",
+    "summary": "深度探索 数据库系统与 SQL 的设计理念、运行架构以及初始化配置引导。",
     "order": 1,
-    "slug": "数据库系统入门",
-    "title": "数据库系统入门",
-    "description": "数据库定义、DBMS、数据模型、数据库发展历史、学习路线。",
-    "estimatedHours": 6,
     "difficulty": "easy",
-    "tags": [
-      "数据库系统入门"
-    ],
-    "lessonIds": [
-      "db-lesson-001",
-      "db-lesson-002",
-      "db-lesson-003",
-      "db-lesson-004"
-    ],
-    "totalLessons": 4,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解关系模型",
-      "熟练SQL查询",
-      "掌握事务与范式",
-      "具备数据库设计能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "estimatedHours": 54,
     "lessons": [
-      "db-lesson-001",
-      "db-lesson-002",
-      "db-lesson-003",
-      "db-lesson-004"
+      "mod-database-sql-l-1",
+      "mod-database-sql-l-2"
     ],
-    "summary": "数据库定义、DBMS、数据模型、数据库发展历史、学习路线。"
+    "tags": [
+      "数据库",
+      "SQL",
+      "关系模型",
+      "JOIN",
+      "索引",
+      "事务",
+      "范式",
+      "ER图"
+    ]
   },
   {
-    "id": "db-course-02",
+    "id": "mod-database-sql-c-2",
+    "title": "数据库系统与 SQL 核心机制与开发实战",
+    "slug": "course-2",
+    "summary": "掌握 数据库系统与 SQL 的核心组件、API 接口调用以及本地开发调试。",
     "order": 2,
-    "slug": "关系模型与关系代数",
-    "title": "关系模型与关系代数",
-    "description": "关系模型、元组属性码、完整性约束、关系代数运算。",
-    "estimatedHours": 10,
     "difficulty": "easy",
-    "tags": [
-      "关系模型与关系代数"
-    ],
-    "lessonIds": [
-      "db-lesson-005",
-      "db-lesson-006",
-      "db-lesson-007",
-      "db-lesson-008",
-      "db-lesson-009"
-    ],
-    "totalLessons": 5,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解关系模型",
-      "熟练SQL查询",
-      "掌握事务与范式",
-      "具备数据库设计能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "estimatedHours": 54,
     "lessons": [
-      "db-lesson-005",
-      "db-lesson-006",
-      "db-lesson-007",
-      "db-lesson-008",
-      "db-lesson-009"
+      "mod-database-sql-l-3",
+      "mod-database-sql-l-4"
     ],
-    "summary": "关系模型、元组属性码、完整性约束、关系代数运算。"
+    "tags": [
+      "数据库",
+      "SQL",
+      "关系模型",
+      "JOIN",
+      "索引",
+      "事务",
+      "范式",
+      "ER图"
+    ]
   },
   {
-    "id": "db-course-03",
+    "id": "mod-database-sql-c-3",
+    "title": "数据库系统与 SQL 高级优化与生产部署",
+    "slug": "course-3",
+    "summary": "学习如何进行系统性能监控调优、高可用集群部署与数据存储。",
     "order": 3,
-    "slug": "SQL基础查询",
-    "title": "SQL 基础查询",
-    "description": "SELECT语句、列选择、别名、DISTINCT、LIMIT、简单查询。",
-    "estimatedHours": 8,
     "difficulty": "easy",
-    "tags": [
-      "SQL 基础查询"
-    ],
-    "lessonIds": [
-      "db-lesson-010",
-      "db-lesson-011",
-      "db-lesson-012",
-      "db-lesson-013"
-    ],
-    "totalLessons": 4,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解关系模型",
-      "熟练SQL查询",
-      "掌握事务与范式",
-      "具备数据库设计能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "estimatedHours": 54,
     "lessons": [
-      "db-lesson-010",
-      "db-lesson-011",
-      "db-lesson-012",
-      "db-lesson-013"
+      "mod-database-sql-l-5",
+      "mod-database-sql-l-6"
     ],
-    "summary": "SELECT语句、列选择、别名、DISTINCT、LIMIT、简单查询。"
-  },
-  {
-    "id": "db-course-04",
-    "order": 4,
-    "slug": "数据过滤排序与分页",
-    "title": "数据过滤、排序与分页",
-    "description": "WHERE条件、LIKE、BETWEEN、IN、NULL处理、ORDER BY、LIMIT分页。",
-    "estimatedHours": 10,
-    "difficulty": "easy",
     "tags": [
-      "数据过滤、排序与分页"
-    ],
-    "lessonIds": [
-      "db-lesson-014",
-      "db-lesson-015",
-      "db-lesson-016",
-      "db-lesson-017",
-      "db-lesson-018",
-      "db-lesson-019"
-    ],
-    "totalLessons": 6,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解关系模型",
-      "熟练SQL查询",
-      "掌握事务与范式",
-      "具备数据库设计能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "db-lesson-014",
-      "db-lesson-015",
-      "db-lesson-016",
-      "db-lesson-017",
-      "db-lesson-018",
-      "db-lesson-019"
-    ],
-    "summary": "WHERE条件、LIKE、BETWEEN、IN、NULL处理、ORDER BY、LIMIT分页。"
-  },
-  {
-    "id": "db-course-05",
-    "order": 5,
-    "slug": "聚合函数与分组查询",
-    "title": "聚合函数与分组查询",
-    "description": "COUNT/SUM/AVG/MAX/MIN、GROUP BY、HAVING、ROLLUP。",
-    "estimatedHours": 10,
-    "difficulty": "medium",
-    "tags": [
-      "聚合函数与分组查询"
-    ],
-    "lessonIds": [
-      "db-lesson-020",
-      "db-lesson-021",
-      "db-lesson-022",
-      "db-lesson-023",
-      "db-lesson-024",
-      "db-lesson-025"
-    ],
-    "totalLessons": 6,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解关系模型",
-      "熟练SQL查询",
-      "掌握事务与范式",
-      "具备数据库设计能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "db-lesson-020",
-      "db-lesson-021",
-      "db-lesson-022",
-      "db-lesson-023",
-      "db-lesson-024",
-      "db-lesson-025"
-    ],
-    "summary": "COUNT/SUM/AVG/MAX/MIN、GROUP BY、HAVING、ROLLUP。"
-  },
-  {
-    "id": "db-course-06",
-    "order": 6,
-    "slug": "多表连接JOIN",
-    "title": "多表连接 JOIN",
-    "description": "INNER/LEFT/RIGHT/FULL JOIN、自连接、CROSS JOIN、多表查询。",
-    "estimatedHours": 12,
-    "difficulty": "medium",
-    "tags": [
-      "多表连接 JOIN"
-    ],
-    "lessonIds": [
-      "db-lesson-026",
-      "db-lesson-027",
-      "db-lesson-028",
-      "db-lesson-029",
-      "db-lesson-030",
-      "db-lesson-031"
-    ],
-    "totalLessons": 6,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解关系模型",
-      "熟练SQL查询",
-      "掌握事务与范式",
-      "具备数据库设计能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "db-lesson-026",
-      "db-lesson-027",
-      "db-lesson-028",
-      "db-lesson-029",
-      "db-lesson-030",
-      "db-lesson-031"
-    ],
-    "summary": "INNER/LEFT/RIGHT/FULL JOIN、自连接、CROSS JOIN、多表查询。"
-  },
-  {
-    "id": "db-course-07",
-    "order": 7,
-    "slug": "子查询与集合运算",
-    "title": "子查询与集合运算",
-    "description": "标量子查询、行子查询、表子查询、EXISTS、UNION、INTERSECT、EXCEPT。",
-    "estimatedHours": 12,
-    "difficulty": "hard",
-    "tags": [
-      "子查询与集合运算"
-    ],
-    "lessonIds": [
-      "db-lesson-032",
-      "db-lesson-033",
-      "db-lesson-034",
-      "db-lesson-035",
-      "db-lesson-036",
-      "db-lesson-037"
-    ],
-    "totalLessons": 6,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解关系模型",
-      "熟练SQL查询",
-      "掌握事务与范式",
-      "具备数据库设计能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "db-lesson-032",
-      "db-lesson-033",
-      "db-lesson-034",
-      "db-lesson-035",
-      "db-lesson-036",
-      "db-lesson-037"
-    ],
-    "summary": "标量子查询、行子查询、表子查询、EXISTS、UNION、INTERSECT、EXCEPT。"
-  },
-  {
-    "id": "db-course-08",
-    "order": 8,
-    "slug": "表设计约束与数据类型",
-    "title": "表设计、约束与数据类型",
-    "description": "CREATE TABLE、数据类型、NOT NULL/UNIQUE/PRIMARY KEY/FOREIGN KEY/CHECK/DEFAULT。",
-    "estimatedHours": 10,
-    "difficulty": "medium",
-    "tags": [
-      "表设计、约束与数据类型"
-    ],
-    "lessonIds": [
-      "db-lesson-038",
-      "db-lesson-039",
-      "db-lesson-040",
-      "db-lesson-041",
-      "db-lesson-042",
-      "db-lesson-043",
-      "db-lesson-044",
-      "db-lesson-045",
-      "db-lesson-046"
-    ],
-    "totalLessons": 9,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解关系模型",
-      "熟练SQL查询",
-      "掌握事务与范式",
-      "具备数据库设计能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "db-lesson-038",
-      "db-lesson-039",
-      "db-lesson-040",
-      "db-lesson-041",
-      "db-lesson-042",
-      "db-lesson-043",
-      "db-lesson-044",
-      "db-lesson-045",
-      "db-lesson-046"
-    ],
-    "summary": "CREATE TABLE、数据类型、NOT NULL/UNIQUE/PRIMARY KEY/FOREIGN KEY/CHECK/DEFAULT。"
-  },
-  {
-    "id": "db-course-09",
-    "order": 9,
-    "slug": "索引与查询优化基础",
-    "title": "索引与查询优化基础",
-    "description": "索引类型、B+树、聚簇索引、EXPLAIN、慢查询、SQL优化。",
-    "estimatedHours": 12,
-    "difficulty": "hard",
-    "tags": [
-      "索引与查询优化基础"
-    ],
-    "lessonIds": [
-      "db-lesson-047",
-      "db-lesson-048",
-      "db-lesson-049",
-      "db-lesson-050",
-      "db-lesson-051",
-      "db-lesson-052",
-      "db-lesson-053"
-    ],
-    "totalLessons": 7,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解关系模型",
-      "熟练SQL查询",
-      "掌握事务与范式",
-      "具备数据库设计能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "db-lesson-047",
-      "db-lesson-048",
-      "db-lesson-049",
-      "db-lesson-050",
-      "db-lesson-051",
-      "db-lesson-052",
-      "db-lesson-053"
-    ],
-    "summary": "索引类型、B+树、聚簇索引、EXPLAIN、慢查询、SQL优化。"
-  },
-  {
-    "id": "db-course-10",
-    "order": 10,
-    "slug": "事务与并发控制",
-    "title": "事务与并发控制",
-    "description": "事务ACID、提交回滚、并发问题、隔离级别、MVCC、锁机制。",
-    "estimatedHours": 14,
-    "difficulty": "hard",
-    "tags": [
-      "事务与并发控制"
-    ],
-    "lessonIds": [
-      "db-lesson-054",
-      "db-lesson-055",
-      "db-lesson-056",
-      "db-lesson-057",
-      "db-lesson-058",
-      "db-lesson-059",
-      "db-lesson-060",
-      "db-lesson-061",
-      "db-lesson-062",
-      "db-lesson-063"
-    ],
-    "totalLessons": 10,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解关系模型",
-      "熟练SQL查询",
-      "掌握事务与范式",
-      "具备数据库设计能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "db-lesson-054",
-      "db-lesson-055",
-      "db-lesson-056",
-      "db-lesson-057",
-      "db-lesson-058",
-      "db-lesson-059",
-      "db-lesson-060",
-      "db-lesson-061",
-      "db-lesson-062",
-      "db-lesson-063"
-    ],
-    "summary": "事务ACID、提交回滚、并发问题、隔离级别、MVCC、锁机制。"
-  },
-  {
-    "id": "db-course-11",
-    "order": 11,
-    "slug": "范式与数据库设计",
-    "title": "范式与数据库设计",
-    "description": "1NF/2NF/3NF/BCNF、函数依赖、依赖保持、无损分解。",
-    "estimatedHours": 12,
-    "difficulty": "hard",
-    "tags": [
-      "范式与数据库设计"
-    ],
-    "lessonIds": [
-      "db-lesson-064",
-      "db-lesson-065",
-      "db-lesson-066",
-      "db-lesson-067",
-      "db-lesson-068",
-      "db-lesson-069",
-      "db-lesson-070"
-    ],
-    "totalLessons": 7,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解关系模型",
-      "熟练SQL查询",
-      "掌握事务与范式",
-      "具备数据库设计能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "db-lesson-064",
-      "db-lesson-065",
-      "db-lesson-066",
-      "db-lesson-067",
-      "db-lesson-068",
-      "db-lesson-069",
-      "db-lesson-070"
-    ],
-    "summary": "1NF/2NF/3NF/BCNF、函数依赖、依赖保持、无损分解。"
-  },
-  {
-    "id": "db-course-12",
-    "order": 12,
-    "slug": "ER图与关系模式转换",
-    "title": "ER 图与关系模式转换",
-    "description": "实体联系图、弱实体、基数约束、ER图转关系模式。",
-    "estimatedHours": 10,
-    "difficulty": "hard",
-    "tags": [
-      "ER 图与关系模式转换"
-    ],
-    "lessonIds": [
-      "db-lesson-071",
-      "db-lesson-072",
-      "db-lesson-073",
-      "db-lesson-074",
-      "db-lesson-075"
-    ],
-    "totalLessons": 5,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解关系模型",
-      "熟练SQL查询",
-      "掌握事务与范式",
-      "具备数据库设计能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "db-lesson-071",
-      "db-lesson-072",
-      "db-lesson-073",
-      "db-lesson-074",
-      "db-lesson-075"
-    ],
-    "summary": "实体联系图、弱实体、基数约束、ER图转关系模式。"
-  },
-  {
-    "id": "db-course-13",
-    "order": 13,
-    "slug": "数据库综合项目实战",
-    "title": "数据库综合项目实战",
-    "description": "学生选课、图书管理、电商系统、用户订单、数据查询分析。",
-    "estimatedHours": 12,
-    "difficulty": "hard",
-    "tags": [
-      "数据库综合项目实战"
-    ],
-    "lessonIds": [
-      "db-lesson-076",
-      "db-lesson-077",
-      "db-lesson-078",
-      "db-lesson-079",
-      "db-lesson-080"
-    ],
-    "totalLessons": 5,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解关系模型",
-      "熟练SQL查询",
-      "掌握事务与范式",
-      "具备数据库设计能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "db-lesson-076",
-      "db-lesson-077",
-      "db-lesson-078",
-      "db-lesson-079",
-      "db-lesson-080"
-    ],
-    "summary": "学生选课、图书管理、电商系统、用户订单、数据查询分析。"
-  },
-  {
-    "id": "db-course-14",
-    "order": 14,
-    "slug": "数据库期末面试与综合训练",
-    "title": "数据库期末、面试与综合训练",
-    "description": "SQL综合题、事务隔离综合、范式分析、面试题、模拟测试。",
-    "estimatedHours": 12,
-    "difficulty": "hard",
-    "tags": [
-      "数据库期末、面试与综合训练"
-    ],
-    "lessonIds": [
-      "db-lesson-081",
-      "db-lesson-082",
-      "db-lesson-083",
-      "db-lesson-084",
-      "db-lesson-085",
-      "db-lesson-086"
-    ],
-    "totalLessons": 6,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解关系模型",
-      "熟练SQL查询",
-      "掌握事务与范式",
-      "具备数据库设计能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "db-lesson-081",
-      "db-lesson-082",
-      "db-lesson-083",
-      "db-lesson-084",
-      "db-lesson-085",
-      "db-lesson-086"
-    ],
-    "summary": "SQL综合题、事务隔离综合、范式分析、面试题、模拟测试。"
+      "数据库",
+      "SQL",
+      "关系模型",
+      "JOIN",
+      "索引",
+      "事务",
+      "范式",
+      "ER图"
+    ]
   }
 ]
