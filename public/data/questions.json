@@ -1,218 +1,428 @@
 [
   {
     "id": "mod-database-sql-q-1",
-    "slug": "question-course-1-2",
+    "slug": "question-1",
     "type": "single",
-    "stem": "在学习 [数据库系统与 SQL] 的过程里，关于“数据库系统与 SQL 环境依赖搭建与运行机制”的核心考点，以下表述最为准确的是？",
+    "stem": "在关系模型中，能够唯一标识一条元组、且其任何真子集都不再具有唯一标识能力的属性集合称为什么？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "超键（Super Key）" },
+      { "key": "B", "text": "候选键（Candidate Key）" },
+      { "key": "C", "text": "外键（Foreign Key）" },
+      { "key": "D", "text": "非主属性（Non-prime Attribute）" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数据库系统与 SQL 环境依赖搭建与运行机制”的正确答案为 A。解析：在 数据库系统与 SQL 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数据库系统与 SQL",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["B"],
+    "explanation": "候选键是极小的超键：既能唯一标识元组，又不含多余属性。超键只要求唯一性，不要求极小性，所以 A 不对；外键用于引用其他关系的主键，C 不对；非主属性是不属于任何候选键的属性，D 不对。主键是从候选键中选定的一个。",
+    "tags": ["关系模型", "键"],
+    "difficulty": "easy",
+    "chapter": "mod-database-sql-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-database-sql-q-2",
-    "slug": "question-course-1-3",
+    "slug": "question-2",
     "type": "single",
-    "stem": "在学习 [数据库系统与 SQL] 的过程里，关于“数据库系统与 SQL 配置文件覆盖与属性解析”的核心考点，以下表述最为准确的是？",
+    "stem": "执行以下 SQL：\nSELECT dept, COUNT(*) AS cnt\nFROM emp\nWHERE salary > 5000\nGROUP BY dept\nHAVING COUNT(*) >= 3;\n关于 WHERE 与 HAVING 的作用，下列说法正确的是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "WHERE 在分组后过滤组，HAVING 在分组前过滤行" },
+      { "key": "B", "text": "WHERE 在分组前过滤行，HAVING 在分组后过滤组" },
+      { "key": "C", "text": "两者作用相同，可以互换而不影响结果" },
+      { "key": "D", "text": "HAVING 中不允许使用聚合函数" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数据库系统与 SQL 配置文件覆盖与属性解析”的正确答案为 A。解析：在 数据库系统与 SQL 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数据库系统与 SQL",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["B"],
+    "explanation": "SQL 逻辑执行顺序为 FROM → WHERE → GROUP BY → HAVING → SELECT → ORDER BY。WHERE 先过滤掉 salary <= 5000 的行，之后按 dept 分组，HAVING 再淘汰组内行数少于 3 的组。HAVING 恰恰常配合聚合函数使用，故 D 错误；两者作用阶段不同，不能简单互换，故 C 错误。",
+    "tags": ["SQL", "分组聚合"],
+    "difficulty": "easy",
+    "chapter": "mod-database-sql-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-database-sql-q-3",
-    "slug": "question-course-2-4",
+    "slug": "question-3",
     "type": "single",
-    "stem": "在学习 [数据库系统与 SQL] 的过程里，关于“数据库系统与 SQL API 接口规范与数据通信”的核心考点，以下表述最为准确的是？",
+    "stem": "表 A 有 5 行，表 B 有 3 行，执行 SELECT * FROM A CROSS JOIN B; 结果集有多少行？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "5 行" },
+      { "key": "B", "text": "8 行" },
+      { "key": "C", "text": "15 行" },
+      { "key": "D", "text": "3 行" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数据库系统与 SQL API 接口规范与数据通信”的正确答案为 A。解析：在 数据库系统与 SQL 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数据库系统与 SQL",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "answer": ["C"],
+    "explanation": "CROSS JOIN 产生笛卡尔积，行数为两表行数之积 5 × 3 = 15。8 行是把行数相加的常见误解；只有加了连接条件（如 INNER JOIN ... ON）才可能减少行数。",
+    "tags": ["SQL", "JOIN"],
+    "difficulty": "easy",
+    "chapter": "mod-database-sql-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-database-sql-q-4",
-    "slug": "question-course-2-5",
+    "slug": "question-4",
     "type": "single",
-    "stem": "在学习 [数据库系统与 SQL] 的过程里，关于“数据库系统与 SQL 核心控制器与数据校验机制”的核心考点，以下表述最为准确的是？",
+    "stem": "关于 LEFT JOIN，下列描述正确的是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "只返回两表中连接条件都匹配的行" },
+      { "key": "B", "text": "返回左表全部行；右表无匹配时，右表列以 NULL 填充" },
+      { "key": "C", "text": "返回右表全部行；左表无匹配时，左表列以 NULL 填充" },
+      { "key": "D", "text": "返回两表的全部行，无匹配的一侧以 NULL 填充" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数据库系统与 SQL 核心控制器与数据校验机制”的正确答案为 A。解析：在 数据库系统与 SQL 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数据库系统与 SQL",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "answer": ["B"],
+    "explanation": "LEFT (OUTER) JOIN 以左表为基准保留其全部行，右表匹配不上的部分补 NULL。A 描述的是 INNER JOIN，C 描述的是 RIGHT JOIN，D 描述的是 FULL OUTER JOIN。",
+    "tags": ["SQL", "JOIN"],
+    "difficulty": "easy",
+    "chapter": "mod-database-sql-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-database-sql-q-5",
-    "slug": "question-course-3-6",
+    "slug": "question-5",
     "type": "single",
-    "stem": "在学习 [数据库系统与 SQL] 的过程里，关于“数据库系统与 SQL 缓存优化与垃圾回收调优”的核心考点，以下表述最为准确的是？",
+    "stem": "一个关系已满足 1NF，若它的每个非主属性都完全函数依赖于候选键（消除了对候选键的部分依赖），则它至少达到了哪个范式？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "第二范式（2NF）" },
+      { "key": "B", "text": "第三范式（3NF）" },
+      { "key": "C", "text": "BC 范式（BCNF）" },
+      { "key": "D", "text": "第四范式（4NF）" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数据库系统与 SQL 缓存优化与垃圾回收调优”的正确答案为 A。解析：在 数据库系统与 SQL 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数据库系统与 SQL",
-      "基础考点"
-    ],
+    "answer": ["A"],
+    "explanation": "2NF 的定义就是在 1NF 基础上消除非主属性对候选键的部分函数依赖。3NF 还要求消除传递依赖，BCNF 要求所有决定因素都是候选键，4NF 处理多值依赖，题干条件尚不足以保证这些更高范式。",
+    "tags": ["范式", "函数依赖"],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-database-sql-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-database-sql-q-6",
-    "slug": "question-course-3-7",
+    "slug": "question-6",
     "type": "single",
-    "stem": "在学习 [数据库系统与 SQL] 的过程里，关于“数据库系统与 SQL 可观测性日志与分布式链路监控”的核心考点，以下表述最为准确的是？",
+    "stem": "InnoDB 表上存在联合索引 idx(a, b, c)。下列哪个查询条件最能完整利用该索引（走最左前缀且三列都参与索引查找）？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "WHERE b = 1 AND c = 2" },
+      { "key": "B", "text": "WHERE a = 1 AND c = 2" },
+      { "key": "C", "text": "WHERE a = 1 AND b = 1 AND c = 2" },
+      { "key": "D", "text": "WHERE c = 2" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数据库系统与 SQL 可观测性日志与分布式链路监控”的正确答案为 A。解析：在 数据库系统与 SQL 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数据库系统与 SQL",
-      "基础考点"
-    ],
+    "answer": ["C"],
+    "explanation": "联合索引遵循最左前缀原则：必须从 a 开始连续匹配。C 中 a、b、c 均为等值条件，可完整使用索引。A 和 D 缺少最左列 a，通常无法利用该索引定位；B 缺少 b，索引只能有效用到 a 这一列，c 需要在索引记录上额外过滤。",
+    "tags": ["索引", "最左前缀"],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-database-sql-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-database-sql-q-7",
+    "slug": "question-7",
+    "type": "single",
+    "stem": "事务的 ACID 特性中，“事务一旦提交，其修改就永久保存，即使系统崩溃也不丢失”描述的是哪一个特性？",
+    "options": [
+      { "key": "A", "text": "原子性（Atomicity）" },
+      { "key": "B", "text": "一致性（Consistency）" },
+      { "key": "C", "text": "隔离性（Isolation）" },
+      { "key": "D", "text": "持久性（Durability）" }
+    ],
+    "answer": ["D"],
+    "explanation": "持久性指已提交事务的效果永久生效，通常靠重做日志（redo log / WAL）保证。原子性指事务要么全做要么全不做（靠 undo 日志实现回滚）；一致性指事务把数据库从一个一致状态带到另一个一致状态；隔离性指并发事务互不干扰。",
+    "tags": ["事务", "ACID"],
+    "difficulty": "easy",
+    "chapter": "mod-database-sql-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-database-sql-q-8",
+    "slug": "question-8",
+    "type": "single",
+    "stem": "在 SQL 标准的四种隔离级别中，能避免脏读和不可重复读、但仍可能出现幻读的是哪一级？",
+    "options": [
+      { "key": "A", "text": "READ UNCOMMITTED" },
+      { "key": "B", "text": "READ COMMITTED" },
+      { "key": "C", "text": "REPEATABLE READ" },
+      { "key": "D", "text": "SERIALIZABLE" }
+    ],
+    "answer": ["C"],
+    "explanation": "按 SQL 标准：READ UNCOMMITTED 三种读异常都可能出现；READ COMMITTED 避免脏读但允许不可重复读；REPEATABLE READ 避免脏读和不可重复读，仍允许幻读；SERIALIZABLE 全部避免。（注意 MySQL InnoDB 的 RR 通过间隙锁与 MVCC 在很大程度上抑制了幻读，但题目问的是标准定义。）",
+    "tags": ["事务", "隔离级别"],
+    "difficulty": "medium",
+    "chapter": "mod-database-sql-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-database-sql-q-9",
+    "slug": "question-9",
+    "type": "single",
+    "stem": "关于 InnoDB 聚簇索引（clustered index），下列说法正确的是？",
+    "options": [
+      { "key": "A", "text": "聚簇索引的叶子节点存放指向数据行的指针，数据行单独存放在堆中" },
+      { "key": "B", "text": "聚簇索引的叶子节点直接存放整行数据，二级索引的叶子存主键值" },
+      { "key": "C", "text": "一张 InnoDB 表可以同时拥有多个聚簇索引" },
+      { "key": "D", "text": "表没有主键时，InnoDB 不会建立聚簇索引" }
+    ],
+    "answer": ["B"],
+    "explanation": "InnoDB 表按聚簇索引组织，叶子节点就是完整数据行；二级索引叶子存主键值，查询非索引列时需要回表。A 描述的是堆表加非聚簇索引（类似 MyISAM）；每张表只能有一个聚簇索引，C 错；无主键时 InnoDB 会选第一个非空唯一索引，再没有就用隐藏的 row_id 构建聚簇索引，D 错。",
+    "tags": ["索引", "InnoDB"],
+    "difficulty": "medium",
+    "chapter": "mod-database-sql-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-database-sql-q-10",
+    "slug": "question-10",
+    "type": "single",
+    "stem": "下列关于 SQL 中 NULL 的说法，正确的是？",
+    "options": [
+      { "key": "A", "text": "NULL = NULL 的比较结果为 TRUE" },
+      { "key": "B", "text": "判断某列是否为空应使用 col IS NULL 而不是 col = NULL" },
+      { "key": "C", "text": "COUNT(col) 会把该列为 NULL 的行也计入" },
+      { "key": "D", "text": "NULL 与任何数值相加结果为 0" }
+    ],
+    "answer": ["B"],
+    "explanation": "SQL 采用三值逻辑，NULL 与任何值（包括 NULL）用 = 比较结果都是 UNKNOWN，因此必须用 IS NULL / IS NOT NULL 判断。COUNT(col) 只统计非 NULL 值（COUNT(*) 才统计所有行）；NULL 参与算术运算结果仍是 NULL，不是 0。",
+    "tags": ["SQL", "NULL"],
+    "difficulty": "easy",
+    "chapter": "mod-database-sql-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-database-sql-q-11",
+    "slug": "question-11",
+    "type": "single",
+    "stem": "要查询每个部门的最高薪资并按部门列出，最合适的 SQL 是？",
+    "options": [
+      { "key": "A", "text": "SELECT dept, MAX(salary) FROM emp GROUP BY dept;" },
+      { "key": "B", "text": "SELECT dept, MAX(salary) FROM emp;" },
+      { "key": "C", "text": "SELECT dept, salary FROM emp WHERE salary = MAX(salary);" },
+      { "key": "D", "text": "SELECT dept, TOP(salary) FROM emp GROUP BY dept;" }
+    ],
+    "answer": ["A"],
+    "explanation": "按部门分组后对每组取 MAX(salary) 即得每部门最高薪资。B 缺少 GROUP BY，标准 SQL 中非聚合列 dept 与聚合函数混用是非法的；C 中 WHERE 子句不允许直接使用聚合函数；D 的 TOP 不是聚合函数，语法不成立。",
+    "tags": ["SQL", "分组聚合"],
+    "difficulty": "easy",
+    "chapter": "mod-database-sql-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-database-sql-q-12",
+    "slug": "question-12",
+    "type": "single",
+    "stem": "在 ER 图向关系模式转换时，一个多对多（M:N）联系通常如何处理？",
+    "options": [
+      { "key": "A", "text": "把联系的属性合并进任意一方实体的关系模式" },
+      { "key": "B", "text": "为该联系单独建立一个关系，主键由双方实体主键组合而成" },
+      { "key": "C", "text": "在两个实体表中互相添加对方主键作为外键即可" },
+      { "key": "D", "text": "M:N 联系无法用关系模型表示，需改用层次模型" }
+    ],
+    "answer": ["B"],
+    "explanation": "M:N 联系必须转换为独立的关系（中间表/连接表），主键为参与双方主键的组合，联系自身的属性也放入该表。1:N 联系才可以把一方主键并入 N 方作外键；选项 C 的做法无法表达多对多且会造成冗余。关系模型完全可以表示 M:N，D 错误。",
+    "tags": ["ER图", "数据库设计"],
+    "difficulty": "medium",
+    "chapter": "mod-database-sql-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-database-sql-q-13",
+    "slug": "question-13",
+    "type": "single",
+    "stem": "EXPLAIN 显示某查询 type 为 ALL、rows 接近全表行数。WHERE 条件为 WHERE DATE(create_time) = '2026-01-01'，且 create_time 上已建索引。最可能的原因是？",
+    "options": [
+      { "key": "A", "text": "索引损坏，需要重建表" },
+      { "key": "B", "text": "对索引列使用了函数 DATE()，导致索引失效而走全表扫描" },
+      { "key": "C", "text": "InnoDB 不支持对时间类型的列建立索引" },
+      { "key": "D", "text": "EXPLAIN 只对 SELECT * 形式的查询生效" }
+    ],
+    "answer": ["B"],
+    "explanation": "对索引列施加函数或运算（DATE(create_time)）会使优化器无法直接利用 B+ 树的有序性，从而放弃索引走全表扫描。改写为范围条件 create_time >= '2026-01-01' AND create_time < '2026-01-02' 即可利用索引。InnoDB 支持时间列索引，C 错；EXPLAIN 适用于各类查询语句，D 错。",
+    "tags": ["索引", "SQL优化"],
+    "difficulty": "hard",
+    "chapter": "mod-database-sql-c-1",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-database-sql-q-14",
+    "slug": "question-14",
+    "type": "single",
+    "stem": "事务 T1 先锁住行 r1 再申请行 r2，事务 T2 先锁住行 r2 再申请行 r1，双方互相等待。数据库系统通常如何处理这种情况？",
+    "options": [
+      { "key": "A", "text": "两个事务永久阻塞，只能重启数据库解除" },
+      { "key": "B", "text": "检测到死锁后选择一个代价较小的事务回滚，另一个继续执行" },
+      { "key": "C", "text": "自动把两个事务合并为一个串行事务执行" },
+      { "key": "D", "text": "同时提交两个事务并忽略锁冲突" }
+    ],
+    "answer": ["B"],
+    "explanation": "这是典型死锁。主流数据库（如 InnoDB）通过等待图检测或锁等待超时发现死锁，选择回滚代价较小的“牺牲者”事务并向其返回死锁错误，被回滚方应由应用层重试。不会永久阻塞到需要重启，也不存在自动合并事务或忽略锁的机制。",
+    "tags": ["事务", "死锁"],
+    "difficulty": "medium",
+    "chapter": "mod-database-sql-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-database-sql-q-15",
+    "slug": "question-15",
+    "type": "multiple",
+    "stem": "以下哪些做法通常有助于提升查询性能？（多选）",
+    "options": [
+      { "key": "A", "text": "为高选择性的常用过滤列建立合适的索引" },
+      { "key": "B", "text": "SELECT 只取需要的列，配合覆盖索引避免回表" },
+      { "key": "C", "text": "在所有列上都建立索引，索引越多越好" },
+      { "key": "D", "text": "把 LIKE '%abc' 这类前缀通配查询改写为可利用索引的形式（如冗余倒序列 + 前缀匹配）" }
+    ],
+    "answer": ["A", "B", "D"],
+    "explanation": "A：索引应建在选择性高、常作过滤条件的列上；B：覆盖索引使查询只扫索引即可返回结果，省去回表；D：LIKE '%abc' 无法使用普通 B+ 树索引，可用冗余倒序列或全文索引等方式改写。C 错误：索引过多会拖慢写入、占用空间，优化器代价评估也更复杂。",
+    "tags": ["索引", "SQL优化"],
+    "difficulty": "medium",
+    "chapter": "mod-database-sql-c-3",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-database-sql-q-16",
+    "slug": "question-16",
+    "type": "multiple",
+    "stem": "关于视图（VIEW），下列说法正确的有？（多选）",
+    "options": [
+      { "key": "A", "text": "普通视图不存储数据本身，查询时按定义展开或临时物化" },
+      { "key": "B", "text": "视图可以隐藏底层表的敏感列，实现一定程度的权限隔离" },
+      { "key": "C", "text": "任何视图都可以直接执行 INSERT / UPDATE 操作" },
+      { "key": "D", "text": "物化视图会保存查询结果，需要考虑刷新策略" }
+    ],
+    "answer": ["A", "B", "D"],
+    "explanation": "普通视图只是保存的查询定义（A 对）；通过只暴露部分列或部分行可实现安全隔离（B 对）；物化视图把结果落盘存储，需定期或增量刷新（D 对）。C 错误：含聚合、DISTINCT、GROUP BY、多表 JOIN 等的复杂视图通常不可更新。",
+    "tags": ["SQL", "视图"],
+    "difficulty": "medium",
+    "chapter": "mod-database-sql-c-1",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-database-sql-q-17",
+    "slug": "question-17",
+    "type": "multiple",
+    "stem": "下列哪些异常属于并发事务可能产生的问题？（多选）",
+    "options": [
+      { "key": "A", "text": "脏读：读到了其他事务尚未提交的数据" },
+      { "key": "B", "text": "不可重复读：同一事务内两次读取同一行得到不同的值" },
+      { "key": "C", "text": "幻读：同一事务内两次执行同一范围查询，返回的行集合不同" },
+      { "key": "D", "text": "外键约束冲突：插入的外键值在父表中不存在" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "脏读、不可重复读、幻读是隔离级别理论中定义的三类并发读异常（此外还有丢失更新等）。D 是完整性约束违规，即使单个事务串行执行也会触发，与并发调度无关。",
+    "tags": ["事务", "并发控制"],
+    "difficulty": "easy",
+    "chapter": "mod-database-sql-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-database-sql-q-18",
+    "slug": "question-18",
+    "type": "multiple",
+    "stem": "关于数据库范式化与反范式化的取舍，下列说法正确的有？（多选）",
+    "options": [
+      { "key": "A", "text": "范式化能减少数据冗余，降低更新异常的风险" },
+      { "key": "B", "text": "高度范式化可能导致查询需要更多 JOIN，读性能下降" },
+      { "key": "C", "text": "反范式化通过适度冗余换取读性能，但要维护冗余数据的一致性" },
+      { "key": "D", "text": "生产系统必须严格达到 BCNF，否则无法通过数据库引擎的建表校验" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "A、B、C 是范式化与反范式化的经典权衡：范式化消除冗余与更新异常，但多表 JOIN 增多；反范式化用冗余换读性能，代价是要同步维护冗余副本。D 错误：范式是设计准则，数据库引擎不会强制校验建表语句是否满足某个范式。",
+    "tags": ["范式", "数据库设计"],
+    "difficulty": "medium",
+    "chapter": "mod-database-sql-c-3",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-database-sql-q-19",
+    "slug": "question-19",
+    "type": "judge",
+    "stem": "判断：TRUNCATE TABLE 与不带 WHERE 的 DELETE FROM 效果完全相同，都可以在事务中逐行回滚，并逐行触发 DELETE 触发器。",
+    "options": [],
+    "answer": ["F"],
+    "explanation": "错误。TRUNCATE 是 DDL 风格的快速清空：直接释放数据页、重置自增计数，不逐行记录删除、不触发行级 DELETE 触发器，在 MySQL 中还会隐式提交、不可回滚。DELETE 是逐行删除的 DML，可回滚、可触发触发器，但清空大表时更慢。",
+    "tags": ["SQL", "DDL与DML"],
+    "difficulty": "medium",
+    "chapter": "mod-database-sql-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-database-sql-q-20",
+    "slug": "question-20",
+    "type": "judge",
+    "stem": "判断：使用参数化查询（预编译语句，如 PreparedStatement 或占位符绑定）是防御 SQL 注入的有效手段。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。参数化查询将 SQL 结构与数据分离，用户输入只作为绑定参数传入，不会被解析成 SQL 语法，从根本上阻断了字符串拼接导致的注入。相比之下，仅靠转义或关键字黑名单过滤容易被各种编码技巧绕过。",
+    "tags": ["SQL注入", "安全"],
+    "difficulty": "easy",
+    "chapter": "mod-database-sql-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-database-sql-q-21",
+    "slug": "question-21",
+    "type": "judge",
+    "stem": "判断：B+ 树索引的所有记录（或其引用）都存放在叶子节点，且叶子节点之间以链表相连，因此非常适合范围查询。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。B+ 树内部节点只存键值用于导航，所有记录集中在叶子层并按序以链表连接。范围查询只需定位起点后沿链表顺序扫描即可。这也是数据库普遍采用 B+ 树而非哈希索引做主索引的重要原因——哈希索引只支持等值查找，不支持范围扫描。",
+    "tags": ["索引", "B+树"],
+    "difficulty": "easy",
+    "chapter": "mod-database-sql-c-3",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-database-sql-q-22",
+    "slug": "question-22",
+    "type": "judge",
+    "stem": "判断：UNION 会对合并结果去重（通常伴随排序或哈希开销），而 UNION ALL 直接拼接并保留重复行，性能更好。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。UNION 隐含 DISTINCT 语义，需要额外的去重步骤；UNION ALL 不去重，直接连接两个结果集，开销更小。当业务上确定无重复或允许重复时，应优先使用 UNION ALL。",
+    "tags": ["SQL", "集合操作"],
+    "difficulty": "easy",
+    "chapter": "mod-database-sql-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-database-sql-q-23",
+    "slug": "question-23",
+    "type": "short",
+    "stem": "MySQL InnoDB 中，保证事务持久性（系统崩溃后已提交数据不丢失）的核心日志机制叫什么？（写出日志名称）",
+    "options": [],
+    "answer": ["redo log|重做日志|redo日志|WAL|预写日志"],
+    "explanation": "InnoDB 采用 WAL（Write-Ahead Logging）思想：事务提交前先把修改顺序写入 redo log（重做日志）并落盘，数据页可以延迟刷盘；崩溃恢复时重放 redo log 即可恢复已提交的修改。与之相对，undo log 负责回滚与 MVCC 旧版本，binlog 是 Server 层的复制/归档日志。",
+    "tags": ["事务", "InnoDB", "日志"],
+    "difficulty": "hard",
+    "chapter": "mod-database-sql-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-database-sql-q-24",
+    "slug": "question-24",
+    "type": "short",
+    "stem": "InnoDB 在不加读锁的情况下，通过为数据保留多个版本、让不同事务读取各自可见的快照来实现读写并发不互斥。这种并发控制技术的英文缩写是什么？",
+    "options": [],
+    "answer": ["MVCC|多版本并发控制|Multi-Version Concurrency Control"],
+    "explanation": "MVCC（Multi-Version Concurrency Control，多版本并发控制）借助 undo log 版本链和 Read View 判定可见性，使快照读不加锁即可读到一致性数据，读写互不阻塞，显著提升并发能力。RC 与 RR 隔离级别的差异在于生成 Read View 的时机不同（每条语句 vs 事务内首次读取）。",
+    "tags": ["事务", "MVCC"],
+    "difficulty": "hard",
+    "chapter": "mod-database-sql-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
   }
 ]

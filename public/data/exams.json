@@ -1,31 +1,63 @@
 [
   {
     "id": "mod-database-sql-exam-1",
-    "slug": "final-exam",
-    "title": "数据库系统与 SQL 核心期末综合自测",
-    "summary": "全面检验您对 数据库系统与 SQL 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "数据库系统与 SQL 基础入门测验",
+    "summary": "覆盖关系模型、基本查询、JOIN 与 NULL 语义等入门考点，检验 SQL 基础是否扎实。",
     "difficulty": "easy",
     "questionIds": [
       "mod-database-sql-q-1",
       "mod-database-sql-q-2",
       "mod-database-sql-q-3",
       "mod-database-sql-q-4",
-      "mod-database-sql-q-5",
-      "mod-database-sql-q-6"
+      "mod-database-sql-q-7",
+      "mod-database-sql-q-10",
+      "mod-database-sql-q-11",
+      "mod-database-sql-q-20",
+      "mod-database-sql-q-22"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-database-sql-exam-2",
-    "slug": "basic-exam",
-    "title": "数据库系统与 SQL 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "数据库系统与 SQL 进阶强化测验",
+    "summary": "聚焦范式设计、索引最左前缀、隔离级别与视图等进阶主题，强化查询优化思维。",
+    "difficulty": "medium",
     "questionIds": [
-      "mod-database-sql-q-1",
-      "mod-database-sql-q-2",
-      "mod-database-sql-q-3"
+      "mod-database-sql-q-5",
+      "mod-database-sql-q-6",
+      "mod-database-sql-q-8",
+      "mod-database-sql-q-9",
+      "mod-database-sql-q-12",
+      "mod-database-sql-q-14",
+      "mod-database-sql-q-15",
+      "mod-database-sql-q-16",
+      "mod-database-sql-q-18",
+      "mod-database-sql-q-19"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-database-sql-exam-3",
+    "slug": "final-exam",
+    "title": "数据库系统与 SQL 综合模拟考试",
+    "summary": "综合事务日志、MVCC、死锁处理与 SQL 优化实战，模拟期末与面试难度。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-database-sql-q-6",
+      "mod-database-sql-q-8",
+      "mod-database-sql-q-9",
+      "mod-database-sql-q-13",
+      "mod-database-sql-q-14",
+      "mod-database-sql-q-15",
+      "mod-database-sql-q-17",
+      "mod-database-sql-q-19",
+      "mod-database-sql-q-21",
+      "mod-database-sql-q-23",
+      "mod-database-sql-q-24"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60
